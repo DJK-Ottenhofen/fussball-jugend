@@ -600,3 +600,8 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
   .footer-grid{ grid-template-columns: 1.4fr 1fr 1fr; }
 }
 
+/* Footer-Legal-Links */
+.footer-legal{ display:flex; gap: var(--space-4); }
+.footer-legal a{ font-weight: var(--fw-bold); }
+.footer-legal a:hover{ text-decoration: underline; }
+
