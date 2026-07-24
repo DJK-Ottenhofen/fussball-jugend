@@ -605,3 +605,8 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .footer-legal a{ font-weight: var(--fw-bold); }
 .footer-legal a:hover{ text-decoration: underline; }
 
+/* Rechtsseiten (Impressum / Datenschutz) */
+.legal-page{ max-width: 70ch; }
+.legal-page h3{ font-size: var(--fs-500); margin: var(--space-6) 0 var(--space-3); }
+.legal-page p{ color: var(--color-grey-700); margin-bottom: var(--space-3); }
+
