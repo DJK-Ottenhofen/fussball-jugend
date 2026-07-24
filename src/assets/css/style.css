@@ -610,3 +610,44 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .legal-page h3{ font-size: var(--fs-500); margin: var(--space-6) 0 var(--space-3); }
 .legal-page p{ color: var(--color-grey-700); margin-bottom: var(--space-3); }
 
+/* =====================================================================
+   COMPONENT: Eltern — Jump-Nav, Accordion, Callout
+   ===================================================================== */
+.parents-note{ font-size: var(--fs-200); color: var(--color-grey-600); font-weight: var(--fw-bold); margin-top: var(--space-3); }
+.trainer-line{ font-size: var(--fs-200); }
+
+.jump-nav{ display:flex; flex-wrap:wrap; gap: var(--space-2); margin-bottom: var(--space-7); }
+
+.accordion{ display:flex; flex-direction:column; gap: var(--space-3); margin: var(--space-6) 0; }
+.accordion-item{
+  border:1px solid var(--color-grey-200); border-radius: var(--radius-md);
+  background: var(--color-white); overflow:hidden;
+  scroll-margin-top: calc(var(--header-h) + 1rem);
+}
+.accordion-item > summary{
+  list-style:none; cursor:pointer;
+  display:flex; align-items:center; justify-content:space-between; gap: var(--space-3);
+  padding: var(--space-4) var(--space-5);
+  font-weight: var(--fw-black); font-size: var(--fs-400);
+}
+.accordion-item > summary::-webkit-details-marker{ display:none; }
+.accordion-item > summary:hover{ background: var(--color-grey-100); }
+.accordion-item[open] > summary{ background: var(--color-grey-100); border-bottom:1px solid var(--color-grey-200); }
+.accordion-chevron{ color: var(--color-grey-600); transition: transform .15s ease; }
+.accordion-item[open] .accordion-chevron{ transform: rotate(90deg); }
+.accordion-body{ padding: var(--space-5); }
+.accordion-body > * + *{ margin-top: var(--space-4); }
+.accordion-body p{ color: var(--color-grey-700); max-width: 65ch; }
+.accordion-body h4{ font-size: var(--fs-400); }
+.accordion-body ul{ list-style: disc; padding-left: 1.25em; display:flex; flex-direction:column; gap:.4rem; }
+.accordion-body li{ color: var(--color-grey-700); }
+.accordion-body .value-list{ list-style:none; padding-left:0; }
+
+.callout{
+  background: var(--color-tint-bg); border:1px solid var(--color-tint-border);
+  border-radius: var(--radius-md); padding: var(--space-5);
+}
+.callout h4{ color: var(--color-tint-ink); margin-bottom: var(--space-3); }
+.callout p{ color: var(--color-grey-700); }
+.callout a{ font-weight: var(--fw-bold); }
+
