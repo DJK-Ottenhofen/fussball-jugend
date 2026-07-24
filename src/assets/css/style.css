@@ -1,3 +1,17 @@
+/* Sen — selbst gehostet (OFL). Ersetzt das Google-Fonts-CDN. */
+@font-face{
+  font-family:"Sen"; font-style:normal; font-weight:400; font-display:swap;
+  src:url("../fonts/sen-400.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Sen"; font-style:normal; font-weight:700; font-display:swap;
+  src:url("../fonts/sen-700.woff2") format("woff2");
+}
+@font-face{
+  font-family:"Sen"; font-style:normal; font-weight:800; font-display:swap;
+  src:url("../fonts/sen-800.woff2") format("woff2");
+}
+
 :root{
   /* -- Brand colors -- */
   --color-yellow:      #FFF300; /* signature color — accent / hero / banners only */
