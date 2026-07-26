@@ -511,7 +511,9 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 /* =====================================================================
    SECTION: Für Eltern
    ===================================================================== */
-.parents-layout{ display:grid; grid-template-columns:1fr; gap: var(--space-8); }
+/* minmax(0,…) statt 1fr: verhindert, dass ein langes Wort (z. B. eine
+   Mail-Adresse) den Grid-Track über die Viewport-Breite hinaus aufzieht. */
+.parents-layout{ display:grid; grid-template-columns: minmax(0,1fr); gap: var(--space-8); }
 .parents-main h3{ font-size: var(--fs-600); margin: var(--space-6) 0 var(--space-4); }
 .parents-main h3:first-child{ margin-top:0; }
 .parents-main p{ color: var(--color-grey-700); max-width: 65ch; }
@@ -542,6 +544,7 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .info-card--tint{ background: var(--color-tint-bg); border-color: var(--color-tint-border); }
 .step-list{ display:flex; flex-direction:column; gap: var(--space-3); margin-bottom: var(--space-5); counter-reset: step; }
 .step-list li{ display:flex; gap:.7rem; font-size: var(--fs-200); font-weight:var(--fw-bold); }
+.step-list li a{ overflow-wrap: anywhere; }
 .step-list li::before{
   counter-increment: step; content: counter(step);
   flex-shrink:0; width:1.6rem; height:1.6rem; border-radius:50%; background: var(--color-ink); color: var(--color-yellow);
@@ -549,7 +552,7 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 }
 
 @media (min-width: 940px){
-  .parents-layout{ grid-template-columns: 1.6fr 1fr; }
+  .parents-layout{ grid-template-columns: minmax(0,1.6fr) minmax(0,1fr); }
 }
 
 /* =====================================================================
@@ -604,6 +607,26 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .footer-legal{ display:flex; gap: var(--space-4); }
 .footer-legal a{ font-weight: var(--fw-bold); }
 .footer-legal a:hover{ text-decoration: underline; }
+
+/* =====================================================================
+   COMPONENT: Mannschafts-Karten (Eltern)
+   ===================================================================== */
+.team-grid{ display:grid; grid-template-columns:1fr; gap: var(--space-4); margin: var(--space-5) 0 var(--space-7); }
+.team-card{
+  background: var(--color-white);
+  border:1px solid var(--color-grey-200); border-left:4px solid var(--color-yellow);
+  border-radius: var(--radius-md); padding: var(--space-5);
+}
+.team-card h4{ font-size: var(--fs-500); margin-bottom: var(--space-3); }
+.team-alias{ font-size: var(--fs-200); font-weight: var(--fw-bold); color: var(--color-grey-600); }
+.team-meta div{ display:flex; justify-content:space-between; gap: var(--space-3); padding: .45rem 0; border-top:1px solid var(--color-grey-200); }
+.team-meta div:first-child{ border-top:0; }
+.team-meta dt{ color: var(--color-grey-600); font-weight: var(--fw-bold); font-size: var(--fs-100); }
+.team-meta dd{ text-align:right; font-weight: var(--fw-bold); font-size: var(--fs-200); overflow-wrap:anywhere; }
+.team-note{ margin-top: var(--space-3); font-size: var(--fs-200); color: var(--color-grey-700); }
+
+@media (min-width: 640px){ .team-grid{ grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1100px){ .team-grid{ grid-template-columns: repeat(3, 1fr); } }
 
 /* Rechtsseiten (Impressum / Datenschutz) */
 .legal-page{ max-width: 70ch; }
