@@ -544,7 +544,6 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .info-card--tint{ background: var(--color-tint-bg); border-color: var(--color-tint-border); }
 .step-list{ display:flex; flex-direction:column; gap: var(--space-3); margin-bottom: var(--space-5); counter-reset: step; }
 .step-list li{ display:flex; gap:.7rem; font-size: var(--fs-200); font-weight:var(--fw-bold); }
-.step-list li a{ overflow-wrap: anywhere; }
 .step-list li::before{
   counter-increment: step; content: counter(step);
   flex-shrink:0; width:1.6rem; height:1.6rem; border-radius:50%; background: var(--color-ink); color: var(--color-yellow);
@@ -619,14 +618,17 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 }
 .team-card h4{ font-size: var(--fs-500); margin-bottom: var(--space-3); }
 .team-alias{ font-size: var(--fs-200); font-weight: var(--fw-bold); color: var(--color-grey-600); }
-.team-meta div{ display:flex; justify-content:space-between; gap: var(--space-3); padding: .45rem 0; border-top:1px solid var(--color-grey-200); }
+/* Label über Wert, beides linksbündig: in schmalen Karten brechen lange
+   Werte (Mail-Adressen, Trainer-Reihen) sonst in rechtsbündige Fetzen. */
+.team-meta div{ padding: .5rem 0; border-top:1px solid var(--color-grey-200); }
 .team-meta div:first-child{ border-top:0; }
-.team-meta dt{ color: var(--color-grey-600); font-weight: var(--fw-bold); font-size: var(--fs-100); }
-.team-meta dd{ text-align:right; font-weight: var(--fw-bold); font-size: var(--fs-200); overflow-wrap:anywhere; }
+.team-meta dt{ color: var(--color-grey-600); font-weight: var(--fw-bold); font-size: var(--fs-100); text-transform:uppercase; letter-spacing:.04em; }
+.team-meta dd{ margin:0; font-weight: var(--fw-bold); font-size: var(--fs-200); overflow-wrap:anywhere; }
 .team-note{ margin-top: var(--space-3); font-size: var(--fs-200); color: var(--color-grey-700); }
 
-@media (min-width: 640px){ .team-grid{ grid-template-columns: repeat(2, 1fr); } }
-@media (min-width: 1100px){ .team-grid{ grid-template-columns: repeat(3, 1fr); } }
+/* Höchstens zwei Spalten – bei drei bleibt pro Karte zu wenig Breite für
+   eine Mail-Adresse. */
+@media (min-width: 640px){ .team-grid{ grid-template-columns: repeat(2, minmax(0,1fr)); } }
 
 /* Rechtsseiten (Impressum / Datenschutz) */
 .legal-page{ max-width: 70ch; }
