@@ -1,0 +1,3 @@
+# GitHub Pages liest src/CNAME zeichengenau - ein CRLF-Zeilenende wuerde die
+# Domain ungueltig machen. Auf Windows-Checkouts LF erzwingen.
+src/CNAME text eol=lf
