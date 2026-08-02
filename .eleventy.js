@@ -3,6 +3,7 @@ const { HtmlBasePlugin } = require("@11ty/eleventy");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(HtmlBasePlugin);
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });
+  eleventyConfig.addPassthroughCopy({ "src/CNAME": "CNAME" });
 
   eleventyConfig.addCollection("uebungen", (api) =>
     api.getFilteredByGlob("src/uebungen/*.md")
@@ -25,7 +26,6 @@ module.exports = function (eleventyConfig) {
   );
 
   return {
-    pathPrefix: "/djk-ottenhofen-jugend/",
     dir: { input: "src", includes: "_includes", data: "_data", output: "_site" },
     markdownTemplateEngine: "njk",
     htmlTemplateEngine: "njk"
