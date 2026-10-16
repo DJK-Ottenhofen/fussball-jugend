@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 220" role="img">
+  <title>Feldskizze Dribbling mit Dribbeltoren: Feld 20 mal 20 Meter mit sechs Hütchentoren, vier Kinder mit Ball, ein Kind dribbelt in Schlangenlinie durch das mittlere Tor</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="220" fill="#2E7D32"/>
+  <!-- Feld 20 x 20 m -->
+  <rect x="0" y="0" width="200" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Dribbeltore, je zwei Hütchen im Abstand 2 m -->
+  <g fill="#F28C28">
+    <polygon points="35,41 39,49 31,49"/><polygon points="55,41 59,49 51,49"/>
+    <polygon points="150,26 154,34 146,34"/><polygon points="150,46 154,54 146,54"/>
+    <polygon points="90,96 94,104 86,104"/><polygon points="110,96 114,104 106,104"/>
+    <polygon points="45,136 49,144 41,144"/><polygon points="45,156 49,164 41,164"/>
+    <polygon points="140,151 144,159 136,159"/><polygon points="160,151 164,159 156,159"/>
+    <polygon points="90,181 94,189 86,189"/><polygon points="110,181 114,189 106,189"/>
+  </g>
+  <!-- Dribbling durch das mittlere Tor -->
+  <path d="M100,126 q6,-8 0,-16 t0,-16 t0,-16 L100,62" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="100" cy="142" r="7"/><circle cx="40" cy="78" r="7"/><circle cx="160" cy="100" r="7"/><circle cx="65" cy="172" r="7"/>
+  </g>
+  <!-- Bälle -->
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="100" cy="131" r="3"/><circle cx="49" cy="83" r="3"/><circle cx="151" cy="106" r="3"/><circle cx="74" cy="168" r="3"/>
+  </g>
+</svg>

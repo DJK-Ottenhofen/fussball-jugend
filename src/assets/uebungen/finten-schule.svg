@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 70" role="img">
+  <title>Feldskizze Finten-Schule: Bahn mit drei Hütchen als Gegner, ein Kind dribbelt links beginnend in einem Bogen an jedem Hütchen vorbei</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="70" fill="#2E7D32"/>
+  <!-- Bahn 20 x 5 m -->
+  <rect x="0" y="0" width="200" height="50" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Start- und Ziellinie -->
+  <line x1="0" y1="0" x2="0" y2="50" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <line x1="200" y1="0" x2="200" y2="50" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchen als Gegner, Abstand 5 m -->
+  <g fill="#F28C28">
+    <polygon points="50,21 54,29 46,29"/><polygon points="100,21 104,29 96,29"/><polygon points="150,21 154,29 146,29"/>
+  </g>
+  <!-- Dribbling mit Bogen um jedes Hütchen -->
+  <path d="M32,25 Q50,0 66,25 L84,25 Q100,50 116,25 L134,25 Q150,0 166,25 L188,25" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Spieler -->
+  <circle cx="12" cy="25" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <!-- Ball -->
+  <circle cx="24" cy="25" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

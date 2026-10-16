@@ -2,73 +2,42 @@
 layout: exercise.njk
 title: "Dribbling mit Dribbeltoren"
 kategorie: technik
-altersgruppen: ["F"]
+altersgruppen: [F]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Zielgerichtetes Dribbling, 1-gegen-1-Ballkontrolle."
-quelle: "advance.football / DFB-Methodik"
-quelleUrl: "https://training.advance.football/pages/uebungen_f-jugend-training"
+ziel: "Mit dem Ball am Fuß Lücken suchen, schnell durch enge Tore dribbeln und dabei den Kopf oben halten."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/dribbling-mit-dribbeltoren.svg"
+bildAlt: "Quadratisches Feld, 20 mal 20 Meter, mit sechs Dribbeltoren aus je zwei Hütchen, verteilt über die Fläche. Vier Kinder stehen mit Ball im Feld. Ein Kind dribbelt in Schlangenlinie von unten durch das Tor in der Mitte nach oben."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 20 × 20 m (oder angepasst an Gruppe)  
-**Spielerzahl:** 6–12 Spieler (ideal 2 Teams à 3–6)  
-**Material:** 8–10 Markierungshütchen (zur Bildung von Dribbeltoren), je 1 Ball pro Spieler, ggf. Leibchen für Teams
-
-**Feldaufbau:**
-- Feld in 2 Hälften teilen (Mittellinie markieren).
-- Pro Hälfte 4–5 „Dribbeltore" aufstellen: jeweils 2 Hütchen im Abstand von ca. 2 m (breiter als Schusstor).
-- Ein „Schusstor" mit Tor oder Markierungszone am Ende jeder Hälfte (für Tor-Abschlüsse optional).
-
----
+- **Spielfeld:** 20 m mal 20 m, die Grenze ist die Linie auf dem Platz
+- **Material:** 12 Hütchen für 6 Dribbeltore (je zwei Hütchen im Abstand von 2 m), für jedes Kind ein Ball, 2 Leibchen
+- **Spieler:** 6 bis 12 Kinder, alle gleichzeitig im Feld. Es gibt keine Warteschlange.
+- **Positionen:** Die Tore stehen verstreut im Feld, mit Abstand zueinander, mal quer, mal längs. Jedes Kind beginnt mit Ball an einem Tor.
+- **Wartende:** Niemand wartet. Wer fertig ist, dribbelt sofort zum nächsten freien Tor.
 
 ## Ablauf
 
-### Grundform: Freies Dribbling (8–10 Min)
-
-- Beide Teams spielen im Feld; alle Spieler haben einen Ball.
-- Ziel: Durch so viele Dribbeltore wie möglich dribbeln und einen Punkt pro Tor machen.
-- Spieler dribbelnd durch ein Tor ihrer Wahl → 1 Punkt. Danach wieder ins Feld.
-- Gleichzeitig können mehrere Spieler verschiedene Tore nutzen.
-- **Provokationsregel:** Spieler müssen **mindestens 3 Ballkontakte** machen, bevor sie ein Tor durchdribbeln dürfen (verhindert „nur durch das Tor sprinten").
-
-### Mit Begrenzungen & Opposition (10–12 Min)
-
-- Zusätzliche Regel: Gegnerische Spieler versuchen, die Dribbeltore zu „blockieren" oder zu verteidigen.
-- Aber: Kein intensiver 1-gegen-1 – eher „im Weg stehen", nicht wirklich tackling.
-- Wenn ein gegnerischer Spieler den Ball berührt, muss der Dribbler zurück ins Feld und neu ansetzen.
-- So: Mehr realistische Spielsituationen, aber immer noch Fokus auf Dribbling.
-
-### Mit Tor-Abschluss (12–15 Min)
-
-- Nach dem Durchdribbeln eines Dribbeltors: Spieler dribbelt schnell zum Schusstor und versucht zu treffen.
-- Volley, Direktschuss oder 1–2 Touches vor dem Abschluss.
-- So: Dribbling + Abschluss in einer Sequenz trainieren.
-
----
+1. Jedes Kind dribbelt durch ein Tor. Danach sucht es sich das nächste Tor.
+2. Pro Tor gibt es einen Punkt. Du zählst im Kopf mit, nach zwei Minuten sagst du deine Zahl.
+3. Ein Tor zählt nur, wenn du den Ball durchführst und nicht durchschiebst.
+4. Nach der ersten Runde kommt eine Regel dazu: Du darfst dasselbe Tor nicht zweimal hintereinander nehmen.
+5. Danach spielen wir Fangen. Zwei Kinder mit Leibchen sind Fänger, sie haben auch einen Ball. Wer abgeschlagen wird, tauscht das Leibchen mit dem Fänger. Nach 2 Minuten ist die Runde zu Ende.
+6. Nach 10 bis 12 Minuten wechseln wir zu einer neuen Aufgabe, etwa Pass und Torschuss.
 
 ## Coaching-Punkte
 
-- **Ball eng führen:** Der Ball muss während des Durchfahrens eng beim Fuß sein – nicht voraus rollen (das zählt nicht als „durchdribbeltes Tor").
-- **Beide Füße nutzen:** Nicht immer mit dem starken Fuß dribbeln – rechts um das eine Hütchen, links um das nächste. Beide Seiten trainieren.
-- **Tempo variieren:** Nicht alle Tore mit gleicher Geschwindigkeit durchfahren – schnelle Tore zählen mehr Punkte (optional: 1 Punkt für langsam, 2 für schnell).
-- **Kopf hoch:** Kurz vor dem Tor hochschauen, wo die nächsten freien Tore sind oder wo Gegner sind.
-
-### Häufige Fehler & Korrektur
-
-- **Fehler:** Spieler „schleichen" den Ball durchs Tor, statt aktiv zu dribbeln (keine echten Berührungen).  
-  **Korrektur:** „Aktive Tritte! Der Ball sollte von deinen Ballkontakten bewegt werden, nicht von allein rollen."
-
-- **Fehler:** Spieler nutzen nur den starken Fuß; schwacher Fuß wird ignoriert.  
-  **Korrektur:** „Nächstes Tor mit rechts dribbeln, dann mit links. Beide Füße sind wichtig!"
-
----
+- **Ball ans Bein:** Spiel ihn mit kurzen Berührungen, so bleibt er auch im engen Tor bei dir.
+- **Schau dich um:** Such dir mit dem Blick schon das nächste freie Tor, bevor du das alte verlässt.
+- **Beide Füße:** Nimm einmal rechts, einmal links, dann kommst du auch vor den Fängern gut weg.
+- **Codewort am Platz:** „Kopf hoch!" Wer nur auf den Ball starrt, rennt in andere Kinder.
+- **Codewort am Platz:** „Anstechen!" Siehst du ein freies Tor, dribbel sofort hinein.
 
 ## Varianten
 
-- **Punkt-Variationen:** Unterschiedliche Tore zählen unterschiedlich viele Punkte. Ein enges Tor (schwieriger) = 2 Punkte, breites = 1 Punkt.
-
-- **Mit Finte:** Vor jedem Dribbel-Tor eine Finte machen (Übersteiger, Sohle-Zug) → höhere technische Anforderung.
-
-- **Team-Modus:** Punkte des Teams addieren; Spieler übergeben Ball nach Tor-Durchdribbling an Teamkollege statt wiederzunehmen. Ballabgabe unter Tempo trainieren.
+- **Leichter:** Du stellst die Hütchen 3 m auseinander, und es gibt keine Fänger.
+- **Schwerer:** Nur der schwache Fuß zählt, oder die Tore stehen nur 1 m auseinander.
+- **Mit Finte:** Vor jedem Tor machst du eine Finte, bevor du hindurchdribbelst.

@@ -5,72 +5,39 @@ kategorie: technik
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Enge Ballführung mit hohem Tempo trainieren und beidfüßiges Dribbeln unter Wettkampfdruck fördern."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Den Ball im Tempo eng am Fuß führen und mit beiden Füßen um Hütchen steuern, auch wenn ein Gegner daneben mitläuft."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/dribbel-slalom-wettkampf.svg"
+bildAlt: "Querformat-Skizze, 20 mal 10 Meter, mit zwei Slalombahnen untereinander. Jede Bahn hat fünf Hütchen in einer Reihe, eine Startlinie links und eine Ziellinie rechts. Je ein Kind dribbelt mitten in der Bahn in Schlangenlinien um die Hütchen, beide laufen nebeneinander auf die Ziellinie zu."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 2 parallele Slalom-Strecken à 20 m Länge (3–4 m breit)  
-**Spielerzahl:** 4–8 Spieler pro Strecke (können sich abwechseln oder zeitgleich fahren)  
-**Material:** 5–6 Markierungshütchen pro Strecke, 1 Ball pro Spieler, 1 Stoppuhr, Markierungslinie für Start/Ziel
-
-**Feldaufbau:**
-- Hütchen in einer geraden Linie aufstellen, Abstände ca. 4 m.
-- Start- und Ziellinie klar markieren.
-
----
+- **Spielfeld:** zwei Bahnen nebeneinander, je 20 m lang und 4 m breit, 2 m Abstand dazwischen. Start links, Ziel rechts.
+- **Material:** 10 Hütchen (je Bahn 5 im Abstand von 4 m, das erste 2 m hinter dem Start), 8 Bälle, 4 Leibchen
+- **Spieler:** 6 bis 8 Kinder, je Bahn ein Team mit 3 bis 4 Kindern. Jedes Kind hat seinen eigenen Ball.
+- **Positionen:** Das erste Kind jeder Bahn steht an der Startlinie. Die anderen stehen dahinter, höchstens drei in einer Reihe.
+- **Wartende:** Wer wartet, spielt den Ball mit der Sohle hin und her. Kommen mehr Kinder, bauen wir eine dritte Bahn auf.
 
 ## Ablauf
 
-### Phase 1: Technik (Grundform, 5–8 Min)
-
-- Jeder Spieler startet mit Ball am ersten Hütchen.
-- Dribbelt im Slalom-Muster um jedes Hütchen herum (links-rechts-links-rechts etc.), Ball eng beim Fuß.
-- Tempo ist moderat; Fokus auf saubere Ballkontrolle und enge Kurven.
-- Nach 2–3 Durchläufen das Tempo steigern, ohne die Kontrolle zu verlieren.
-
-### Phase 2: Mit Zeitmessung (8–10 Min)
-
-- Zwei Spieler starten gleichzeitig an gegenüberliegenden Enden.
-- Spieler A dribbelt von Hütchen 1 zu Hütchen 5 (vorwärts).
-- Spieler B dribbelt von Hütchen 5 zu Hütchen 1 (rückwärts).
-- Sie kreuzen sich in der Mitte – Bremsen und Ballkontrolle sind essentiell.
-- Zeit wird gemessen; Wer braucht weniger Zeit ohne Ballverlust?
-- Rückgabe des Balls an nächsten Spieler.
-
-### Phase 3: Einzelzeitfahren/Wettkampf (10–12 Min)
-
-- Alle Spieler bilden eine Warteschlange am Start.
-- Jeder fährt nacheinander die Strecke – Stoppzeit vom Start bis ins Ziel.
-- Regel: Ballverlust = Disqualifikation der Runde (Fehler sind teuer).
-- Wer die schnellste Zeit ohne Fehler fährt, gewinnt.
-- 2–3 Versuche pro Spieler; Bestzeit zählt.
-
----
+1. Ein Kind pro Bahn dribbelt im Slalom um alle fünf Hütchen, zuerst langsam.
+2. Nach dem Ziel nimmt es den Ball in die Hand und läuft außen zurück.
+3. Es stellt sich hinten an. Das nächste Kind startet, sobald das Kind davor das dritte Hütchen hinter sich hat.
+4. Nach drei Läufen jagen sich zwei Kinder: Beide starten gleichzeitig, eins in jeder Bahn. Wer zuerst im Ziel ist, holt einen Punkt für sein Team.
+5. Wer ein Hütchen umwirft oder den Ball verliert, geht zurück zum Start und beginnt neu.
+6. Nach 10 bis 12 Minuten gewinnt das Team mit den meisten Punkten. Dann tauschen die Teams die Bahnen.
 
 ## Coaching-Punkte
 
-- **Ballkontakt:** Der Ball sollte eng beim Fuß bleiben – nicht mehr als 1–1,5 m vor dem Körper. „Ball ist dein Freund" – halte ihn nah!
-- **Schrittlänge:** Kurze, schnelle Dribbel-Schritte um die Hütchen, dann wieder schneller sprinten – Rhythmuswechsel ist wichtig.
-- **Beidfüßigkeit:** Nicht immer mit dem starken Fuß dribbeln; im Slalom beide Seiten trainieren – rechts um ein Hütchen, links um das nächste.
-- **Blick:** Trotz hohem Tempo nicht nur auf den Ball schauen – Strecke überblicken, wissen, wo das nächste Hütchen ist.
-
-### Häufige Fehler & Korrektur
-
-- **Fehler:** Ball rollt zu weit voraus; Spieler verliert Kontrolle.  
-  **Korrektur:** „Kleinere Berührungen! Der Ball hüpft nicht – du tippst ihn mehrmals an."
-
-- **Fehler:** Spieler laufen zu schnell um die Hütchen und „schneiden" den Weg ab, statt richtig zu dribbeln.  
-  **Korrektur:** „Erst kontrollieren, dann beschleunigen. Die Kurve ist nicht straight – fahre echten Slalom!"
-
----
+- **Ball kleben lassen:** Viele kleine Berührungen, der Ball bleibt in Reichweite deines Fußes.
+- **Kurve mit dem Außenfuß:** Wer um das Hütchen herum den Außenrist nimmt, bleibt schnell und behält den Ball.
+- **Beide Füße:** Wechsle bei jedem Hütchen den Fuß, sonst wirst du ausrechenbar.
+- **Codewort am Platz:** „Kopf hoch!" Schau zwischen den Berührungen kurz auf, wo das nächste Hütchen steht.
+- **Danach Gas geben:** Nach dem letzten Hütchen darfst du den Ball nach vorne treiben, aber erst dann.
 
 ## Varianten
 
-- **Unterschiedliche Abstände:** Hütchen näher zusammen (2,5 m) für Fortgeschrittene, weiter auseinander (5 m) für Anfänger.
-- **Mit Gegnerin parallel:** Zwei Spieler fahren gleichzeitig nebeneinander – leichte Ablenkungskomponente, motivierend.
-- **Finte vor jedem Hütchen:** Vor dem Hütchen eine Finte machen (Übersteiger, Sohle-Zug), dann Slalom weiter – Koordination + Tempo.
-- **Staffel-Slalom:** Teams bilden (je 2–3 Spieler); jeder dribbelt die Strecke, dann Pass zum nächsten am Ziel. Gesamtzeit oder Staffel-Platz zählt.
-
+- **Leichter:** Du baust nur 4 Hütchen im Abstand von 5 m auf, und es gibt keine Wertung.
+- **Schwerer:** Nur der schwache Fuß darf den Ball berühren, oder du rufst während des Laufs eine Farbe und das Kind muss das gleichfarbige Leibchen berühren.
+- **Mit Teamzeit:** Du stoppst jedes Kind einzeln. Das Team mit der kleinsten Summe aller Zeiten gewinnt, jeder Ballverlust gibt 3 Sekunden dazu.
