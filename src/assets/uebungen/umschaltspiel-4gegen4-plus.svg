@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 370 270" role="img">
+  <title>Feldskizze Umschaltspiel 4-gegen-4 plus Anspieler: Feld 35 mal 25 Meter, an jeder Stirnseite zwei Minitore, vier gelbe und vier schwarze Spieler, zwei neutrale Spieler an den Längsseiten, ein gelber Spieler passt zum neutralen Spieler oben, ein zweiter gelber startet nach vorne</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="370" height="270" fill="#2E7D32"/>
+  <!-- Feld 35 x 25 m -->
+  <rect x="0" y="0" width="350" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Mittellinie -->
+  <line x1="175" y1="0" x2="175" y2="250" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchen: Ecken und Mittellinie -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="350,-4 354,4 346,4"/>
+    <polygon points="0,246 4,254 -4,254"/><polygon points="350,246 354,254 346,254"/>
+    <polygon points="175,-4 179,4 171,4"/><polygon points="175,246 179,254 171,254"/>
+  </g>
+  <!-- Minitore, je zwei pro Stirnseite -->
+  <g fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2">
+    <rect x="-4" y="55" width="4" height="20"/><rect x="-4" y="175" width="4" height="20"/>
+    <rect x="350" y="55" width="4" height="20"/><rect x="350" y="175" width="4" height="20"/>
+  </g>
+  <!-- Wege -->
+  <path d="M104,122 L150,10" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M184,86 Q226,70 262,62" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Neutrale Spieler -->
+  <g fill="#FFF300" stroke="#fff" stroke-width="1.5">
+    <circle cx="156" cy="0" r="7"/><circle cx="210" cy="250" r="7"/>
+  </g>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="214" cy="104" r="7"/><circle cx="244" cy="176" r="7"/><circle cx="196" cy="42" r="7"/><circle cx="290" cy="124" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="98" cy="134" r="7"/><circle cx="174" cy="86" r="7"/><circle cx="140" cy="192" r="7"/><circle cx="60" cy="70" r="7"/>
+  </g>
+  <!-- Ball -->
+  <circle cx="108" cy="140" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

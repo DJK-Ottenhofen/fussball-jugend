@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 140 140" role="img">
+  <title>Feldskizze Rondo 6-gegen-2: Quadrat 12 mal 12 Meter, sechs gelbe Außenspieler, zwei schwarze Verteidiger im Inneren, ein flacher Pass von Spieler 1 zu Spieler 5 an der linken Seite entlang</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="140" height="140" fill="#2E7D32"/>
+  <!-- Feld 12 x 12 m -->
+  <rect x="0" y="0" width="120" height="120" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="120,-4 124,4 116,4"/>
+    <polygon points="0,116 4,124 -4,124"/><polygon points="120,116 124,124 116,124"/>
+  </g>
+  <!-- Wege -->
+  <path d="M30,18 L30,100" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M60,60 L50,78" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Verteidiger -->
+  <circle cx="64" cy="54" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="82" cy="72" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Außenspieler mit Nummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="30" cy="8" r="7"/><circle cx="92" cy="8" r="7"/><circle cx="112" cy="62" r="7"/>
+    <circle cx="92" cy="112" r="7"/><circle cx="30" cy="112" r="7"/><circle cx="8" cy="60" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="30" y="11.2">1</text><text x="92" y="11.2">2</text><text x="112" y="65.2">3</text>
+    <text x="92" y="115.2">4</text><text x="30" y="115.2">5</text><text x="8" y="63.2">6</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="38" cy="16" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

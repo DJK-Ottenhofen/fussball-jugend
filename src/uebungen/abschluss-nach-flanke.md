@@ -5,47 +5,40 @@ kategorie: technik
 altersgruppen: [C, B, A]
 spielstaerke: fortgeschritten
 phase: hauptteil
-ziel: "Timing von Flankenläufen und Torabschluss per Kopf, Volley oder direktem Kontakt im Strafraum trainieren."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Den Einlauf in den Strafraum an der Flugbahn der Flanke ausrichten und den ersten Ball konsequent aufs Tor bringen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/abschluss-nach-flanke.svg"
+bildAlt: "Hochkant-Ausschnitt von 30 mal 40 Metern, oben das große Tor mit Torhüter und ein markierter Strafraum. Ein Flügelspieler rechts unten schlägt einen Flugball im Bogen vor das Tor. Zwei Angreifer starten an der Strafraumkante, einer läuft zum nahen Pfosten, der andere in den Rückraum."
 ---
 
 ## Aufbau
 
-- **Spielfeld:** Strafraum (40 × 16 m) mit Volltor und Torwart
-- **Spielergruppen:** 
-  - 3–4 Flanker (je Seite 1–2)
-  - 3–4 Stürmer
-  - 1 Torwart
-- **Material:** 12–15 Fußbälle bei den Flankern
-- **Feldaufbau:** Zwei Flanker postieren sich an den Außenlinien (ca. auf Höhe der Seitenlinie des Strafraums), mit Ballreserve. Die Stürmer nehmen unterschiedliche Startpositionen ein: einer am kurzen Pfosten (ca. 6 m), einer am langen Pfosten (ca. 12 m), einer auf dem Elfmeterpunkt (11 m). Markierungen mit Hütchen helfen bei der Positionierung.
+- **Spielfeld:** Ausschnitt eines Großfelds, 30 m breit und 40 m lang, oben ein großes Tor mit Torhüter
+- **Strafraum:** 22 × 13 m mit Hütchen an den unteren Ecken markiert
+- **Material:** 2 Hütchen, 12 Bälle in einem Korb am Flügel, ein Tor
+- **Spieler:** ein Torhüter, ein Flankengeber am Flügel, zwei Angreifer in der Mitte, die übrigen warten hinter dem Flügel und in der Mitte
+- **Positionen:** Der Flankengeber steht rechts etwa 20 m vom Tor, ein Angreifer steht zentral an der Strafraumkante, der zweite etwa 4 m versetzt dahinter.
 
 ## Ablauf
 
-1. **Start:** Der Flanker auf der einen Seite hat einen Ball und steht ca. 3–5 m von der Außenlinie entfernt mit leichtem Anspiel-Tempo bereit.
-2. **Flanke:** Der Flanker nimmt zwei schnelle Schritte an und schlägt die Flanke in den Strafraum. Wichtig: Höhe variieren – eine flache Flanke (ca. 1 m Höhe), dann halbhoch (ca. 2 m), dann hoch (über 2 m). Der Ball sollte **vor die Stürmer** gespielt werden, nicht auf sie.
-3. **Stürmerlauf:** Die Stürmer starten versetzt und gezielt zu dem Raum, wo die Flanke landen wird. Sie beobachten den Flanker und starten ca. 1–2 Sekunden VOR dem Flankenmoment – nicht zu früh (Bewegung stoppt), nicht zu spät (keine Zeit mehr für Aktion).
-4. **Abschluss:** 
-   - **Kopfball:** Mit Stirn treffen, Nacken angespannt, Augen auf dem Ball, aktiv zum Ball gehen (nicht warten).
-   - **Volley:** Fußspitze zeigt nach unten, Beinschwung kommt aus der Hüfte, Körperspannung halten.
-   - **Direkter Schuss:** Wenn die Flanke auf Schusshöhe kommt, sofort mit Innenseite oder Spann abschließen.
-5. **Rotation:** Nach der Aktion gehen die Stürmer zur Ersatzbank oder zur Flanker-Seite. Der nächste Flanker übernimmt auf der anderen Seite. Nach 8–10 Wiederholungen pro Seite wechseln: Flanker werden Stürmer, Stürmer gehen auf die Flanker-Position.
-6. **Tempo:** Ununterbrochen ca. 10–15 Minuten, dann Pause.
+1. Der Flankengeber führt den Ball einige Schritte am Flügel entlang und schlägt dann einen Flugball vor das Tor.
+2. Die beiden Angreifer starten erst, wenn der Flankengeber den Ball führt, und laufen in verschiedene Räume ein, einer zum nahen Pfosten, einer in den Rückraum.
+3. Wer den Ball erreicht, schließt direkt ab. Der zweite Angreifer wartet auf den Abpraller oder schließt eine Hereingabe nach.
+4. Der Torhüter spielt wie im Spiel und versucht, jede Flanke abzufangen oder zu klären.
+5. Nach jeweils fünf Flanken tauschen Flankengeber, Angreifer und Torhüter ihre Rollen, die Wartenden rücken nach.
+6. Nach zehn Minuten wechselt die Flankenseite, die Flanke kommt dann von links.
 
 ## Coaching-Punkte
 
-- **Timing des Laufwegs:** „Schaut auf den Flanker – startet, wenn er den Ball hochnimmt." Der Laufweg muss mit der Flankengeschwindigkeit synchron sein, sonst vorbei am Ball.
-- **Unterschiedliche Laufwege:** „Einer kurz, einer lang, einer mittig – nicht alle auf einen Punkt." Fordert drei unterschiedliche Routen ein.
-- **Kopfball-Technik:** „Stirn trifft den Ball" – zeige selbst wie, Stirn auf dem Ball, nicht Hinterkopf. „Aktiv raus, nicht passiv warten."
-- **Augen auf dem Ball:** Auch beim Kopfball bis zum Kontakt hinschauen.
-- **Flanker-Blick:** „Erst passt ihr die Flanke, dann schaut ihr, wo der Spieler läuft." Viele Flanker werfen blind in Richtung Tor statt in den freien Raum.
-- **Häufige Fehler:**
-  - *Zu früh starten:* Der Stürmer ist schon im Strafraum, wenn die Flanke kommt – zu spät für den Abschluss. *Korrektur:* „Wartet auf den Ball, startet mit ihm, nicht davor."
-  - *Passiver Kopfball:* Kopf in den Ball statt Ball zum Kopf. *Korrektur:* Nackenmuskulatur anspannen, Stirn aktivieren, Kopf beschleunigt zum Ball hin.
+- **Timing statt Tempo:** Wer zu früh startet, steht im Strafraum und wartet. Wer in der Mitte ankommt, wenn der Ball fällt, springt höher.
+- **Flanke vor das Tor:** Der Ball fällt vor den Torwart, weg vom Tor, aber nicht ins Aus.
+- **Räume besetzen:** Die Angreifer laufen sich nicht in die Quere. Der eine geht zum nahen Pfosten, der andere bleibt als Rückraumoption flexibel.
+- **Codewort am Platz:** Wer den Einlauf zu zaghaft startet, hört „Gefährlich werden!“ und sucht die Lücke vor dem Tor.
+- **Schnell abschließen:** Ohne Stoppen, mit nur einem Kontakt. Wer den Ball erst annimmt, gibt dem Torhüter Zeit.
 
 ## Varianten
 
-- **Nach Dribbling flanken:** Der Flanker dribbelt erst 2–3 m die Außenbahn hinauf, dann flankt. Realistischer, schwerer.
-- **Mit passivem Abwehr-Spieler:** Ein Verteidiger (nicht aktiv, nur als Orientierung) steht im Strafraum – Stürmer müssen sich orientieren, Flanker zielt gezielt.
-- **Verschiedene Startpositionen:** Nicht immer die gleichen Positionen – Stürmer wechseln zwischen kurz/lang/Mitte, um Flexibilität zu trainieren.
-- **Mit Torhüter aktiv:** Torhüter kommt aus dem Tor und versucht zu klären oder abzufangen – Stürmer müssen schneller abschließen.
+- **Leichter:** Der Flankengeber spielt eine flache Hereingabe, oder die Angreifer laufen ohne Verteidiger ein.
+- **Schwerer:** Ein Verteidiger deckt einen Angreifer, oder die Flanke kommt direkt nach einem Doppelpass.
+- **Mit Nachschuss:** Nach einem Abpraller wird weitergespielt, bis der Ball im Tor oder gesichert ist.
+- **Mit Wettkampf:** Zwei Gruppen im Wechsel, welche in zehn Flanken die meisten Tore schießt.
