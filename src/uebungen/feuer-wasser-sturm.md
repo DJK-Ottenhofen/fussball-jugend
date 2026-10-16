@@ -29,11 +29,11 @@ bildAlt: "Querfeld 30 mal 20 Meter, in jeder Ecke ein Hütchen. Sieben gelbe Kin
 
 ## Coaching-Punkte
 
-- **Kern in drei Wörtern:** Hören, reagieren, weiter. Das Tempo bestimmt der Trainer mit seiner Stimme.
-- **Aufpassen:** Du schaust vor dem Losrennen, wo die anderen sind. So gibt es keine Zusammenstöße.
-- **Laut und deutlich:** Ruf das Kommando kurz und mit Pausen dazwischen, damit alle zuhören können.
-- **Wer unsicher ist:** Kinder, die nicht wissen, was zu tun ist, schauen bei einem Nachbarn ab. Niemand scheidet aus, alle spielen die ganze Zeit mit.
-- **Eigene Kommandos:** Die Kinder dürfen sich neue Wörter ausdenken, etwa „Blitz“ für Zickzack laufen.
+- **Kern in drei Wörtern:** „Hör hin, mach mit, lauf weiter!“
+- **Aufpassen:** „Schau erst, wo die anderen sind, dann renn los!“
+- **Zuhören:** „Spitz die Ohren, gleich kommt das nächste Wort!“
+- **Wer unsicher ist:** „Schau dir's bei deinem Nachbarn ab, du bleibst dabei!“
+- **Eigene Kommandos:** „Denk dir ein neues Wort aus!“ Zum Beispiel „Blitz“ für Zickzack laufen.
 
 ## Varianten
 

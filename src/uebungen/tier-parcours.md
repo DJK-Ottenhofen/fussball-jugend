@@ -29,10 +29,10 @@ bildAlt: "Rundkurs, 20 mal 15 Meter, mit fünf orangen Hütchen als Slalom, drei
 
 ## Coaching-Punkte
 
-- **Alle sind unterwegs:** Es wartet keiner. Wer die Gasse geschafft hat, startet sofort die nächste Runde.
-- **Tier spielen:** Sprich und mach mit, dann zeigen die Kinder die Bewegung ganz von selbst.
-- **Abstand halten:** Zwischen zwei Kindern bleibt immer ein Hütchen Platz.
-- **Loben:** Sag, was dir gefällt, zum Beispiel einen tollen Froschsprung.
+- **Alle sind unterwegs:** „Du wartest nicht, lauf gleich die nächste Runde!“
+- **Tier spielen:** „Sei die Schlange! Zisch dabei!“
+- **Abstand halten:** „Lass ein Hütchen Platz zu deinem Vordermann!“
+- **Loben:** „Toller Froschsprung!“ Das ruft der Trainer, damit sich jedes Kind gesehen fühlt.
 
 ## Varianten
 

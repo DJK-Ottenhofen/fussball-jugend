@@ -15,7 +15,7 @@ bildAlt: "Hochkant-Feld mit einem großen Tor und Torhüter oben. Unten an der G
 
 - **Spielfeld:** 20 m breit, 25 m lang, hochkant. Ein großes Tor (5 m) mit Torhüter an der oberen Stirnseite.
 - **Konter-Tore:** zwei Minitore aus je zwei Hütchen (2 m breit) an der unteren Grundlinie, links und rechts versetzt
-- **Material:** 8 Hütchen, Leibchen in zwei Farben, mehrere Bälle im Tor und am Start
+- **Material:** 4 Hütchen, Leibchen in zwei Farben, mehrere Bälle im Tor und am Start
 - **Spieler:** drei Angreifer, zwei Verteidiger, ein Torhüter. Weitere Kinder warten in Dreiergruppen hinter der unteren Grundlinie.
 - **Positionen:** Angreifer verteilt im unteren Drittel, Verteidiger etwa 8 m vor dem großen Tor
 

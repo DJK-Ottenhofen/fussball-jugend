@@ -8,7 +8,7 @@ phase: aufwaermen
 ziel: "Einen Ball im Lauf annehmen und sofort aufs Tor schießen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/sofort-torschuss.svg"
-bildAlt: "Hochkant-Feld mit einem Tor und einem Torhüter oben. Sieben Meter vor dem Tor markieren zwei Hütchen eine Schusslinie. Unten steht der Trainer mit seinen Bällen. Links und rechts warten zwei Reihen von Kindern, die wartenden Kinder jeweils mit Ball. Ein Kind läuft los, der Trainer passt ihm den Ball in den Lauf."
+bildAlt: "Hochkant-Feld mit einem Tor und Torhüter oben, sieben Meter davor markieren zwei Hütchen eine Schusslinie. Unten steht der Trainer mit seinen Bällen, links und rechts warten zwei Reihen von Kindern, jedes mit Ball. Ein Kind läuft los, der Trainer passt ihm den Ball in den Lauf."
 ---
 
 ## Aufbau

@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Nach einem Abstoß flach und sicher aufbauen und gemeinsam in Überzahl nach vorne spielen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/abstoss-aufbau.svg"
-bildAlt: "Querformat-Feld, links ein großes Tor mit Torhüter, rechts zwei Minitore. Zwei gelbe Außenkinder stehen an den Seitenlinien, ein Mittelkind steht links vom Ball nahe dem Tor. Der Torhüter spielt flach zum oberen Außenkind, das Mittelkind läuft sich frei. Der Torhüter ist gelb mit dickem Rand und gehört zu den Angreifern. Zwei schwarze Verteidiger warten in der Feldmitte."
+bildAlt: "Querformat-Feld, links ein großes Tor mit gelbem Torhüter (dicker Rand), rechts zwei Minitore. Zwei gelbe Außenkinder stehen an den Seitenlinien, ein Mittelkind links vom Ball nahe dem Tor. Der Torhüter spielt flach zum oberen Außenkind, das Mittelkind läuft sich frei. Zwei schwarze Verteidiger warten in der Feldmitte."
 ---
 
 ## Aufbau
