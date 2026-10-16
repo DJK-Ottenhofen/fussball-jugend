@@ -4,6 +4,10 @@ title: "F-Jugend · 1-gegen-1 1"
 altersgruppen: [F]
 dauer: 75
 schwerpunkt: "1-gegen-1 / Torschuss"
+prinzip: "Ich suche und gewinne lohnende 1-gegen-1-Situationen."
+methode: "Tempo- und Richtungswechsel"
+codewort: "Drinbleiben"
+keyEvent: "Du überwindest _ Mal deinen direkten Gegenspieler im 1v1 am Ball."
 phasen:
   - name: "Aufwärmen"
     minuten: 18

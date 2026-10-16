@@ -4,6 +4,9 @@ title: "F-Jugend · Torschuss 1"
 altersgruppen: [F]
 dauer: 75
 schwerpunkt: "Torschuss / Abschluss"
+prinzip: "Ich erkenne und nutze lohnende Abschlussmöglichkeiten."
+methode: "Genauigkeit vor Stärke"
+keyEvent: "Du kommst _ Mal nach einem gewonnenen 1v1 zum Abschluss."
 phasen:
   - name: "Aufwärmen"
     minuten: 18
