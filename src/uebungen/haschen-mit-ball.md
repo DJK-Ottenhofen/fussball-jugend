@@ -5,113 +5,39 @@ kategorie: koordination
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Ballführung unter Druck trainieren: Jedes Kind dribbelt bei hohem Tempo und muss Kopf hoch halten."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Den Ball im Dribbling eng am Fuß halten, den Kopf heben und dem Fänger ausweichen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/haschen-mit-ball.svg"
+bildAlt: "Rechteckfeld 30 mal 25 Meter mit vier Hütchen in den Ecken. Sechs gelbe Läufer und zwei Fänger mit gelbem Ring bewegen sich mit je einem Ball im Feld. Ein Fänger dribbelt in einer Wellenlinie auf einen Läufer zu, der in einem Bogen nach rechts ausweicht."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 30 × 25 Meter (Rechteck oder Raute möglich)
-
-**Spielerzahl:** 10–18 Kinder pro Gruppe
-
-**Material:**
-- 10–18 Fußbälle (einer pro Kind – sehr wichtig!)
-- 2–3 Leibchen (um Fänger zu kennzeichnen, optional aber hilfreich)
-- Markierungshütchen zum Feld abgrenzen
-
-**Vorbereitung:** Feld deutlich mit Hütchen abgrenzen. Ausreichend Platz um das Feld, damit keine Verletzungsgefahr durch Gegenstände. Alle Bälle kontrollieren (keine defekten).
+- **Spielfeld:** 30 × 25 m, vier Hütchen markieren die Ecken
+- **Material:** 1 Ball pro Kind, 2 Leibchen für die Fänger, 4 Hütchen
+- **Spieler:** 10 bis 16 Kinder, davon 2 Fänger. Ab 16 Kindern zwei Felder.
+- **Positionen:** Alle stehen mit Ball verteilt im Feld, die Fänger tragen ein Leibchen.
 
 ## Ablauf
 
-**Startsituation (wichtig – klar erklären!):**
-1. Alle 10–18 Kinder haben einen Ball am Fuß im Feld.
-2. 2–3 Kinder werden zu Fängern ernannt (Trainer tippt sie an oder Freiwillige). **Fänger haben keinen Ball.**
-3. Restliche Kinder sind Dribbler und haben je einen Ball.
-
-**Spiel-Phase (ca. 3–5 Minuten pro Runde):**
-1. Fänger versuchen sofort, einen der Dribbler zu ticken (antippen an Schulter, Rücken oder Arm).
-2. Wenn ein Dribbler getickt wird:
-   - Dieser wird neuer Fänger und bekommt eine Leibchen (falls vorhanden).
-   - Der getickte Dribbler muss seinen Ball stehen/liegen lassen.
-   - Der bisherige Fänger übernimmt den Ball des GeTickten und dribbelt jetzt selbst weiter.
-3. Spiel läuft kontinuierlich – nach jedem Ticken rollen die Rollen sofort um.
-4. Das Spiel läuft 3–5 Minuten pro Runde, dann Pfiff und Stopp.
-
-**Feldgrenzen-Regel (wichtig!):**
-- Kein Kind darf das Feld verlassen. Wer absichtlich rausfährt oder rausläuft, wird automatisch Fänger (ohne getickt zu werden).
-- Das verhindert, dass Dribbler einfach weglaufen statt zu spielen.
-
-**Pausen und Wechsel:**
-- Nach 3–5 Minuten: Pfiff, alle stehen lassen, kurze Verschnaufpause (30–60 Sekunden).
-- Kinder können trinken, Trainer fasst kurz zusammen: „Gut durchgedribbelt, viele schauten nach oben!" oder „Nächste Runde: noch schneller Richtungswechsel!"
-- Dann neue Runde mit neuen oder gleichen Fängern starten.
-
-**Spiel-Dauer:**
-- 2–3 Runden à 3–5 Minuten (insgesamt 10–15 Minuten).
-- Nicht länger spielen – Kinder werden danach müde und Qualität sinkt.
+1. Jedes Kind führt seinen Ball im Feld, auch die Fänger.
+2. Auf Pfiff versuchen die Fänger, ein Kind mit der Hand an der Schulter zu berühren. Der eigene Ball bleibt dabei am Fuß.
+3. Wer berührt wird, tauscht sofort das Leibchen mit dem Fänger und ist neuer Fänger.
+4. Schießt ein Kind den Ball aus dem Feld, holt es ihn und macht zehn Sohlenzieher, dann spielt es weiter.
+5. Nach drei Minuten gibt es eine Pause mit Trinken. Danach werden neue Fänger gewählt.
+6. Nach spätestens zehn Minuten wechselt die Aufgabe, zum Beispiel zu einer Ballschule mit Finten.
 
 ## Coaching-Punkte
 
-**Haupt-Trainingsziel: Kopf oben!**
-- Das ist das Wichtigste. Dribbeln ohne konstant auf den Ball zu schauen.
-- Warum? Wenn der Ballführer nur auf den Ball schaut, sieht er nicht, wo die Fänger sind → Fänger erwischen ihn leichter.
-- Cue: „Schau auf den Ball, dann nach oben, Ball, dann oben." Blick sollte alle 2–3 Sekunden nach oben gehen.
-
-**Ballkontrolle unter Druck:**
-- Kern-Kompetenz: Unter Zeitdruck und Stress den Ball nicht verlieren.
-- Kleine Schritte, Ball nah beim Fuß (1–2 Schuhspitzen Abstand). Nicht dribbeln wie in Vollgas-Sprint, sondern kontrolliert mit Explosivität.
-
-**Schnelligkeit und Richtungswechsel:**
-- Fänger zwingen zu schnellen Richtungswechseln. Das trainiert Wendigkeit, Reaktion und Agilität.
-- Gutes Coaching: „Wenn der Fänger kommt, schnell 90° drehen, nicht einfach geradeaus laufen!"
-
-**Fairness und Sicherheit:**
-- Ticken ist freundlich und leicht. Kein aggressives Tackling, kein Stoßen, kein Schieben.
-- Bei zu rauhem Spielen: kurz unterbrechen, erklären, weitermachen.
-
-**Einsatz-Gleichgewicht wichtig:**
-- Nicht immer die gleichen Kinder als Fänger. Starke Dribbler auch mal zum Fänger machen, damit auch sie unter Druck fahren müssen.
-- Schwächere Dribbler öfter Fänger werden lassen (kostet weniger Ausdauer, mehr Reaktion).
-
-**Belastung achten:**
-- Spiel ist intensiv (ähnlich wie Laufsprint). Nach 3–5 Min Pause geben.
-- Insgesamt nicht länger als 15 Minuten am Stück spielen – danach Qualität sinkt, Ermüdung zu groß.
-
-**Motivation und Feedback:**
-- Loben von Reaktion und Ballkontrolle, nicht nur von erfolgreichen Spielverlauf.
-- „Schöne Richtungswechsel!" oder „Guter Ballkontakt unter Druck!"
+- **Kopf hoch:** Schau zuerst nach dem Fänger, dann nach dem Ball. Alle zwei bis drei Schritte ein Blick nach oben.
+- **Ball nah am Fuß:** Kleine Berührungen, der Ball bleibt in Reichweite. Wer rennt und den Ball verliert, ist leichter zu fangen.
+- **Richtung wechseln:** Kommt der Fänger, dreh ab. Wer geradeaus läuft, wird schnell gefangen.
+- **Codewort am Platz:** Rufe „Kopf hoch!“ und halte dazu die Hand über die Augen.
+- **Fänger fair:** Berühre leicht mit der Hand, nicht schubsen. Wer zu fest anfasst, tauscht kurz die Rolle.
 
 ## Varianten
 
-- **Zwei-Fänger-Team-Mode:** 2 Fänger arbeiten zusammen und versuchen, Dribbler einzuengen. Ein Fänger mit Ball (dribbelt), einer ohne (tastet ab). Schwieriger für Dribbler, aber auch taktischer.
-
-- **Zone-Variante:** Feld in 3–4 Zonen teilen (mit Hütchen oder Linien). Kinder dürfen nur in ihrer Zone dribbeln. Mehr Enge, strengere Ballkontrolle nötig. Fänger können Zonen-Grenzen nicht verlassen – trainiert räumliches Spiel.
-
-- **Leibchen-Tausch:** Fänger tragen Leibchen/Weste. Wer getickt wird, zieht Leibchen an → schnell zu erkennen, wer dran ist. Macht Spiel übersichtlicher für Trainer und schneller.
-
-- **„Topp & Flop"-Variante:** Statt normales Ticken:
-  - „Topp" (antippen auf den Kopf) → Kind muss hüpfen oder Kopfball machen.
-  - „Flop" (antippen auf die Seite) → Kind muss schnell sich drehen oder auf der Stelle rückwärts laufen.
-  - Macht Spiel variabler und lustig.
-
-- **„Letzter König"-Modus:** Nach jeder Runde, wenn nur noch 2 Spieler übrig sind (alle anderen wurden getickt):
-  - Diese zwei spielen 1-gegen-1 mit ihren Bällen.
-  - Wer zuerst den anderen tickt, ist der „König der Runde" und spielt in der nächsten Runde nicht als Fänger.
-
-- **Mit Musik:** Musik läuft während des Spiels. Stopp der Musik = Fängerwechsel oder Regel-Änderung. Macht es rhythmischer.
-
-- **Nur mit linkem/rechtem Fuß:** Für Training der schwachen Seite. Alle müssen mit rechts dribbeln (auch Fänger, wenn mit Ball). Trainiert Ausgleich.
-
-## Sicherheit & Management
-
-- **Platzmangel + zu viele Kinder:** Zu viele auf zu kleinem Platz = Chaos und Verletzungsgefahr. Entweder Feldgröße vergrößern (30 → 35 Meter) oder Gruppe aufteilen (2 × 8–9 Kinder).
-
-- **Stolper- und Ballgefahren:** Bälle können herumliegen oder zum Hindernis werden. Vor Runde-Start Platz kurz scannen, keine Bälle im Weg. Nach jeder Runde wieder checken.
-
-- **Intensität kontrollieren:** Spiel ist hochintensiv – Puls geht schnell hoch. Nach 3–5 Min Pause geben. Nicht länger als 15 Minuten hintereinander spielen.
-
-- **Trinkpause:** Zwischen Runden Zeit für Trinken geben.
-
-- **Verletzungen vorbeugen:** Feld-Ränder kontrollieren – keine harten Gegenstände, Zäune, Ecken nah am Feld. Gutes Schuhwerk ist wichtig.
+- **Leichter:** Ein Fänger weniger, oder das Feld wird größer. Fänger gehen die ersten zwei Minuten nur zügig.
+- **Schwerer:** Nur mit dem schwachen Fuß dribbeln, oder die Fänger dürfen zusätzlich den Ball des Läufers wegspielen.
+- **Für große Gruppen:** Ein zweites Feld läuft daneben, so hat jedes Kind Platz und viele Ballkontakte.
+- **Mit Zusatzaufgabe:** Auf Pfiff stoppen alle den Ball mit der Sohle und tippen im Stand zehnmal.

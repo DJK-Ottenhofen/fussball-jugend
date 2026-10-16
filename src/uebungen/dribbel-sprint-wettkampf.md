@@ -5,75 +5,39 @@ kategorie: kondition
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Fußballtypische Schnelligkeit (kurze Wege, Richtungswechsel), spielerisch."
-quelle: "Trainertalk / owayo"
-quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/"
+ziel: "Mit dem Ball am Fuß kurze Strecken schnell laufen und enge Wendungen sicher kontrollieren."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/dribbel-sprint-wettkampf.svg"
+bildAlt: "Drei Bahnen von 20 Metern zwischen gestrichelter Startlinie links und je einem Hütchentor am rechten Ende. An jeder Bahn steht ein Läufer mit Ball an der Linie, links davon warten zwei Kinder mit eigenem Ball. Auf Bahn 2 dribbelt der schwarze Läufer in einer Wellenlinie zum Hütchentor."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 2–3 parallele Strecken à 15–20 m (je nach Alter und verfügbarem Platz)  
-**Spielerzahl:** 4–5 Spieler pro Strecke (Teams oder Einzelstarts möglich)  
-**Material:** 1 Ball pro Spieler, evtl. Markierungshütchen für Start/Ziel, Stoppuhr für Zeitmessung
-
-**Feldaufbau:**
-- Start- und Ziellinie klar markieren (mit Linienpulver oder Leibchen).
-- Bei mehreren Strecken: parallel anordnen, damit mehrere Spieler gleichzeitig trainieren.
-
----
+- **Spielfeld:** Drei Bahnen, je 20 m lang von der Startlinie bis zum Hütchentor (2 m breit), 5 m Abstand
+- **Material:** 1 Ball pro Kind, 6 Hütchen für die Tore, Hütchen für die Startlinie, 1 Stoppuhr
+- **Spieler:** 9 Kinder, drei Teams mit je drei Kindern. Bei mehr Kindern kommt eine vierte Bahn dazu.
+- **Positionen:** Der Läufer steht mit seinem Ball an der Linie, die zwei Wartenden stehen links davon mit eigenem Ball.
 
 ## Ablauf
 
-### Variante 1: Sprintstaffel mit Ball (8–10 Min)
-
-- 4er-Teams bilden; jedes Team stellt sich am Start auf.
-- Spieler 1 läuft mit Ball zur Ziellinie und zurück, gibt Ball an Spieler 2 ab.
-- Spieler 2 macht das Gleiche, dann Spieler 3 und 4.
-- Welches Team hat alle 4 Durchläufe am schnellsten absolviert?
-
-### Variante 2: Einzelne Sprints mit Dribbeln (8–10 Min)
-
-- Alle Spieler stellen sich am Start auf.
-- Startpfiff: Alle dribbeln so schnell wie möglich zur Ziellinie und zurück.
-- Wer zuerst wieder am Start ist (ohne Ball zu verlieren) gewinnt den Punkt.
-- 3 Runden = Best-of-3; wer die meisten Punkte hat, ist Sieger.
-- **Regel:** Ballverlust = disqualifiziert für die Runde.
-
-### Variante 3: Sprint ohne Ball + Koordination (10 Min)
-
-- Sprint ohne Ball zur Ziellinie und zurück (pure Schnelligkeit).
-- Beim Zurückkommen: Der Spieler muss auf Kommando eine Koordinationsaufgabe machen (z. B. auf einem Bein landen, Hocksprünge machen, Slalom um Hütchen).
-- Belohnung für schnelle Sprints + koordinativ richtige Ausführung.
-
-### Variante 4: Mixed-Staffel (10 Min)
-
-- Team 1: Spieler A dribbelt 15 m mit Ball.
-- Team 1: Spieler B läuft 15 m ohne Ball.
-- Team 1: Spieler C dribbelnd durch 3 Hütchen im Slalom.
-- Team 1: Spieler D sprintet frei.
-- Abwechslungsreich, trainiert mehrere Qualitäten.
-
----
+1. Der Trainer ruft „Fertig – los!“, und der erste Läufer jeder Bahn dribbelt durchs Hütchentor.
+2. Hinter dem Tor dreht er und dribbelt zurück.
+3. An der Linie stoppt er den Ball und klatscht das nächste Kind ab. Dieses startet mit seinem eigenen Ball.
+4. Die Wartenden führen ihren Ball mit der Sohle hin und her, bis sie dran sind.
+5. Das Team, bei dem alle drei Kinder durch sind, setzt sich hin und ruft „Fertig!“. Wer am Tor vorbeiläuft, gibt dem Team eine Sekunde Zeitstrafe.
+6. Nach drei Läufen werden die Teams gemischt. Nach zehn bis zwölf Minuten wechselt die Aufgabe.
 
 ## Coaching-Punkte
 
-- **Schnelligkeitsfenster:** Alter 6/7–12/13 ist das beste Schnelligkeitsfenster. Viele kurze, intensive Sprints sind ideal.
-- **Ballkontrolle unter Druck:** Spieler sollen auch im Tempo den Ball behalten – das ist spielnah und nicht trivial.
-- **Startreaktion:** Schneller Antritt (0–3 Meter) ist wichtiger als Höchstgeschwindigkeit – wer hat die schnellste Reaktion?
-- **Motivation durch Wettbewerb:** Wettkampf-Charakter sorgt für hohe Intensität und Freude – Spaß am Training ist wichtig.
-
-### Häufige Fehler & Korrektur
-
-- **Fehler:** Spieler dribbelnd zu langsam, weil sie zu viel auf den Ball schauen.  
-  **Korrektur:** „Kopf hoch! Schau nach vorne. Der Ball bleibt automatisch bei deinem Fuß – mach schnelle Schritte!"
-
-- **Fehler:** Spieler sprinten los, ohne den Ball richtig zu kontrollieren; Ballverlust sofort.  
-  **Korrektur:** „Erste 5 Meter: Ball mittig führen, dann Tempo. Nicht vollgas von Anfang an!"
-
----
+- **Kopf hoch:** Schau nach vorn zum Tor, nicht nur auf den Ball.
+- **Ball schieben:** Schieb den Ball zwei Meter vor und hol ihn dir mit großen Schritten.
+- **Eng wenden:** Dreh dich mit dem Ball um das Tor und lauf sofort los.
+- **Codewort am Platz:** Rufe „Anschluss!“ zum nächsten Kind, wenn es noch hinter der Linie steht.
+- **Fair gewinnen:** Zähle ehrlich, ob der Ball durchs Tor gelaufen ist.
 
 ## Varianten
 
-- **Hindernisse einbauen:** Statt direkter Sprint durch Hütchen dribbeln (Slalom-Elemente hinzufügen).
-- **Mit Finte:** Vor der Ziellinie eine Finte machen (Übersteiger, Sohle-Zug), dann zurück – schwieriger, aber koordinativ wertvoll.
-- **Zeitliche Vorgabe:** Wer schafft es in unter 15 Sekunden? Challenge mit Gruppenwette (wenn alle es schaffen, gibt es +1 Punkt für alle).
+- **Leichter:** Kürzere Bahn mit 15 m, und der Ball darf mit der Sohle gestoppt werden.
+- **Schwerer:** Der Rückweg wird nur mit dem schwachen Fuß gedribbelt.
+- **Mit Stopp:** Hinter dem Tor stoppt der Läufer den Ball mit der Sohle und zählt laut bis drei, dann geht es zurück.
+- **Mit Ballwechsel:** Am Tor treffen sich die Läufer zweier Bahnen und tauschen die Bälle.
