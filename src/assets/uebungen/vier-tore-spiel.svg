@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Vier-Tore-Spiel: Feld mit je einem Minitor in der Mitte jeder Seite, gelbes und schwarzes Team verteilt, Spieler 1 in Gelb passt zu Spieler 2, Spieler 3 läuft Richtung unterem Tor</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Minitore, eines je Seite -->
+  <rect x="140" y="-4" width="20" height="4" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="140" y="200" width="20" height="4" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="-4" y="90" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="300" y="90" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Wege -->
+  <path d="M117,68 L182,120" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M88,148 Q105,170 130,176" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Team B -->
+  <circle cx="165" cy="55" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="135" cy="125" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="235" cy="70" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Team A mit Positionsnummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="110" cy="60" r="7"/><circle cx="192" cy="130" r="7"/><circle cx="80" cy="140" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="110" y="63.2">1</text><text x="192" y="133.2">2</text><text x="80" y="143.2">3</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="119" cy="66" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

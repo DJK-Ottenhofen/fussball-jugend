@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 270" role="img">
+  <title>Feldskizze Überzahl 3-gegen-2: Großes Tor mit Torhüter oben, zwei Verteidiger davor, unten zwei Minitore für den Konter, drei Angreifer mit Pass von Spieler 1 zu Spieler 2 und Laufweg von Spieler 3</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="270" fill="#2E7D32"/>
+  <!-- Feld 20 x 25 m -->
+  <rect x="0" y="0" width="200" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Tor 5 m -->
+  <rect x="75" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Minitore für den Konter -->
+  <g fill="#F28C28">
+    <polygon points="30,245 34,253 26,253"/><polygon points="50,245 54,253 46,253"/>
+    <polygon points="150,245 154,253 146,253"/><polygon points="170,245 174,253 166,253"/>
+  </g>
+  <!-- Wege -->
+  <path d="M48,185 L88,170" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M160,168 Q166,140 152,112" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Torhüter -->
+  <circle cx="100" cy="10" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Verteidiger -->
+  <circle cx="82" cy="85" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="125" cy="100" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Angreifer mit Positionsnummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="40" cy="190" r="7"/><circle cx="100" cy="165" r="7"/><circle cx="160" cy="178" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="40" y="193.2">1</text><text x="100" y="168.2">2</text><text x="160" y="181.2">3</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="30" cy="196" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
