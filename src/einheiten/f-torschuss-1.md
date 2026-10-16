@@ -14,7 +14,7 @@ phasen:
   - name: "Hauptteil – Abschluss"
     minuten: 30
     uebungen: [torschuss-kombination, dribbling-mit-dribbeltoren]
-  - name: "Abschluss – Champions League"
+  - name: "Abschluss – Aufstiegs-Torschuss"
     minuten: 27
     uebungen: [champions-league-torschuss]
 ---

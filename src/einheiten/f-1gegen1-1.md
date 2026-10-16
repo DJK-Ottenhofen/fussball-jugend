@@ -15,7 +15,7 @@ phasen:
   - name: "Hauptteil – 1-gegen-1 & Überzahl"
     minuten: 30
     uebungen: [eins-gegen-eins-dynamisch, zwei-gegen-eins]
-  - name: "Abschluss – Champions League"
+  - name: "Abschluss – Aufstiegs-Torschuss"
     minuten: 27
     uebungen: [champions-league-torschuss]
 ---
