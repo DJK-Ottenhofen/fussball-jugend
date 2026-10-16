@@ -5,73 +5,40 @@ kategorie: technik
 altersgruppen: [E, D]
 spielstaerke: fortgeschritten
 phase: hauptteil
-ziel: "Passgenauigkeit mit der Innenseite trainieren und die Körperstellung nach dem Pass optimieren."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Flache Pässe mit der Innenseite genau an den Fuß spielen und nach dem Pass sofort den Platz wechseln."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/passen-im-dreieck.svg"
+bildAlt: "Querfeld 30 × 12 m mit zwei Dreiecken nebeneinander, Seitenlänge je 10 m, an den Ecken Hütchen. Im linken Dreieck steht Spieler 1 unten links mit Ball, Spieler 2 oben, Spieler 3 unten rechts. Spieler 1 passt zu Spieler 2, während 1 und 3 unten ihre Ecken tauschen. Im rechten Dreieck stehen drei Kinder bereit."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 12 × 12 m pro Dreieck (oder 18 × 18 m für größere Gruppen)  
-**Spielerzahl:** 3 Spieler pro Dreieck, 2–3 Dreiecke parallel (damit kein Kind lange wartet)  
-**Material:** 1 Ball pro Dreieck, 6 Hütchen (je 3 pro Dreieck für die Ecken-Markierung)  
-**Aufbau:** Drei Hütchen im gleichmäßigen Dreieck mit ca. 6 m Kantenlänge positionieren; je ein Spieler an einer Ecke
+- **Spielfeld:** zwei Dreiecke nebeneinander auf einer Fläche von 30 × 12 m, mindestens 5 m Abstand dazwischen
+- **Dreieck:** drei Hütchen, Seitenlänge 10 m
+- **Material:** pro Dreieck ein Ball, sechs Hütchen insgesamt
+- **Spieler:** drei Kinder pro Dreieck. Bei mehr Kindern entstehen weitere Dreiecke, niemand wartet.
+- **Positionen:** Ein Kind steht an jeder Ecke, nummeriert 1 bis 3 im Uhrzeigersinn. Kind 1 hat den Ball.
 
 ## Ablauf
 
-**Phase 1: Grundform Dreiecks-Passspiel (12–15 Min)**
-
-- Startposition: A, B, C stehen an den drei Hütchen-Ecken
-- A passt mit **Innenseite zu B** (Pass sollte genau am Fuß ankommen, nicht zu hart)
-- B **stoppt/nimmt den Ball an** (Ballkontrolle, Fuß zum Ball hingehen)
-- B passt sofort weiter zu C (ohne umständliches Dribbling)
-- C passt zurück zu A
-- **Feldwanderung:** Das ganze Dreieck bewegt sich langsam über den Platz (als Formation), während die Pässe weiterlaufen
-- Dauer: 3–5 Min, dann kurz feedback geben und nächste Phase starten
-
-**Phase 2: Pass + Mitbewegung/Rotation (10–12 Min)**
-
-- Gleiche Dreiecks-Position
-- A passt zu B
-- **Sofort nach dem Pass:** A läuft zur **nächsten freien Ecke** (im Uhrzeigersinn oder entgegen – Trainer gibt vor)
-- B nimmt an und passt sofort zu C
-- C nimmt an und spielt zu A, der jetzt an der neuen Position steht
-- **Kontinuierliches Rotieren:** Die Spieler wechseln ständig ihre Positionen im Dreieck
-- Tempo schrittweise erhöhen (erstes Drittel langsam, dann auf Spieltempo hochfahren)
-
-**Phase 3: Wettkampf – Höchste Passzahl (8–10 Min)**
-
-- Jedes Dreieck-Team zählt laut mit: nur **fehlerfreie Pässe zählen**
-- Challenge: Wer schafft in 2 Minuten die meisten korrekten aufeinanderfolgenden Pässe ohne Ballverlust?
-- Trainer stoppt Zeit und notiert die Passzahl
-- Nach einer Runde durchmischen (Spieler wechseln zu anderen Dreiecken) und erneut spielen
-- Ggf. kleine Preise/Anerkennung für die besten Teams (Motivationsfaktor für E/D-Jugend)
+1. Der Ball läuft immer zur nächsten Ecke im Uhrzeigersinn. Kind 1 passt also flach mit der Innenseite zu Kind 2.
+2. Wer gepasst hat, tauscht sofort den Platz mit dem Kind, das nicht angespielt wurde. Kind 1 und Kind 3 laufen dazu rechts aneinander vorbei.
+3. Kind 2 nimmt den Ball an und passt zur nächsten Ecke im Uhrzeigersinn. Dort steht jetzt Kind 1.
+4. Kind 2 tauscht wiederum mit dem Kind, das nicht angespielt wurde. So bleibt jedes Kind in Bewegung, und jeder spielt in jeder Runde Pässe.
+5. Erste Runde: drei Minuten ohne Kontaktvorgabe, in ruhigem Tempo. Danach höchstens zwei Kontakte und mehr Tempo.
+6. Nach etwa acht Minuten wechselt der Trainer die Gruppen durch. Dann zählt jedes Dreieck zwei Minuten lang die Pässe ohne Fehler am Stück, ein Fehler setzt auf null zurück.
 
 ## Coaching-Punkte
 
-- **Innenseite-Pass exakt:** Pass mit der **breiten Innenseite des Fußes** spielen – nicht mit Fußspitze (unpräzise) oder Außenseite (zu schwach kontrollierbar). Der Pass muss flach und genau zum Fuß des Mitspielers kommen.
-
-- **Passwechsel aktiv:** Nach dem eigenen Pass **sofort in Bewegung gehen** – nicht warten, bis der Ball kommt. Das Dreieck funktioniert nur, wenn alle ständig aktiv sind.
-
-- **Blick heben vor Annahme:** Der Spieler, der den Ball empfängt, sollte **vor der Ballannahme kurz hochschauen**, um die Position des nächsten Spielers zu kennen und dann schneller weiterspielen zu können.
-
-- **Körperstellung zum Weiterspielen:** Der Ball-Empfänger sollte sich schon während der Annahme **leicht zum nächsten Spieler drehen**, damit der Pass nicht verzögert wird (offene Körperposition).
-
-- **Passwärme & Schärfe:** Der Pass sollte zügig und am Fuß ankommen, aber nicht so hart, dass der Spieler keine Kontrolle hat. Mittleres Tempo halten.
-
-- **Fehlertoleranz:** Beim Üben sind knapp verfehlte Pässe erlaubt – Kinder sollten nicht entmutig werden, sondern aufgefordert, weiterzumachen und schneller zu werden.
-
-**Häufige Fehler & Korrektur:**
-- **Fehler:** Pässe gehen in die Spitze statt in die Innenseite → Korrektur: Trainer zeigt vor, lässt Kind nachahmen, mehrmals wiederholen.
-- **Fehler:** Spieler wartet nach eigenem Pass ab, anstatt zu laufen → Korrektur: „Nach dem Pass sofort weiter! Du läufst zur nächsten Ecke!"
-- **Fehler:** Zu lange am Ball halten statt schnell weiterzuspielen → Korrektur: „Zwei Kontakte max – nimm und pass!"
+- **Innenseite, flach, an den Fuß:** Der Pass kommt mit der breiten Innenseite, flach und mit mittlerem Tempo, sodass der Empfänger ihn sicher kontrollieren kann.
+- **Codewort am Platz:** „Kopf hoch!" Wer den Ball bekommt, schaut vorher nach, wo der nächste Empfänger steht und wer gerade unterwegs ist.
+- **Sofort los nach dem Pass:** Wer stehen bleibt und seinem Ball hinterherschaut, blockiert den Tausch und stört den Lauf der anderen.
+- **Offene Körperhaltung:** Das Kind dreht sich schon bei der Annahme leicht in Richtung der nächsten Ecke, so verliert es keine Zeit.
+- **Aneinander vorbei, nicht ineinander:** Die beiden Tauschenden laufen immer rechts aneinander vorbei, nie durch die Passlinie.
 
 ## Varianten
 
-- **Fünf-Punkte-System:** Jeder erfolgreiche Pass = +1 Punkt, jeder Fehler = –1 Punkt. Spieler können ihre Selbstkontrolle direkt messen und verbessern sich dadurch bewusst.
-
-- **Freie Bewegung (fortgeschritten):** Nach dem Pass nicht in eine bestimmte Ecke laufen, sondern sich frei im Dreieck-Raum bewegen und wieder einlaufen. Fordert mehr Übersicht.
-
-- **Enges Dreieck (Schwierigkeitssteigerung):** Kantenlänge auf 4 m verkürzen → höhere Anforderung an Ballkontrolle, schnellere Pässe, Druck erhöht sich.
-
-- **Wettkampf-Dreieck-Duell:** Zwei Teams á 3 Spieler spielen gegeneinander: Wer zuerst 20 fehlerfreie aufeinanderfolgende Pässe schafft, gewinnt.
+- **Leichter:** Der Ball darf vor dem Weiterspielen einmal gestoppt werden. Oder das Dreieck wird auf 7 m verkleinert.
+- **Schwerer:** Alles mit einem Kontakt. Oder das Dreieck wächst auf 14 m, dann sind die Pässe härter und die Laufwege länger.
+- **Gegenläufig:** Auf Zuruf des Trainers wechselt die Passrichtung von Uhrzeigersinn auf Gegenuhrzeigersinn.
+- **Rekord jagen:** Jedes Dreieck notiert, wie viele Pässe es in zwei Minuten ohne Fehler schafft, und versucht in der nächsten Runde, die eigene Bestmarke zu überbieten.

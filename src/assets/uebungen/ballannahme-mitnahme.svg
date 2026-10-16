@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 180" role="img">
+  <title>Feldskizze Ballannahme und Mitnahme: zwei Paare mit 10 Metern Abstand, je zwei Hütchen neben jedem Kind als Richtungsziel, im oberen Paar passt Spieler 1 zu Spieler 2, der den Ball zum unteren rechten Hütchen mitnimmt</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="180" fill="#2E7D32"/>
+  <!-- Feld 20 x 16 m -->
+  <rect x="0" y="0" width="200" height="160" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Trennlinie zwischen den beiden Bahnen -->
+  <line x1="0" y1="80" x2="200" y2="80" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchen: Richtungsziele oben (Bahn 1) und unten (Bahn 2), links und rechts -->
+  <g fill="#F28C28">
+    <polygon points="10,11 14,19 6,19"/><polygon points="10,61 14,69 6,69"/>
+    <polygon points="180,11 184,19 176,19"/><polygon points="180,61 184,69 176,69"/>
+    <polygon points="10,91 14,99 6,99"/><polygon points="10,141 14,149 6,149"/>
+    <polygon points="180,91 184,99 176,99"/><polygon points="180,141 184,149 176,149"/>
+  </g>
+  <!-- Wege -->
+  <path d="M52,40 L128,40" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M147,47 L172,62" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="40" cy="40" r="7"/><circle cx="140" cy="40" r="7"/>
+    <circle cx="40" cy="120" r="7"/><circle cx="140" cy="120" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="40" y="43.2">1</text><text x="140" y="43.2">2</text>
+  </g>
+  <!-- Bälle -->
+  <circle cx="50" cy="46" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="50" cy="126" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
