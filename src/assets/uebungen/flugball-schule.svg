@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 140" role="img">
+  <title>Feldskizze Flugball-Schule: zwei Paare im Abstand von 15 Metern, dazwischen zwei Stangen als Kette, Flugball über die Stangen, Hütchen bei 20 und 25 Metern</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="140" fill="#2E7D32"/>
+  <!-- Abstandshütchen bei 15, 20 und 25 m -->
+  <g fill="#F28C28">
+    <polygon points="180,107 184,115 176,115"/>
+    <polygon points="230,107 234,115 226,115"/>
+    <polygon points="280,107 284,115 276,115"/>
+  </g>
+  <g stroke="#fff" stroke-width="1" stroke-dasharray="2 3" opacity=".7">
+    <line x1="230" y1="10" x2="230" y2="104"/>
+    <line x1="280" y1="10" x2="280" y2="104"/>
+  </g>
+  <!-- Stangen als Kette in der Mitte -->
+  <g fill="#fff">
+    <rect x="103" y="24" width="4" height="22" rx="1"/><rect x="103" y="74" width="4" height="22" rx="1"/>
+  </g>
+  <!-- Flugbälle -->
+  <path d="M38,38 Q105,-8 172,36" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M38,88 Q105,42 172,86" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Paare -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="30" cy="40" r="7"/><circle cx="180" cy="40" r="7"/>
+    <circle cx="30" cy="90" r="7"/><circle cx="180" cy="90" r="7"/>
+  </g>
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="40" cy="44" r="3"/><circle cx="40" cy="94" r="3"/>
+  </g>
+</svg>

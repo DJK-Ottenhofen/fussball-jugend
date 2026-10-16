@@ -16,6 +16,13 @@ layout: base.njk
       <p class="section-lead">{{ ziel }}</p>
     </div>
 
+    {% if bild %}
+    <figure class="skizze">
+      <img src="{{ bild }}" alt="{{ bildAlt }}" loading="lazy">
+      <figcaption>{% include "skizze-legende.njk" %}</figcaption>
+    </figure>
+    {% endif %}
+
     <div class="detail-layout">
 
       <article class="detail-main">

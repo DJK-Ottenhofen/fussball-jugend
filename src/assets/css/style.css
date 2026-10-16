@@ -440,6 +440,30 @@ p a:hover, li a:not(.btn):hover{ text-decoration-color: var(--color-ink); }
 .detail-stat--accent .detail-stat-label{ color: rgba(17,17,17,.65); }
 
 /* =====================================================================
+   COMPONENT: Feldskizze (Übung-Detail)
+   ===================================================================== */
+.skizze{ margin: 0 0 var(--space-7); }
+.skizze img{ display:block; width:100%; height:auto; border-radius: var(--radius-md); background:#2E7D32; }
+.skizze-legende{ display:flex; flex-wrap:wrap; gap: var(--space-2) var(--space-4); margin-top: var(--space-3); font-size: var(--fs-100); color: var(--color-grey-600); }
+.skizze-legende li{ display:flex; align-items:center; gap:.35rem; }
+.skizze-legende svg{ height:1rem; width:auto; }
+
+/* =====================================================================
+   COMPONENT: Spielkonzept-Kasten (Einheit-Detail)
+   ===================================================================== */
+.concept-card{
+  background: var(--color-grey-100); border:1px solid var(--color-grey-200);
+  border-left: 6px solid var(--color-yellow);
+  border-radius: var(--radius-md); padding: var(--space-5); margin-bottom: var(--space-7);
+}
+.concept-card h2{ font-size: var(--fs-400); margin-bottom: var(--space-3); }
+.concept-card dl div{ display:grid; grid-template-columns: minmax(0, 7.5rem) minmax(0, 1fr); gap: var(--space-3); padding:.5rem 0; border-top:1px solid var(--color-grey-200); }
+.concept-card dl div:first-child{ border-top:0; }
+.concept-card dt{ color: var(--color-grey-600); font-weight: var(--fw-bold); font-size: var(--fs-100); }
+.concept-card dd{ font-size: var(--fs-200); }
+@media (max-width: 480px){ .concept-card dl div{ grid-template-columns: minmax(0, 1fr); gap:.15rem; } }
+
+/* =====================================================================
    COMPONENT: Phasen-Timeline (Einheit-Detail)
    ===================================================================== */
 .timeline{ position:relative; display:flex; flex-direction:column; gap: var(--space-7); margin-top: var(--space-8); }
