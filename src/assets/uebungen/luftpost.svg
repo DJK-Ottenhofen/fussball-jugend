@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Luftpost: Feld mit zwei Endzonen, ein Wurf in den Lauf eines Mitspielers, der in die Endzone startet</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Endzonen (je 3 m) -->
+  <rect x="0" y="0" width="30" height="200" fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="270" y="0" width="30" height="200" fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1" stroke-dasharray="4 3"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-5 4,3 -4,3"/><polygon points="300,-5 304,3 296,3"/>
+    <polygon points="0,195 4,203 -4,203"/><polygon points="300,195 304,203 296,203"/>
+    <polygon points="30,-5 34,3 26,3"/><polygon points="270,-5 274,3 266,3"/>
+    <polygon points="30,195 34,203 26,203"/><polygon points="270,195 274,203 266,203"/>
+  </g>
+  <!-- Wurf und Laufweg -->
+  <path d="M176,104 L276,84" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M222,46 Q258,52 280,78" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="236" cy="112" r="7"/><circle cx="206" cy="152" r="7"/><circle cx="150" cy="64" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="168" cy="108" r="7"/><circle cx="214" cy="44" r="7"/><circle cx="112" cy="150" r="7"/>
+  </g>
+  <!-- Ball beim Werfer -->
+  <circle cx="178" cy="102" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

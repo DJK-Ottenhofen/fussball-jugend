@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 520 370" role="img">
+  <title>Feldskizze Tiefenzonen-Spiel: 6-gegen-6 mit Torhütern auf zwei Tore, vor jedem Tor eine 10 Meter tiefe Zone, ein Pass aus der eigenen Hälfte in die gegnerische Tiefenzone auf einen einlaufenden Mitspieler</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="520" height="370" fill="#2E7D32"/>
+  <!-- Tiefenzonen 10 m -->
+  <rect x="0" y="0" width="100" height="350" fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1" stroke-dasharray="4 3"/>
+  <rect x="400" y="0" width="100" height="350" fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1" stroke-dasharray="4 3"/>
+  <!-- Feld 50 x 35 m, Mittellinie -->
+  <rect x="0" y="0" width="500" height="350" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <line x1="250" y1="0" x2="250" y2="350" stroke="#fff" stroke-width="1.5"/>
+  <!-- Zonenhütchen -->
+  <g fill="#F28C28">
+    <polygon points="100,-5 104,3 96,3"/><polygon points="100,345 104,353 96,353"/>
+    <polygon points="400,-5 404,3 396,3"/><polygon points="400,345 404,353 396,353"/>
+  </g>
+  <!-- Tore 5 m -->
+  <rect x="-7" y="150" width="7" height="50" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="500" y="150" width="7" height="50" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Pass in die Tiefe und Einlauf (Team A spielt nach rechts) -->
+  <path d="M212,246 Q330,120 438,132" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M336,92 Q392,96 432,124" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Torhüter -->
+  <circle cx="10" cy="175" r="7" fill="#FFF300" stroke="#fff" stroke-width="3"/>
+  <circle cx="490" cy="175" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="372" cy="150" r="7"/><circle cx="378" cy="232" r="7"/><circle cx="312" cy="196" r="7"/>
+    <circle cx="232" cy="118" r="7"/><circle cx="226" cy="296" r="7"/><circle cx="150" cy="180" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="204" cy="252" r="7"/><circle cx="330" cy="88" r="7"/><circle cx="346" cy="282" r="7"/>
+    <circle cx="276" cy="168" r="7"/><circle cx="150" cy="96" r="7"/><circle cx="120" cy="262" r="7"/>
+  </g>
+  <circle cx="214" cy="244" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

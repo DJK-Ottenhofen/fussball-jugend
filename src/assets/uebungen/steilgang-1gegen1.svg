@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 370" role="img">
+  <title>Feldskizze Steilgang 1-gegen-1: Tor mit Torhüter oben, Abwehrlinie aus Hütchen 18 Meter vor dem Tor, Spieler 1 passt flach zu Spieler 2, der einen Flugball hinter die Linie spielt, Spieler 3 läuft von außen nach innen ein, der Verteidiger läuft mit, unten zwei Hütchentore für den Konter</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="370" fill="#2E7D32"/>
+  <!-- Feld 25 x 35 m -->
+  <rect x="0" y="0" width="250" height="350" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Tiefenzone hinter der Abwehrlinie -->
+  <rect x="0" y="0" width="250" height="180" fill="#fff" fill-opacity=".12"/>
+  <!-- Tor 5 m -->
+  <rect x="100" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Abwehrlinie 18 m vor dem Tor -->
+  <line x1="20" y1="180" x2="230" y2="180" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <g fill="#F28C28">
+    <polygon points="20,175 24,183 16,183"/><polygon points="72,175 76,183 68,183"/><polygon points="125,175 129,183 121,183"/>
+    <polygon points="178,175 182,183 174,183"/><polygon points="230,175 234,183 226,183"/>
+  </g>
+  <!-- Hütchentore für den Konter an der Grundlinie -->
+  <g fill="#F28C28">
+    <polygon points="35,345 39,353 31,353"/><polygon points="65,345 69,353 61,353"/>
+    <polygon points="185,345 189,353 181,353"/><polygon points="215,345 219,353 211,353"/>
+  </g>
+  <!-- Wege -->
+  <path d="M68,314 L146,268" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M152,254 Q168,170 120,118" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M56,190 Q64,140 108,116" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M90,190 Q98,160 116,136" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Torhüter -->
+  <circle cx="125" cy="8" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Verteidiger -->
+  <circle cx="84" cy="198" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Angreifer mit Positionsnummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="60" cy="320" r="7"/><circle cx="154" cy="262" r="7"/><circle cx="52" cy="198" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="60" y="323.2">1</text><text x="154" y="265.2">2</text><text x="52" y="201.2">3</text>
+  </g>
+  <circle cx="70" cy="312" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
