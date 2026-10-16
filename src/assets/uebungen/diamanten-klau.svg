@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Diamanten-Klau: Feld 30 mal 20 Meter mit Mittelzone voller Bälle, links oben die Ecke von Team Gelb, rechts unten die Ecke von Team Schwarz, ein gelbes Kind dribbelt einen Ball in seine Ecke, ein schwarzes Kind läuft auf einen Ball zu</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Mittelzone 10 x 20 m mit den Diamanten -->
+  <rect x="100" y="0" width="100" height="200" fill="#fff" fill-opacity=".12"/>
+  <line x1="100" y1="0" x2="100" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <line x1="200" y1="0" x2="200" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Ecken 5 x 5 m: Team Gelb oben links, Team Schwarz unten rechts -->
+  <rect x="0" y="0" width="50" height="50" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".9"/>
+  <rect x="250" y="150" width="50" height="50" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".9"/>
+  <!-- Hütchen an den Ecken der Zonen -->
+  <g fill="#F28C28">
+    <polygon points="50,46 54,54 46,54"/><polygon points="250,146 254,154 246,154"/>
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="0,46 4,54 -4,54"/><polygon points="50,-4 54,4 46,4"/>
+    <polygon points="300,146 304,154 296,154"/><polygon points="250,196 254,204 246,204"/><polygon points="300,196 304,204 296,204"/>
+  </g>
+  <!-- Wege -->
+  <path d="M104,40 q-8,6 -16,0 t-16,0 t-16,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M182,100 L158,100" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Bälle (Diamanten) in der Mittelzone und in den Ecken -->
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="150" cy="100" r="3"/><circle cx="130" cy="60" r="3"/><circle cx="175" cy="45" r="3"/>
+    <circle cx="125" cy="140" r="3"/><circle cx="170" cy="150" r="3"/><circle cx="150" cy="180" r="3"/>
+    <circle cx="110" cy="40" r="3"/><circle cx="115" cy="85" r="3"/><circle cx="185" cy="130" r="3"/><circle cx="160" cy="70" r="3"/><circle cx="25" cy="22" r="3"/><circle cx="278" cy="172" r="3"/>
+  </g>
+  <!-- Team Gelb -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="121" cy="40" r="7"/><circle cx="70" cy="110" r="7"/><circle cx="40" cy="160" r="7"/>
+  </g>
+  <!-- Team Schwarz -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="192" cy="100" r="7"/><circle cx="240" cy="60" r="7"/><circle cx="265" cy="110" r="7"/>
+  </g>
+</svg>

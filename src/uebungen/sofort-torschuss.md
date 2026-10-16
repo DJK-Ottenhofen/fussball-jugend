@@ -1,60 +1,44 @@
 ---
 layout: exercise.njk
-title: "Sofort-Torschuss (Aufwärm-Minispiel)"
+title: "Sofort-Torschuss – Ball vom Trainer, Schuss ohne Pause"
 kategorie: aufwaermen-abschluss
 altersgruppen: [F]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Sofort-Aktivierung mit Spaß, Torschuss im Wettkampf."
-quelle: "advance.football"
-quelleUrl: "https://training.advance.football/pages/uebungen_f-jugend-training"
+ziel: "Einen Ball im Lauf annehmen und sofort aufs Tor schießen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/sofort-torschuss.svg"
+bildAlt: "Hochkant-Feld mit einem Tor und einem Torhüter oben. Sieben Meter vor dem Tor markieren zwei Hütchen eine Schusslinie. Unten steht der Trainer mit seinen Bällen. Links und rechts warten zwei Reihen von Kindern, die wartenden Kinder jeweils mit Ball. Ein Kind läuft los, der Trainer passt ihm den Ball in den Lauf."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 20 × 15 Meter (halbes Kleinfeld)  
-**Spielerzahl:** 8–12 Kinder (2 Gruppen à 4–6, bei größeren Gruppen bis zu 3 Bahnen parallel)  
-**Material:** 2 Kinderfußballtore (oder Hütchen-Tore, 3 m breit) · 2–3 Bälle pro Tor · 2 Torwarte (oder eine Person im Wechsel) · optional: Markierungshütchen für die Schusslinie
-
----
+- **Spielfeld:** 20 m breit, 14 m lang, ein Tor mit 5 m Breite oben in der Mitte
+- **Schusslinie:** zwei Hütchen in 7 m Abstand vom Tor, spätestens hier wird geschossen
+- **Material:** 2 Hütchen, 15 Bälle, ein Ballvorrat beim Trainer
+- **Spieler:** 6 bis 7 Kinder in zwei Reihen links und rechts, in jeder Reihe höchstens drei Kinder, dazu ein Torhüter im Wechsel. Bei mehr Kindern wird eine zweite Anlage aufgebaut.
+- **Positionen:** Der Trainer steht in der Mitte etwa 13 m vor dem Tor. Die Reihen stehen zu beiden Seiten von ihm, jedes wartende Kind hat einen Ball am Fuß, nur das startende Kind lässt seinen Ball in der Reihe liegen.
 
 ## Ablauf
 
-**Vorbereitung (1–2 Min):** Beide Tore nebeneinander aufstellen, ca. 10 m Abstand. Je Tor eine Warteschlange bilden. Die ersten 2–3 Kinder der Gruppe treten an, die übrigen warten in der Reihe.
-
-**Phase 1: Freier Torschuss (3–4 Min)**
-1. Kind A dribbelt zum Tor (aus 5–6 m Abstand los) und schießt aus dem Dribbling frei aufs Tor.
-2. Der Torwart fängt oder kickt den Ball zurück in die Reihe.
-3. Kind A holt seinen Ball, stellt sich hinten an.
-4. Nächstes Kind kommt dran – sofort, ohne Wartezeit.
-5. **Ziel:** Möglichst viele Schüsse in kurzer Zeit; wer macht die meisten Tore?
-
-**Phase 2: Wettkampf mit Punkte-Zählung (3–5 Min)**
-- Jede Gruppe führt Torschuss-Reihe durch; Tore werden gezählt.
-- Nach 1–2 Minuten wechselt die Gruppe: Gruppe 2 schießt jetzt, Gruppe 1 pausiert kurz (aktiv dehnen/locker traben).
-- Insgesamt 2–3 Durchgänge.
-- **Gewinnergruppe:** Die Gruppe mit den meisten Toren gewinnt – kleine Belohnung (z. B. dürfen zuerst trainieren, oder bekommen einen „Champion"-Zettel).
-
-**Dauer:** Insgesamt 6–10 Minuten, je nach Gruppengröße.
-
----
+1. Das erste Kind einer Reihe startet auf Zuruf zur Schusslinie.
+2. Der Trainer passt ihm flach einen Ball in den Lauf.
+3. Das Kind nimmt den Ball mit dem ersten Kontakt mit und schießt, bevor es die Linie überläuft, spätestens an der Linie.
+4. Der Torhüter hält den Ball oder holt ihn und rollt ihn zur Seite zurück.
+5. Das Kind holt seinen Ball und stellt sich hinten an der anderen Reihe an. Dann startet das nächste Kind, sofort.
+6. Nach acht Minuten wechselt der Torhüter, nach zehn bis zwölf Minuten die Aufgabe, zum Beispiel mit einem Schuss mit dem schwächeren Fuß.
 
 ## Coaching-Punkte
 
-- **Schnelligkeit vor Perfektion:** Es geht um viele Wiederholungen und Spaß, nicht um technische Perfektion. Ein „schmutziges" Tor ist genauso wertvoll wie ein schöner Schuss.
-- **Blick zum Tor:** Vor dem Schuss kurz den Blick zum Tor heben, damit die Kinder merken, wohin sie schießen.
-- **Beidfüßigkeit:** Ermutigung, mit beiden Füßen zu schießen – „Wer schießt heute mal mit links/rechts?"
-- **Torwart-Variante:** Auch der Torwart sollte aktiv sein und den Ball aktiv zurückspielen, nicht nur fangen.
-- **Energie-Management:** Dieses Aufwärmen aktiviert das Herz-Kreislauf-System schnell – danach folgt das eigentliche Haupttraining.
-
-**Häufige Fehler & Korrektur:**
-- *Zu weit weg schießen:* Kinder bleiben stehen und schießen aus 15 m. → **Korrektur:** Kurze Dribbling-Linie vorgeben, aus max. 6 m schießen lassen (Erfolgreicherlebnis!).
-- *Zu langsame Abläufe / langes Warten:* Einzelne Kinder joggen rum statt schnell zu schießen. → **Korrektur:** Kommando geben „Schuss!" und Ball sofort holen – Rhythmus vorgeben, Musik hilft.
-
----
+- **Kern in drei Wörtern:** Annehmen, schießen, fertig. Der erste Kontakt geht in Richtung Tor.
+- **Codewort am Platz:** Wer ohne Blick zum Tor schießt, hört „Kopf hoch!“.
+- **Warten mit Aufgabe:** Bis du dran bist, hältst du den Ball mit der Sohle in Bewegung, hin und her.
+- **Nicht zu spät:** Du schießt spätestens an der Hütchenlinie, nicht erst direkt vor dem Tor. So bleibt der Schuss schnell.
+- **Erklärung kurz halten:** Drei Sätze, einmal vormachen, dann geht es los. Die Punkte kommen in der zweiten Runde dazu.
 
 ## Varianten
 
-- **Mit Hütchen-Slalom:** Vor dem Tor 2–3 Hütchen in Slalom-Linie; Kinder müssen dribbeln und dann schießen (koordinativ anspruchsvoller).
-- **Trefferquote-Wettbewerb:** Nicht die absolute Anzahl zählen, sondern die Quote: z. B. 10 Schüsse je Kind, wer hat die meisten Treffer? (Trainiert Fokus statt reines Volumen).
-- **Verschiedene Schuss-Techniken:** Erste Runde Innenrist, zweite Runde Fußrücken/Spannschuss. So wird es technisch vielseitiger und bleibt spannend.
+- **Leichter:** Der Trainer rollt den Ball ruhig an, und das Kind bekommt einen zweiten Versuch.
+- **Schwerer:** Das Kind schießt direkt, also ohne den Ball vorher anzunehmen, oder nur mit dem schwächeren Fuß.
+- **Mit Wettkampf:** Beide Reihen zählen ihre Tore in zwei Minuten, dann wird gewechselt und die Zählung beginnt neu.
+- **Für große Gruppen:** Eine dritte Reihe hinter dem Trainer, die abwechselnd mit den beiden anderen startet.

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Pflicht-Abschlussspiel: Feld 30 mal 20 Meter mit je zwei Minitoren an den Stirnseiten, vier gelbe gegen vier schwarze Kinder, Spieler 1 passt zu Spieler 2, der auf das obere rechte Minitor schießt</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <line x1="150" y1="0" x2="150" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Minitore, je zwei an den Grundlinien -->
+  <g fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2">
+    <rect x="-4" y="40" width="4" height="20"/><rect x="-4" y="140" width="4" height="20"/>
+    <rect x="300" y="40" width="4" height="20"/><rect x="300" y="140" width="4" height="20"/>
+  </g>
+  <!-- Wege: Pass von 1 auf 2, Schuss von 2 -->
+  <path d="M176,94 L222,64" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M242,52 L292,50" fill="none" stroke="#fff" stroke-width="2.5" marker-end="url(#pfeil-weiss)"/>
+  <!-- Team Gelb, greift nach rechts an -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="165" cy="100" r="7"/><circle cx="232" cy="56" r="7"/><circle cx="195" cy="150" r="7"/><circle cx="90" cy="100" r="7"/>
+  </g>
+  <!-- Team Schwarz -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="255" cy="95" r="7"/><circle cx="215" cy="115" r="7"/><circle cx="270" cy="150" r="7"/><circle cx="130" cy="60" r="7"/>
+  </g>
+  <!-- Nummern -->
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="165" y="103.2">1</text><text x="232" y="59.2">2</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="171" cy="105" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

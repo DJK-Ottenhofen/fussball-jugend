@@ -1,75 +1,43 @@
 ---
 layout: exercise.njk
-title: "Diamanten-Klau (Aufwärmspiel)"
+title: "Diamanten-Klau – Bälle in die eigene Ecke holen"
 kategorie: aufwaermen-abschluss
 altersgruppen: [E]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Spielerische Erwärmung; implizit Lücken erkennen und nutzen."
-quelle: "advance.football"
-quelleUrl: "https://training.advance.football/pages/uebungen_e-jugend_u11_training"
+ziel: "Mit dem Ball am Fuß Lücken zwischen Gegnern erkennen und nutzen, während der Körper warm wird."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/diamanten-klau.svg"
+bildAlt: "Querfeld 30 mal 20 Meter. In der Mitte liegt eine Zone mit Bällen als Diamanten. Links oben steht die Ecke von Team Gelb, rechts unten die Ecke von Team Schwarz, beide aus Hütchen. Ein gelbes Kind dribbelt einen Ball in seine Ecke, ein schwarzes Kind läuft auf einen Ball in der Mitte zu."
 ---
 
 ## Aufbau
 
-**Feldgröße:** Etwa 20 × 15 m (abhängig von Spieleranzahl – kleinere Gruppen, kleineres Feld)  
-**Spielerzahl:** 8–16 Spieler (ideal 2 Teams à 4–8)  
-**Material:** 4–6 Markierungshütchen oder Magnetplatten als „Diamanten"/Depots, Markierungslinie für die Mittellinie oder Feldgrenzen (evtl. mit Leibchen arbeiten)
-
-### Feldaufbau
-- Mittellinie markieren (trennt die beiden Teams).
-- 2–3 „Diamanten" (Markierungen/Hütchen) auf jeder Feldhälfte verteilen – nicht in der Mitte, sondern etwas versetzt.
-- Je 1 „Sammelbasis" oder gekennzeichnete Zone in jeder Hälfte (oder ein markiertes Feld am Rand), wo die erbeuteten Diamanten gesammelt werden.
-
----
+- **Spielfeld:** 30 m lang, 20 m breit, in der Mitte eine Zone von 10 m Breite über die ganze Feldbreite
+- **Ecken:** zwei Quadrate von 5 × 5 m, eines links oben für Team Gelb, eines rechts unten für Team Schwarz
+- **Material:** 8 Hütchen, 12 Bälle, Leibchen in zwei Farben
+- **Spieler:** 8 bis 12 Kinder in zwei Teams, bei weniger Kindern wird das Feld kleiner
+- **Positionen:** Beide Teams stehen verteilt außerhalb der Mittelzone, Gelb links, Schwarz rechts. Zehn Bälle, die Diamanten, liegen locker verteilt in der Mittelzone, je ein Ball liegt schon in jeder Ecke.
 
 ## Ablauf
 
-### Grundidee
-- Team A versucht, die Diamanten auf der Hälfte von Team B zu erreichen, sie zu erobern und in die eigene Basis zurückzubringen.
-- Team B verteidigt und versucht ihrerseits, die Diamanten von Team A zu holen.
-- Wer die meisten Diamanten in ihrer Basis hat, wenn das Spiel endet, gewinnt.
-
-### Schritt für Schritt
-
-1. **Startposition:** Beide Teams stellen sich in ihrer Feldhälfte auf. Beim Startpfiff beginnen alle zu laufen.
-
-2. **Erobern:** Ein Spieler läuft zur gegnerischen Diamanten-Markierung und versucht, sie zu „packen" (Hand drauflegen oder das Hütchen hochnehmen).
-
-3. **Zurückbringen:** Der Spieler läuft mit dem Diamanten zurück in die eigene Basis. Unterwegs kann ihn ein gegnerischer Spieler „abschlagen" (light touch) – der Diamant wird sofort an der Stelle fallengelassen, und jeder kann ihn von vorne erobern.
-
-4. **Ablage:** Kommt der Spieler mit dem Diamanten in der Basis an, legt er ihn dort ab – 1 Punkt für sein Team.
-
-5. **Ständige Bewegung:** Sobald ein Diamant abgelegt ist, können neue Spieler losgehen und weitere Diamanten holen. Es gibt kein Seitenwechsel – alle spielen gleichzeitig.
-
-### Dauer & Rotation
-- Spieldauer: 5–10 Minuten.
-- Danach Teams wechseln oder neu durchmischen.
-- Regeln: Keine Fouls – nur „abschlagen" erlaubt. Kein Festhalten, sanfter Kontakt.
-
----
+1. Auf Pfiff holt sich jedes Kind einen Diamanten aus der Mittelzone und dribbelt ihn in die eigene Ecke. Wer keinen mehr findet, klaut sich einen.
+2. Wer seinen Ball in der Ecke mit der Sohle stoppt, lässt ihn dort liegen. Er zählt einen Punkt.
+3. Gegner dürfen einen Dribbler stören, aber nur mit dem Fuß am Ball, nie mit Händen oder Körper.
+4. Wird ein Ball weggespielt, gehört er dem, der ihn als Nächster erreicht.
+5. Auch Bälle in der gegnerischen Ecke dürfen geklaut werden. Wer einen solchen Ball in die eigene Ecke bringt, nimmt dem Gegner einen Punkt weg.
+6. Nach fünf Minuten pfeift der Trainer ab, und beide Teams zählen die Bälle in ihrer Ecke. Dann werden die Teams neu gemischt und die Bälle verteilt.
 
 ## Coaching-Punkte
 
-- **Raumwahrnehmung:** Spieler sollen sehen, wo freie Diamanten sind und wo Gegner positioniert sind – welche Route ist sicher?
-- **Tempo & Richtungswechsel:** Das Spiel fordert viele kurze Sprints und Richtungswechsel; dies trainiert fußballtypische Schnelligkeit implizit.
-- **Teamverhalten:** Schneller zurückrennen mit dem Diamanten ist wichtiger als langsam zu gehen und „rausgequetscht" zu werden.
-- **Position halten:** Defensiv: Spieler sollten in ihrer Nähe bleiben und die Diamanten schützen, nicht wild herumlaufen.
-
-### Häufige Fehler & Korrektur
-
-- **Fehler:** Spieler rennen ziellos herum statt gezielt zu einem freien Diamanten.  
-  **Korrektur:** „Schau, wo noch kein anderer Spieler hinläuft. Dahin!" – vor Spiel kurz zeigen.
-
-- **Fehler:** Ein Spieler wird abgeschlagen, wirft den Diamanten zu weit weg, keiner findet ihn schnell.  
-  **Korrektur:** „Wenn du abgeschlagen wirst, lass den Diamanten ganz normal fallen, nicht werfen – sofort kehrtmachen und zurücklaufen!"
-
----
+- **Kern in drei Wörtern:** Lücke sehen, losdribbeln. Der Ball soll dorthin gehen, wo gerade kein Gegner steht.
+- **Der erste Blick geht nach vorne:** Wer mit gesenktem Kopf startet, rennt in einen Gegner. Der Blick geht kurz auf den Weg, dann zum Ball.
+- **Tempo im Spiel halten:** Es wird nicht gewartet. Wer seinen Ball abgelegt hat, geht sofort zurück zur Mitte oder in eine fremde Ecke.
+- **Codewort am Platz:** Wer zu lange mit dem Ball am Fuß steht, hört „Gegner binden!“.
+- **Codewort am Platz:** Wer hektisch den kürzesten Weg nimmt, hört „Ball sehen!“.
 
 ## Varianten
 
-- **Mit Ball:** Variante für ältere Jahrgänge: Jeder Spieler muss den Diamanten dribbelnd (mit Ball am Fuß) zurückbringen – schwieriger und mit Ballkontrolle.
-
-- **Punkte-Ausbau:** Nicht alle Diamanten haben den gleichen Wert. Ein Diamant näher am gegnerischen Tor zählt 2 Punkte, einer weiter weg nur 1 Punkt → strategischere Entscheidungen.
-
-- **Zeitbegrenzung pro Diamant:** Wer einen Diamanten holt, muss ihn in spätestens 10 Sekunden in die Basis bringen, sonst müssen alle in die Ausgangsposition zurück und neu starten – erhöht das Tempo.
+- **Leichter:** Mehr Bälle in der Mittelzone, und Gegner dürfen den Ball nur abfangen, wenn er stillliegt.
+- **Schwerer:** Jedes Kind darf nur mit dem schwächeren Fuß dribbeln, oder die Mittelzone wird schmaler.
+- **Für große Gruppen:** Zwei Felder nebeneinander, und nach fünf Minuten tauschen die Gruppen.

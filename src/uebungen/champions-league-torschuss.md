@@ -1,63 +1,45 @@
 ---
 layout: exercise.njk
-title: "Champions League – Torschuss mit Auf-/Abstieg"
+title: "Aufstiegs-Torschuss – Torschuss-Wettbewerb mit Auf- und Abstieg"
 kategorie: aufwaermen-abschluss
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: abschluss
-ziel: "Torschuss-Wiederholungen mit hoher Motivation, kaum Wartezeit."
-quelle: "soccerdrills.de"
-quelleUrl: "https://www.soccerdrills.de/magazin/komplettes-training/artikel/torschusswettkaempfe-im-kinderfussball-komplettes-training/"
+ziel: "Nach einem kurzen Slalom ruhig und gezielt aufs Tor schießen, auch wenn der Schuss weiter weg liegt."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/champions-league-torschuss.svg"
+bildAlt: "Hochkant-Feld 15 mal 15 Meter mit einem Tor oben, in dem ein Torhüter steht. Vier Bahnen laufen nebeneinander von unten auf das Tor zu, jede mit drei Hütchen im Slalom und einer Schussmarke, die von Bahn zu Bahn weiter vom Tor wegliegt. Ein Kind dribbelt durch Bahn 2, die anderen Kinder warten mit Ball am Bahnanfang."
 ---
 
 ## Aufbau
 
-- **Spielfeld:** 4 parallel angeordnete Slalombahnen à ca. 10 m Länge und 3 m Breite (nebeneinander, ca. 2 m Abstand)
-- **Material pro Bahn:**
-  - 5 Hütchen als Slalom-Parcours (ca. 1,5 m Abstand)
-  - 1 Tor (Minittor oder Hütchen-Tor, ca. 2 m breit) am Ende (Schussdistanz ca. 6 m)
-  - 3–4 Bälle bereitgestellt
-- **Ligen-Einteilung:** 
-  - **3. Liga:** Erste Bahn (leichteste)
-  - **2. Liga:** Zweite Bahn
-  - **Bundesliga:** Dritte Bahn
-  - **Champions League:** Vierte Bahn (schwierigste)
-- **Spielerzahl:** 8–12 Kinder (2–3 pro Liga)
-- **Startvergabe:** Alle starten in der 3. Liga
+- **Spielfeld:** 15 m breit, 15 m lang, ein Tor mit 5 m Breite oben in der Mitte
+- **Bahnen:** vier Streifen von 3 m Breite mit je 1 m Abstand, nummeriert von links nach rechts
+- **Slalom:** in jeder Bahn drei Hütchen im Abstand von 1,5 m, abwechselnd links und rechts
+- **Schussmarken:** je zwei Hütchen an den Bahnrändern, die eine Linie quer in der Bahn bilden, in Bahn 1 fünf, in Bahn 2 sechs, in Bahn 3 sieben und in Bahn 4 acht Meter vom Tor
+- **Material:** 20 Hütchen, ein Ball pro Kind
+- **Spieler:** 8 bis 12 Kinder, ein Torhüter im Wechsel. Zu Beginn verteilen sich die Kinder auf alle vier Bahnen, zwei bis drei pro Bahn, nie mehr als drei.
 
 ## Ablauf
 
-1. **Start:** Trainer gibt Startsignal. Alle Kinder der 3. Liga nehmen einen Ball.
-2. **Ablauf pro Kind:**
-   - Dribbling durch den Slalom-Parcours (5 Hütchen überwinden)
-   - Nach dem letzten Hütchen sofort abschießen aufs Tor (ca. 1–2 m danach)
-   - Treffer = Aufstieg zur nächst-höheren Liga
-   - Fehlschuss = bleibt in der aktuellen Liga und versucht es erneut
-3. **Aufstieg/Abstieg:**
-   - Treffer in der 3. Liga → Kind reiht sich in der 2. Liga ein (nächster Durchgang)
-   - Treffer in der 2. Liga → Aufstieg zur Bundesliga
-   - Treffer in der Bundesliga → Aufstieg zu Champions League
-   - Fehlschuss in einer Liga → bleibt dort, versucht nächstes Mal erneut
-4. **Abstieg (optional):** Wenn die Zeit lang wird und ältere Kinder schnell in CL aufsteigen – möglich: Fehlschuss in CL = Abstieg zur Bundesliga (erhöht Spannung).
-5. **Tempo:** Laufend ca. 10–15 Minuten. Wer am Ende am weitesten oben spielt, gewinnt (oder wer zuerst in CL kommt).
-6. **Varianten Zielstellung:** 
-   - Bestzeit-Modus: Nach Schuss direkt Tor verlassen, nächstes Kind dran (schnell und flüssig).
-   - Team-Modus: Teams ansagen, Punkte zählen (Team mit den meisten Aufstieg-Punkte gewinnt).
+1. Der Trainer ruft eine Bahn, aus ihr dribbelt das erste Kind durch den Slalom und schießt hinter der Marke aufs Tor. Danach ruft er die nächste Bahn, von 1 bis 4 nacheinander.
+2. Wer trifft, steigt auf: Er holt seinen Ball und stellt sich in der nächsten Bahn nach rechts hinten an. Wer in Bahn 4 trifft, bleibt dort und bekommt einen Punkt.
+3. Wer nicht trifft, steigt eine Bahn ab und stellt sich links hinten an. In Bahn 1 bleibt er.
+4. Sind in einer Bahn schon drei Kinder, tauscht das ankommende Kind mit dem letzten der Schlange, und das letzte Kind geht in die Bahn zurück, aus der das ankommende kam.
+5. Wartende halten ihren Ball in Bewegung und rollen ihn mit der Sohle hin und her, bis sie dran sind.
+6. Der Torhüter wechselt nach jeder Runde durch alle Bahnen. Nach zehn Minuten gewinnt, wer die meisten Punkte in Bahn 4 gesammelt hat. Gleichstand entscheidet ein Schuss.
 
 ## Coaching-Punkte
 
-- **Beidfüßigkeit erzwingen:** Rechter Fuß abschließen (3./2. Liga), linker Fuß (Bundesliga), beide Füße optional (CL). Trainiert schwächere Seite.
-- **Slalom-Qualität:** Nicht zu schnell dribbelnd, dass der Ball verloren geht – Kontrolle ist wichtiger als Speed.
-- **Schussplatzierung:** Nicht wild schießen, sondern **gezielt in die Ecken** (oben rechts/links oder unten) – trainiert Präzision, nicht nur Kraft.
-- **Schnelle Übergänge:** Nach Slalom sofort zum Schuss (keine Verzögerung, nicht bei Fuß verweilen).
-- **Häufige Fehler:**
-  - *Zu schneller Dribbling, Ball verloren:* Kind verliert den Ball im Slalom. *Korrektur:* „Ball nah beim Fuß – lieber langsamer und sicher, nicht schnell und verloren."
-  - *Zu schwach schießen:* Schuss kommt nicht zum Tor oder rollt zur Seite. *Korrektur:* „Mit Kraft abschließen, aber gezielt. Zielgenau ist wichtiger als laut."
+- **Kern in drei Wörtern:** Erst Slalom, dann Ecke. Der Ball bleibt am Fuß, bis die Schussmarke erreicht ist.
+- **Ziele setzen:** Ein Schuss in die Ecke ist schwerer zu halten als einer in die Mitte. Der Trainer ruft die Ecke vorher an.
+- **Torhüter aktiv:** Er gibt den Ball zurück, statt ihn nur zu halten. Das spart Zeit.
+- **Codewort am Platz:** Wer nur auf den Ball schaut, hört „Kopf hoch!“.
+- **Codewort am Platz:** Wer nach dem Schuss stehen bleibt, hört „Anschluss!“.
 
 ## Varianten
 
-- **Mit Links/Rechts-Vorgabe:** 3. Liga nur rechts, 2. Liga nur links, Bundesliga frei. Trainiert gezielte Beidfüßigkeit.
-- **Mit rollenden Bällen:** In höheren Ligen ist der Ball beim Start schon in Bewegung (leichte Rolle oder ein Assist-Pass) – schwerer.
-- **Außenrist-Abschluss:** Champions League: nur mit Außenrist abschließen (für Technik-Fans).
-- **Team-Modus:** 2 Teams, jedes mit eigenen 2 Bahnen. Nach Zeit Punktzähler der Aufstieg-Positionen gegeneinander – Team mit höheren Positionen gewinnt.
-- **Mit großen Gruppen:** Zwei identische Feld-Sets parallel (links und rechts), sodass keine langen Wartezeiten entstehen.
+- **Leichter:** Die Marken rücken in jeder Bahn einen Meter näher ans Tor, oder der Slalom entfällt in Bahn 1.
+- **Schwerer:** In Bahn 3 und 4 darf nur der schwächere Fuß schießen, oder die Marken rücken einen Meter weiter weg.
+- **Mit Torhüter:** Alle Kinder stehen im Wechsel einmal im Tor, der Trainer ruft den Wechsel nach jeder Runde.
+- **Mit Wettkampf:** Zwei Teams treten gegeneinander an, und jedes Team zählt die Punkte in Bahn 4 für sich.

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Feuer, Wasser, Sturm: Feld 30 mal 20 Meter mit einem Hütchen in jeder Ecke, sieben Kinder laufen in verschiedene Richtungen durch das Feld</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="10,6 14,14 6,14"/><polygon points="290,6 294,14 286,14"/><polygon points="10,186 14,194 6,194"/><polygon points="290,186 294,194 286,194"/>
+  </g>
+  <!-- Laufwege der Kinder -->
+  <g fill="none" stroke="#FFF300" stroke-width="2.5">
+    <path d="M72,56 L108,38" marker-end="url(#pfeil-gelb)"/>
+    <path d="M142,95 L188,101" marker-end="url(#pfeil-gelb)"/>
+    <path d="M226,57 L256,88" marker-end="url(#pfeil-gelb)"/>
+    <path d="M60,148 L42,118" marker-end="url(#pfeil-gelb)"/>
+    <path d="M132,162 L172,150" marker-end="url(#pfeil-gelb)"/>
+    <path d="M236,142 L206,168" marker-end="url(#pfeil-gelb)"/>
+    <path d="M108,116 L90,88" marker-end="url(#pfeil-gelb)"/>
+  </g>
+  <!-- Kinder -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="64" cy="60" r="7"/><circle cx="134" cy="94" r="7"/><circle cx="218" cy="52" r="7"/><circle cx="64" cy="154" r="7"/>
+    <circle cx="124" cy="165" r="7"/><circle cx="242" cy="148" r="7"/><circle cx="113" cy="123" r="7"/>
+  </g>
+</svg>

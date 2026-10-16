@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 160" role="img">
+  <title>Feldskizze Sofort-Torschuss: Hochkant-Feld mit Tor und Torhüter oben, eine Schussmarke aus Hütchen 7 Meter vor dem Tor, unten der Trainer mit Ballvorrat, links und rechts je eine Reihe wartender Kinder mit Ball, ein Kind läuft los und bekommt den Pass vom Trainer</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="160" fill="#2E7D32"/>
+  <!-- Feld 20 x 14 m -->
+  <rect x="0" y="0" width="200" height="140" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Tor 5 m -->
+  <rect x="75" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Schussmarke 7 m vor dem Tor -->
+  <line x1="40" y1="70" x2="160" y2="70" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <g fill="#F28C28"><polygon points="40,66 44,74 36,74"/><polygon points="160,66 164,74 156,74"/></g>
+  <!-- Wege: Pass vom Trainer, Laufweg des Kindes -->
+  <path d="M95,124 L70,92" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M46,104 L56,82" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Torhüter und Trainer -->
+  <circle cx="100" cy="10" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <circle cx="100" cy="130" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Kinder: Läufer links, Wartende in zwei Reihen -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="43" cy="112" r="7"/><circle cx="43" cy="130" r="7"/>
+    <circle cx="155" cy="100" r="7"/><circle cx="155" cy="115" r="7"/><circle cx="155" cy="130" r="7"/>
+  </g>
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="52" cy="133" r="3"/><circle cx="164" cy="103" r="3"/><circle cx="164" cy="118" r="3"/><circle cx="164" cy="133" r="3"/>
+    <circle cx="112" cy="134" r="3"/><circle cx="88" cy="134" r="3"/>
+  </g>
+</svg>
