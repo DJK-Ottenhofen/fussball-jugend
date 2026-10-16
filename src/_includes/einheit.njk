@@ -29,6 +29,18 @@ layout: base.njk
       </div>
     </div>
 
+    {% if prinzip or methode or codewort or keyEvent %}
+    <div class="concept-card">
+      <h2>Spielkonzept</h2>
+      <dl>
+        {% if prinzip %}<div><dt>Prinzip</dt><dd>{{ prinzip }}</dd></div>{% endif %}
+        {% if methode %}<div><dt>Methode</dt><dd>{{ methode }}</dd></div>{% endif %}
+        {% if codewort %}<div><dt>Codewort</dt><dd><strong>{{ codewort }}</strong></dd></div>{% endif %}
+        {% if keyEvent %}<div><dt>Key Event</dt><dd>{{ keyEvent }}</dd></div>{% endif %}
+      </dl>
+    </div>
+    {% endif %}
+
     {% if content %}<div class="detail-main">{{ content | safe }}</div>{% endif %}
 
     <ol class="timeline">
