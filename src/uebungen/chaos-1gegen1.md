@@ -5,45 +5,41 @@ kategorie: spielformen
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Maximale Anzahl an Einzelduellen in kurzer Zeit absolvieren und dabei schnelle Entscheidungen treffen."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Im dichten Gewimmel den Ball behalten, schnell entscheiden und ein Hütchentor erdribbeln."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/chaos-1gegen1.svg"
+bildAlt: "Querformat-Feld 30 mal 20 Meter mit vier Hütchentoren, je zwei an den Längsseiten. Drei Paare spielen gleichzeitig, gelb gegen schwarz, jedes Paar mit eigenem Ball. Links oben dribbelt Spieler 1 auf das nächste Tor, sein Gegner läuft neben ihm her."
 ---
 
 ## Aufbau
 
-- **Spielfeld:** ca. 30 × 20 m (je nach Gruppengröße vergrößern oder verkleinern)
-- **Tore:** 4–6 Minitore (Hütchen-Tore oder kleine Trainingstoren, je 2–3 m breit), gleichmäßig über das Feld verteilt (z. B. in den Ecken und an den Längskanten)
-- **Material:** 2–3 Fußbälle bereitgestellt (um schnell weitermachen zu können), 1 Ball-Assistent oder Trainer mit Ball
-- **Startreihe:** Alle Spieler stehen außerhalb des Feldes (an einer Seite), in einer lockeren Linie, parat zum Sprinten
+- **Spielfeld:** 30 × 20 m. Für größere Gruppen ein zweites Feld daneben.
+- **Tore:** vier Hütchentore, je 2 m breit, zwei an jeder Längsseite. Jedes Tor ist für alle offen.
+- **Material:** 12 Hütchen (4 Ecken, 8 für die Tore), ein Ball pro Paar, Leibchen in zwei Farben
+- **Spieler:** sechs Kinder im Feld, drei Paare. Jedes Paar hat einen Ball und ein Duell.
+- **Wartende:** stehen am Rand, jedes Kind mit eigenem Ball. Bis du dran bist: Ball mit der Sohle hin und her.
 
 ## Ablauf
 
-1. **Vorbereitung:** Trainer zeigt auf zwei Spieler (oder nennt Namen/Nummern) und sagt: „Los!"
-2. **Sprint ins Feld:** Beide Spieler sprinten sofort ins Feld.
-3. **Ballstart:** Der Trainer oder Ball-Assistent wirft/passt einen Ball in die Nähe der beiden Spieler (ca. Feldmitte).
-4. **1-gegen-1:** Die beiden spielen um eines der 4–6 verfügbaren Minitore. Der Ballbesitzer versucht zu treffen, der Gegner versucht zu blocken/stören. **Kein Gegner „am Tor" – alle Tore sind für beide erreichbar**, daher entsteht Spiel um freie Torchance.
-5. **Kurze Spielzeit:** Nach ca. 10–15 Sekunden pfeift der Trainer ab (oder nach Tor/Ballverlust – siehe Varianten).
-6. **Wechsel:** Die beiden Spieler laufen zurück zur Startreihe. Der Trainer zeigt auf die nächsten zwei Spieler.
-7. **Rotation:** Kontinuierlich, alle Kinder kommen abwechselnd dran. Ziel: 8–10 Minuten laufend verschiedene Duelle.
+1. Der Trainer erklärt in drei Sätzen: Ihr habt einen Ball, ein Gegner jagt ihn. Dribbel durch irgendein Tor.
+2. Die drei Paare starten gleichzeitig, jedes Paar mit einem Ball.
+3. Wer mit dem Ball durch ein Hütchentor dribbelt, bekommt einen Punkt. Er holt sich vom Rand einen neuen Ball, sein Gegner wartet so lange an der Mittellinie des Feldes.
+4. Der Gegner versucht, den Ball zu erobern. Wer ihn erobert, wird zum Dribbler.
+5. Nach 60 Sekunden pfeift der Trainer. Die Paare gehen raus, die nächsten drei kommen rein.
+6. Gespielt wird 10 bis 12 Minuten. Danach neue Paare nach Leibchenfarbe oder Zufall.
 
 ## Coaching-Punkte
 
-- **Schnelle Reaktion:** Spieler sollten **sofort** nach Aufruf sprinten – nicht überlegen, nicht zögern. Das trainiert Schnelligkeit und Aufmerksamkeit.
-- **1-gegen-1-Qualität:** 
-  - Ballbesitzer: nicht wild dribbeln, sondern gezielt zum nächsten offenen Tor fahren + schnell abschließen.
-  - Verteidiger: sofort anlaufen (nicht warten), zwischen Gegner und Tor positionieren, blocken.
-- **Chancenverwertung:** Auch mit 1–2 Ballkontakten zum Tor kommen – kein zu viel Jonglieren. Zeit ist kostbar.
-- **Defensive Intensität:** Der Gegner darf nicht „frei spielen" – sofort dran, nicht abwarten.
-- **Fairness:** Kein Fouling – sauberes Verteidigen, körperliche Präsenz ja, aber kein Schubsen/Schlagen.
-- **Häufige Fehler:**
-  - *Zu langsames Tempo:* Spieler joggen statt sprinten ins Feld. *Korrektur:* „Sprinten, nicht jogging! Schnelle Starts trainieren."
-  - *Verteidiger passiv:* Verteidiger folgt nur, lässt Gegner spielen. *Korrektur:* „Sofort anlaufen, vor den Ball! Gegner unter Druck ist deine Aufgabe."
+- **Kopf hoch:** Schau kurz auf. Es sind drei Duelle im Feld und du musst nicht nur deinen Gegner sehen, sondern auch die anderen Paare.
+- **Codewort am Platz:** „Drinbleiben!“ für den, der kurz vor dem Tor aufgeben will. Zu Ende dribbeln.
+- **Codewort am Platz:** „Jagen!“ für den Verteidiger. Dran bleiben, auch wenn der Dribbler umdreht.
+- **Anstechen:** Siehst du ein offenes Tor, geh sofort hin. Warte nicht, bis der Gegner da ist.
+- **Seitlich stehen:** Der Verteidiger steht schräg zum Dribbler, nicht frontal davor. So kann er nicht so leicht umspielt werden.
 
 ## Varianten
 
-- **Mit Feldspieler:** Ein neutraler 3. Spieler (Weste/Bib) steht im Feld und spielt immer zu, wer schneller reagiert/kommt – erhöht Spielfluss + Ballkontakte.
-- **Punkte-System:** Unterschiedliche Tore zählen unterschiedliche Punkte (Ecke-Tore = 1 Punkt, Mittelbereiche = 2 Punkte) – macht die Tor-Wahl strategischer.
-- **Auto-Wechsel:** Nach Tor oder Ballverlust (nicht auf Pfiff warten) – automatisch nächste zwei rein. Schneller Rhythmus, kaum Pausen.
-- **Multiple Duelle:** 2–3 Duelle parallel (wenn Platz + Trainer genug da), mehrere Paare spielen gleichzeitig auf verschiedenen Bereichen.
-- **Mit Seitenspielern:** Ein neutraler Spieler an der Seite kann zupassen – auch für Außenverteidiger-Training gedacht (Pass spielen, Flanke).
+- **Leichter:** Nur zwei Paare im Feld. Sechs statt vier Tore, damit immer eines in der Nähe ist.
+- **Schwerer:** Wer ein Tor erdribbelt hat, darf dasselbe Tor nicht gleich wieder nehmen, sondern muss zu einem anderen.
+- **Mit Wettkampf:** Jedes Paar zählt seine Punkte. Das Paar mit den meisten Punkten über alle Runden gewinnt. Die Gruppe zählt am Ende laut mit.
+- **Für große Gruppen:** Zweites und drittes Feld nebeneinander. Rundlauf im Uhrzeigersinn von Feld zu Feld.
+- **Wartezeit:** Wer nicht im Feld ist, hält den Ball in Bewegung. Niemand steht länger als zwei Minuten ohne Ball.

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 220" role="img">
+  <title>Feldskizze FUNiño mit Bonuspunkten: Feld 25 mal 20 Meter, vier Minitore an den Grundlinien, Schusszone 6 Meter vor jeder Grundlinie, Spieler 1 passt zu Spieler 2 in der Schusszone, der auf das obere rechte Tor schießt</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="220" fill="#2E7D32"/>
+  <!-- Feld 25 x 20 m -->
+  <rect x="0" y="0" width="250" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Schusszonen 6 m vor den Grundlinien -->
+  <line x1="60" y1="0" x2="60" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <line x1="190" y1="0" x2="190" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Minitore je 2 m, 12 m Abstand -->
+  <g fill="#F28C28">
+    <polygon points="0,16 4,24 -4,24"/><polygon points="0,36 4,44 -4,44"/>
+    <polygon points="0,156 4,164 -4,164"/><polygon points="0,176 4,184 -4,184"/>
+    <polygon points="250,16 254,24 246,24"/><polygon points="250,36 254,44 246,44"/>
+    <polygon points="250,156 254,164 246,164"/><polygon points="250,176 254,184 246,184"/>
+  </g>
+  <!-- Wege -->
+  <path d="M146,113 L198,77" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M214,64 L244,34" fill="none" stroke="#fff" stroke-width="2.5" marker-end="url(#pfeil-weiss)"/>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="160" cy="80" r="7"/><circle cx="196" cy="142" r="7"/><circle cx="232" cy="150" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="130" cy="124" r="7"/><circle cx="206" cy="70" r="7"/><circle cx="100" cy="170" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="130" y="127.2">1</text><text x="206" y="73.2">2</text><text x="100" y="173.2">3</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="160" y="83.2">1</text><text x="196" y="145.2">2</text><text x="232" y="153.2">3</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="139" cy="119" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

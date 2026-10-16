@@ -5,72 +5,42 @@ kategorie: spielformen
 altersgruppen: [F]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Ballkontrolle im 1-gegen-1, freien Raum andribbeln, auf Gegner reagieren."
-quelle: "advance.football"
-quelleUrl: "https://training.advance.football/pages/funino"
+ziel: "Im Tempo auf ein Tor dribbeln, den anlaufenden Gegner sehen und rechtzeitig abschließen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/eins-gegen-eins-dynamisch.svg"
+bildAlt: "Kleines Feld 15 mal 10 Meter mit einem Minitor rechts, einer gestrichelten Mittellinie und Hütchen in den Ecken. Der gelbe Angreifer startet links mit dem Ball in Bewegung und dribbelt auf die Mittellinie zu. Der schwarze Verteidiger steht oben bei einem Hütchen an der Seitenlinie und läuft schräg zum Tor."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 15 × 10 m (Kleinfeld)  
-**Spielerzahl:** 4–8 Spieler (ideal 2 Felder mit je 2–4 Spielern)  
-**Material:** 1 Tor (oder 2 Markierungshütchen) pro Feld, mehrere Bälle bereit an der Seite, Leibchen zur Markierung
-
-**Feldaufbau:**
-- Ein kleines Tor (oder Hütchentore) an einem Ende.
-- Zwei Startpositionen: eine für Angreifer (ca. 8 m vom Tor entfernt), eine für Verteidiger (nah am Tor oder beliebig).
-- Mehrere Bälle neben dem Feld, damit nach jedem Abschluss direkt der nächste Versuch folgt (keine Wartezeiten).
-
----
+- **Spielfeld:** 15 × 10 m, ein Feld pro Gruppe. Zwei Felder nebeneinander, wenn mehr als sechs Kinder da sind.
+- **Tor:** ein Minitor, 2 m breit, mittig auf der rechten Grundlinie
+- **Mittellinie:** gestrichelt, bei 7,5 m. Sie ist das Startzeichen für den Verteidiger.
+- **Material:** 7 Hütchen, ein Ball pro Kind in der Schlange, Ersatzbälle am Rand
+- **Spieler:** Angreifer an der linken Grundlinie, der Verteidiger an einem Hütchen an der Seitenlinie, 3 m vor der rechten Grundlinie
+- **Wartende:** höchstens drei pro Startpunkt, alle mit Ball. Sie halten ihn mit der Sohle in Bewegung.
 
 ## Ablauf
 
-### Phase 1: Warm-up – Freies 1-gegen-1 ohne Gegner (5 Min)
-
-- Jeder Spieler dribbelt mit Ball zur gegnerischen Torlinie und versucht zu treffen.
-- Keine Verteidiger – reines Dribbling + Abschluss trainieren.
-- Fokus: Ball mitgenommen, schnell zum Tor, Abschluss.
-
-### Phase 2: Dynamisches 1-gegen-1 (10–15 Min)
-
-- **Angreifer-Start:** Ein Spieler dribbelt mit Ball an (startet in ca. 8 m Entfernung).
-- **Verteidiger-Start:** Ein zweiter Spieler läuft bereits (läuft vor dem Tor herum oder „wartet" aktiv), um Druck aufzubauen.
-- **Spielablauf:** Angreifer versucht, den Ball in die Bewegung zum Tor zu bringen und zu schießen.
-- **Verteidiger-Job:** Ball blocken oder den Schuss störend – kein hartes Pressing, aber aktiver Widerstand.
-- **Nach dem Abschluss:** Sofort nächster Ball vom Rand; beide Spieler wieder in Startposition.
-
-### Rotation & Rollen
-
-- Nach 5–8 Versuchen: Angreifer und Verteidiger wechseln.
-- Alternativ: Nach jedem Versuch sofort neu ansagen, wer Angreifer und Verteidiger ist.
-
-### Variante: Mehrere Zonen
-
-- 2–3 Felder parallel: Mehr Spieler, mehr Aktionen gleichzeitig.
-
----
+1. Zum Aufwärmen laufen zwei Runden ohne Verteidiger. Dann erklärt der Trainer in drei Sätzen: Du startest mit dem Ball in Bewegung. Läufst du über die Mittellinie, darf der Verteidiger los. Dann geht es auf das Tor.
+2. Der Angreifer dribbelt langsam los und wird nach wenigen Schritten schneller.
+3. Sobald er die Mittellinie überquert, startet der Verteidiger schräg zum Ball.
+4. Der Angreifer schließt aufs Tor ab, solange der Verteidiger ihn nicht erwischt hat.
+5. Nach jedem Versuch holt sich der nächste Angreifer sofort einen neuen Ball. Verteidiger und Angreifer tauschen die Rollen nach fünf Versuchen.
+6. Nach 10 bis 12 Minuten wird gewechselt.
 
 ## Coaching-Punkte
 
-- **Raumerkennung:** „Wo ist freier Raum? Schau nach vorne, nicht immer auf den Ball."
-- **Tempo-Variieren:** Nicht immer gleich schnell dribbeln – schnelle Dribbel-Sprints sind effektiver als „langsam aufbauen".
-- **Erste Berührung in Bewegung:** Der erste Ballkontakt sollte den Ball in die Laufrichtung zum Tor mitnehmen, nicht bremsen.
-- **Abschluss-Timing:** Rechtzeitig schießen, nicht „zu lange dribbeln" – im 1-gegen-1 wird man sonst eingeholt.
-
-### Häufige Fehler & Korrektur
-
-- **Fehler:** Angreifer dribbelt zu lange, wird vom Verteidiger eingeholt.  
-  **Korrektur:** „Nach 3–4 Dribbel-Berührungen: Schuss! Nicht zu lange spielen."
-
-- **Fehler:** Angreifer schaut nur auf den Ball, nicht auf die Position des Verteidigers.  
-  **Korrektur:** „Schau kurz hoch – wo ist der Gegner? Dort herum dribbeln!"
-
----
+- **Kopf hoch:** Schau nach dem ersten Schritt auf. Wo steht er, wo ist das Tor? Erst dann entscheidest du.
+- **Drinbleiben:** Du bleibst am Ball und bringst das Dribbling zu Ende, auch wenn der Gegner schon neben dir ist.
+- **Codewort am Platz:** „Wiese machen!“ Ist Platz vor dir, lauf mit dem Ball los.
+- **Jagen:** Der Verteidiger bleibt an ihm dran, auch wenn der Angreifer die Richtung wechselt.
+- **Früh schießen:** Nach drei, vier Berührungen aufs Tor. Wer zu lange dribbelt, wird eingeholt.
 
 ## Varianten
 
-- **Mit Flanke-Annahme:** Statt frei dribbeln: Hinter-der-Grundlinie-Flanke kommt, Angreifer nimmt an und schießt sofort.
-
-- **2 Tore / 2 Richtungen:** Spieler können beide Richtungen verteidigen/angreifen – mehr Flexibilität.
-
-- **Tempo-Vorgabe:** Angreifer muss in maximal 5 Sekunden abschließen – Druck erhöhen.
+- **Leichter:** Der Verteidiger startet erst, wenn der Angreifer das Tor schon sehen kann, und läuft nur halbes Tempo.
+- **Schwerer:** Der Verteidiger startet an der Mittellinie selbst, oder zwei Verteidiger starten nacheinander.
+- **Mit Torhüter:** Ein wartendes Kind steht im Tor und wechselt nach jedem Versuch.
+- **Mit Wettkampf:** Jeder Angreifer zählt seine Treffer in fünf Versuchen. Danach tauschen alle die Rolle.
+- **Für große Gruppen:** Drei Felder nebeneinander, die Kinder rotieren nach 4 Minuten ein Feld weiter.

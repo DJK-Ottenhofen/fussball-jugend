@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Chaos 1-gegen-1: Feld 30 mal 20 Meter mit vier Hütchentoren an den Längsseiten, drei Paare gelb gegen schwarz spielen gleichzeitig mit je einem Ball, links oben dribbelt Spieler 1 auf ein Tor, sein Gegner läuft neben ihm</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="300,-4 304,4 296,4"/>
+    <polygon points="0,196 4,204 -4,204"/><polygon points="300,196 304,204 296,204"/>
+  </g>
+  <!-- Hütchentore je 2 m, zwei oben, zwei unten -->
+  <g fill="#F28C28">
+    <polygon points="80,-4 84,4 76,4"/><polygon points="100,-4 104,4 96,4"/>
+    <polygon points="200,-4 204,4 196,4"/><polygon points="220,-4 224,4 216,4"/>
+    <polygon points="80,196 84,204 76,204"/><polygon points="100,196 104,204 96,204"/>
+    <polygon points="200,196 204,204 196,204"/><polygon points="220,196 224,204 216,204"/>
+  </g>
+  <!-- Wege -->
+  <path d="M90,110 q7,-7 0,-14 t0,-14 l0,-14" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M128,138 L118,114" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Paar 1 -->
+  <circle cx="90" cy="130" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <circle cx="130" cy="146" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Paar 2 -->
+  <circle cx="190" cy="100" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <circle cx="168" cy="114" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Paar 3 -->
+  <circle cx="240" cy="160" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <circle cx="262" cy="144" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="90" y="133.2">1</text><text x="190" y="103.2">2</text><text x="240" y="163.2">3</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="130" y="149.2">1</text><text x="168" y="117.2">2</text><text x="262" y="147.2">3</text>
+  </g>
+  <!-- Bälle -->
+  <circle cx="90" cy="118" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="198" cy="92" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="232" cy="168" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
