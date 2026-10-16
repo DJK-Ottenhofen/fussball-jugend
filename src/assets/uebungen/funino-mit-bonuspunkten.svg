@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 220" role="img">
-  <title>Feldskizze FUNiño mit Bonuspunkten: Feld 25 mal 20 Meter, vier Minitore an den Grundlinien, Schusszone 6 Meter vor jeder Grundlinie, Spieler 1 passt zu Spieler 2 in der Schusszone, der auf das obere rechte Tor schießt</title>
+  <title>Feldskizze Funino mit Bonuspunkten: Feld 25 mal 20 Meter, vier Minitore an den Grundlinien, Schusszone 6 Meter vor jeder Grundlinie, Spieler 1 passt zu Spieler 2 in der Schusszone, der auf das obere rechte Tor schießt</title>
   <defs>
     <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
     <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
