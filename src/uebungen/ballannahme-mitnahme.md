@@ -5,59 +5,40 @@ kategorie: technik
 altersgruppen: [E, D]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Den ersten Ballkontakt in den freien Raum orientieren und sofort eine Spielaktion einleiten."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Den ersten Kontakt so setzen, dass der Ball in Laufrichtung weiterrollt und das Kind ohne Stopp die nächste Aktion beginnt."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/ballannahme-mitnahme.svg"
+bildAlt: "Querfeld 20 × 16 m mit zwei Paaren übereinander. In jedem Paar steht links und rechts ein Kind, 10 m auseinander, neben jedem zwei Hütchen als Richtungsziele hinter sich. Im oberen Paar passt Spieler 1 flach zu Spieler 2, der den Ball in Richtung des unteren rechten Hütchens mitnimmt. Das untere Paar wartet am Ball."
 ---
 
 ## Aufbau
 
-- **Feldgröße:** 20 × 15 m (für Phase 1–2), 20 × 20 m mit Tor (für Phase 3)
-- **Spielerzahl:** 4–6 Kinder pro Gruppe (zwei Reihen à 2–3 Spieler)
-- **Material:** 1 Ball pro Paar, 4–6 Markierungshütchen, 1 Tor/Techniktor (für Phase 3)
-- **Feldaufbau:** Zwei Reihen (A und B) stehen sich ca. 10 m gegenüber. Jeder Reihe hat eine kurze Zeile mit 1–2 m Abstand zur nächsten Person. Für Phase 3: Ein Tor (oder Hütchen-Tor, 2 m breit) am Ende des Feldes.
+- **Spielfeld:** 20 × 16 m, je Paar eine Bahn von 8 m Breite
+- **Material:** pro Paar ein Ball und vier Hütchen
+- **Spieler:** Paare, je zwei Paare teilen sich ein Feld. Bei mehr Kindern kommt ein weiteres Feld dazu.
+- **Positionen:** Die beiden Partner stehen 10 m auseinander. Hinter jedem Kind (vom Partner aus gesehen) markieren zwei Hütchen, 2,5 m seitlich versetzt, die möglichen Richtungsziele.
 
 ## Ablauf
 
-### Phase 1: Grund-Mitnahme (10–12 Min)
-
-1. Spieler A1 passt flach und präzise zu B1 (ca. 10 m, Bodenniveau).
-2. B1 schaut kurz hoch, bevor der Ball kommt → wo ist freier Raum? Links oder rechts?
-3. B1 nimmt den Ball an mit der **Außenseite** (Fußspann seitlich) und orientiert ihn sofort **zur Seite** oder **schräg vorwärts** — nicht direkt zurück zu A.
-4. B1 dribbelt 2–3 schnelle Schritte in die gewählte Richtung, Ball eng unter Kontrolle.
-5. B1 passt zu A2 (nächster in der A-Reihe). Gleiche Aktion andersrum.
-6. Wiederholungen: A1 → B1 → A2 → B2 → A1 etc. — kontinuierlich ca. 10–12 Min.
-
-### Phase 2: Tempo erhöht (8–10 Min)
-
-1. Gleiche Struktur wie Phase 1.
-2. **Unterschied:** Pässe werden schneller gespielt (weniger Zeit zum Überlegen).
-3. Der Spieler muss automatisch reagieren – Hochschauen, schnelle Entscheidung, sofort Mitnahme nach vorn.
-4. Nach Mitnahme nicht innehalten, sondern direkt abgeben (kein Dribbeln, schnelle Ballzirkulation).
-5. Ziel: Der Ball sollte ca. alle 1–2 Sekunden die Reihen durchfließen.
-
-### Phase 3: Mit Tor/Abschluss (8–10 Min)
-
-1. Beide Reihen stehen sich am Ende eines 20 m langen Feldes gegenüber. Tor (oder Minittor/Hütchen-Tor) am Ende der einen Reihe.
-2. A passt zu B (kein Gegendruck).
-3. B nimmt an, orientiert sich zur Seite/vorn, dribbelt 2–3 m in den freien Raum.
-4. B schießt aufs Tor oder dribbelt über eine Ziellinie (ca. 3 m vor dem Tor).
-5. B passt dann zu nächstem in A-Reihe. Reihenfolge: A1 → B1 (Schuss) → A2 → B2 (Schuss) etc.
-6. **Variante:** Nur Tore zählen, wenn der erste Kontakt sauber war (Innen-/Außenseite, nicht mit Sohle oder unsicher).
+1. Kind 1 passt flach zu Kind 2.
+2. Kind 2 hat vor dem Pass entschieden, welches seiner beiden Hütchen es ansteuert.
+3. Mit dem ersten Kontakt führt es den Ball in diese Richtung und läuft ihm nach.
+4. Am Hütchen angekommen, passt es flach zurück zu Kind 1 und läuft zurück auf seinen Platz.
+5. Kind 1 nimmt den Ball genauso mit, zu einem seiner Hütchen, spielt zurück und geht auf seinen Platz.
+6. So läuft der Ball ohne Pause hin und her. Nach zwei Minuten gibt der Trainer eine Pause und eine neue Vorgabe: Innenseite, Außenseite oder schwacher Fuß.
+7. Nach etwa zehn Minuten spielt jedes Paar eine Wertungsrunde: Wie viele Annahmen in Folge schafft ihr, bei denen der Ball nie stehen bleibt?
 
 ## Coaching-Punkte
 
-- **Hochschauen ist König:** Bevor der Ball kommt, schon wissen, in welche Richtung man ihn nehmen will. Das spart Zeit im Spiel.
-- **Außenseite bevorzugt:** Mit der Fußaußenseite (Spann seitlich) annehmen → schneller im freien Raum als mit Innenseite.
-- **Erster Kontakt = Raum schaffen:** Nach vorne oder zur Seite, nie direkt zurück – das ist zu langsam und zu eng.
-- **Sofort aktiv:** Kein Stopp nach Ballannahme. Mitnahme und sofort die nächste Aktion (Pass, Dribbel, Schuss).
-- **Häufige Fehler:**
-  - *Zu langsame Ballannahme:* Spieler stoppt mit Sohle, wartet – Gegner kommt zu schnell ran. *Korrektur:* „Mit Außenseite mitgenommen, nicht gestoppt – der Ball soll weiterlaufen, nicht stehen."
-  - *Zu weit weg angenommen:* Ball verliert sich von Körper – unkontrolliert. *Korrektur:* Kleinere Pässe starten, Ballkontakt eng halten.
+- **Entscheiden, bevor der Ball kommt:** Wer das Hütchen schon gewählt hat, braucht nach dem Pass keine Zeit mehr zum Überlegen.
+- **Codewort am Platz:** „Kopf hoch!" Der Blick geht kurz zum Hütchen und wieder zum Ball.
+- **Codewort am Platz:** „Erste Aktion nach vorne!" Der erste Kontakt zeigt dorthin, wo das Kind weiterspielen will, nie zurück zum Passgeber.
+- **Ball nicht stoppen, sondern mitnehmen:** Der Fuß gibt dem Ball die neue Richtung und läuft mit. Ein Ball, der steht, ist verloren.
+- **Der Ball bleibt nah:** Er liegt nach der Annahme höchstens einen Schritt vor dem Fuß. Rollt er weiter weg, war der Kontakt zu hart.
 
 ## Varianten
 
-- **Mit passivem Gegner:** Ein Gegner folgt dem Ballempfänger nach dem Pass und drückt leicht zu – realistischer, höhere Anforderung.
-- **Unterschiedliche Pass-Höhen:** Kurze, flache Pässe trainieren + später halbhohe/hohe Pässe für Vielseitigkeit.
-- **Mit Vorgabe:** „Heute nur mit schwächerer Seite!" oder „Nur Außenseite-Mitnahmen zählen!"
-- **Dribbel-Variante:** Nach Mitnahme nicht abgeben, sondern 5 m dribbeln + dann abschließen (trägt mehr zum Dribbel bei).
+- **Leichter:** Abstand auf 6 m verkürzen, oder der Ball darf nach der Annahme einmal kurz gestoppt werden.
+- **Schwerer:** Der Partner ruft im Moment des Passes das Hütchen, das angesteuert wird. Oder die Pässe kommen halbhoch.
+- **Mit Gegner:** Ein dritter Spieler läuft nach dem Pass locker auf den Empfänger zu und gibt ihm einen Grund, den Ball von sich wegzuführen.
+- **Mit Wettkampf:** Paare gegeneinander. Jede Annahme, bei der der Ball ohne Stopp ans Hütchen kommt, gibt einen Punkt.

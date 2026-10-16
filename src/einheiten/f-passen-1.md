@@ -4,6 +4,10 @@ title: "F-Jugend · Passen 1"
 altersgruppen: [F]
 dauer: 75
 schwerpunkt: "Passen / Ballannahme"
+prinzip: "Ich schaffe Anspielmöglichkeiten."
+methode: "Stellung: so offen wie möglich, so geschlossen wie nötig"
+codewort: "Kopf hoch"
+keyEvent: "Du bietest dich _ Mal spieloffen zum Ball an."
 phasen:
   - name: "Aufwärmen"
     minuten: 18

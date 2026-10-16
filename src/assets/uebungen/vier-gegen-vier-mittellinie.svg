@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze 4-gegen-4 mit Mittellinienregel: Feld mit gestrichelter Mittellinie und einem Minitor mittig an jeder Schmalseite, Spieler 1 in Gelb passt über die Mittellinie zu Spieler 2, Spieler 3 läuft nach vorne, schwarze Verteidiger in beiden Hälften</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Mittellinie -->
+  <line x1="150" y1="0" x2="150" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Minitore -->
+  <rect x="-4" y="90" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="300" y="90" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Wege -->
+  <path d="M86,102 L182,78" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M120,160 Q170,170 225,150" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Verteidiger -->
+  <circle cx="115" cy="55" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="175" cy="130" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="245" cy="95" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Angreifer mit Positionsnummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="70" cy="105" r="7"/><circle cx="192" cy="75" r="7"/><circle cx="105" cy="160" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="70" y="108.2">1</text><text x="192" y="78.2">2</text><text x="105" y="163.2">3</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="79" cy="100" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

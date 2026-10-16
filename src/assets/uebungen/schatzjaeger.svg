@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 220" role="img">
+  <title>Feldskizze Schatzjäger: Feld 25 mal 20 Meter mit Schatzinsel aus Bällen in der Mitte, links die Truhe von Team Gelb, rechts die Truhe von Team Schwarz, je ein Kind dribbelt einen Ball zur eigenen Truhe</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="220" fill="#2E7D32"/>
+  <!-- Feld 25 x 20 m -->
+  <rect x="0" y="0" width="250" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Schatzinsel 8 x 8 m in der Mitte -->
+  <rect x="85" y="60" width="80" height="80" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".9"/>
+  <!-- Schatztruhen 3 x 3 m -->
+  <rect x="0" y="85" width="30" height="30" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".9"/>
+  <rect x="220" y="85" width="30" height="30" fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".9"/>
+  <!-- Hütchen an den Truhen und an der Insel -->
+  <g fill="#F28C28">
+    <polygon points="30,81 34,89 26,89"/><polygon points="30,111 34,119 26,119"/>
+    <polygon points="220,81 224,89 216,89"/><polygon points="220,111 224,119 216,119"/>
+    <polygon points="85,56 89,64 81,64"/><polygon points="165,56 169,64 161,64"/><polygon points="85,136 89,144 81,144"/><polygon points="165,136 169,144 161,144"/>
+  </g>
+  <!-- Wege -->
+  <path d="M82,92 q-8,6 -16,0 t-16,0 t-16,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M168,112 q8,6 16,0 t16,0 t16,0" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <path d="M50,150 L78,134" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M195,45 L172,62" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Schätze: Bälle -->
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="100" cy="75" r="3"/><circle cx="125" cy="85" r="3"/><circle cx="145" cy="75" r="3"/><circle cx="112" cy="125" r="3"/>
+    <circle cx="138" cy="122" r="3"/><circle cx="150" cy="100" r="3"/><circle cx="97" cy="108" r="3"/>
+    <circle cx="86" cy="92" r="3"/><circle cx="125" cy="65" r="3"/><circle cx="118" cy="100" r="3"/><circle cx="132" cy="102" r="3"/><circle cx="163" cy="112" r="3"/>
+  </g>
+  <!-- Team Gelb -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="98" cy="92" r="7"/><circle cx="42" cy="154" r="7"/><circle cx="40" cy="40" r="7"/>
+  </g>
+  <!-- Team Schwarz -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="152" cy="112" r="7"/><circle cx="203" cy="40" r="7"/><circle cx="210" cy="160" r="7"/>
+  </g>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 220" role="img">
+  <title>Feldskizze Ausdauer-Parcours mit Ball: Rundkurs 30 mal 20 Meter mit Hütchen-Slalom, Koordinationsleiter, drei Reifen und Hütchentor, ein gelber Spieler dribbelt im Slalom und läuft die Runde zurück zum Start</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="220" fill="#2E7D32"/>
+  <!-- Feld 30 x 20 m -->
+  <rect x="0" y="0" width="300" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Slalomhütchen -->
+  <g fill="#F28C28">
+    <polygon points="70,166 74,174 66,174"/><polygon points="130,166 134,174 126,174"/><polygon points="190,166 194,174 186,174"/>
+  </g>
+  <!-- Koordinationsleiter -->
+  <rect x="255" y="85" width="20" height="60" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <g stroke="#fff" stroke-width="1.5">
+    <line x1="255" y1="90" x2="275" y2="90"/><line x1="255" y1="95" x2="275" y2="95"/><line x1="255" y1="100" x2="275" y2="100"/>
+    <line x1="255" y1="105" x2="275" y2="105"/><line x1="255" y1="110" x2="275" y2="110"/><line x1="255" y1="115" x2="275" y2="115"/>
+    <line x1="255" y1="120" x2="275" y2="120"/><line x1="255" y1="125" x2="275" y2="125"/><line x1="255" y1="130" x2="275" y2="130"/>
+    <line x1="255" y1="135" x2="275" y2="135"/><line x1="255" y1="140" x2="275" y2="140"/>
+  </g>
+  <!-- Reifen -->
+  <g fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1.5">
+    <circle cx="225" cy="50" r="5"/><circle cx="190" cy="50" r="5"/><circle cx="155" cy="50" r="5"/>
+  </g>
+  <!-- Hütchentor -->
+  <g fill="#F28C28">
+    <polygon points="95,36 99,44 91,44"/><polygon points="95,56 99,64 91,64"/>
+  </g>
+  <!-- Wege: Dribbling im Slalom, dann Runde über Leiter, Reifen und Tor zurück -->
+  <path d="M44,170 Q64,150 100,170 T160,170 T220,170" fill="none" stroke="#FFF300" stroke-width="2.5"/>
+  <path d="M220,170 Q265,175 265,150 L265,70 Q265,50 240,50 L80,50 Q40,50 40,80 L40,140" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Läufer -->
+  <circle cx="26" cy="170" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <circle cx="34" cy="178" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

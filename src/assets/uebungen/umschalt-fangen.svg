@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 170" role="img">
+  <title>Feldskizze Umschalt-Fangen: Rechteck 25 mal 15 Meter mit vier Eckhütchen, sechs Läufer und zwei Fänger mit gelbem Ring, ein Fänger jagt einen Läufer, der in eine neue Richtung ausweicht</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="170" fill="#2E7D32"/>
+  <!-- Feld 25 x 15 m -->
+  <rect x="0" y="0" width="250" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="250,-4 254,4 246,4"/><polygon points="0,146 4,154 -4,154"/><polygon points="250,146 254,154 246,154"/>
+  </g>
+  <!-- Wege: Fänger jagt, Läufer weicht aus -->
+  <path d="M64,70 L132,62" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <path d="M166,60 Q190,40 215,50" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Läufer Team A -->
+  <g>
+    <circle cx="150" cy="60" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="70" cy="120" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="110" cy="25" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="200" cy="110" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="228" cy="30" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="40" cy="30" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  </g>
+  <!-- Fänger Team B mit gelbem Ring -->
+  <g>
+    <circle cx="50" cy="72" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/><circle cx="50" cy="72" r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>
+    <circle cx="180" cy="95" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/><circle cx="180" cy="95" r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>
+  </g>
+</svg>

@@ -4,6 +4,10 @@ title: "F-Jugend · Dribbling 1"
 altersgruppen: [F]
 dauer: 75
 schwerpunkt: "Dribbling / Ballführung"
+prinzip: "Ich nutze Räume vor mir."
+methode: "Mutig nach vorne andribbeln"
+codewort: "Wiese machen / Treiben"
+keyEvent: "Du dribbelst _ Mal mutig in freien Raum, statt zu warten."
 phasen:
   - name: "Aufwärmen"
     minuten: 18

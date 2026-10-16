@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 250 170" role="img">
+  <title>Feldskizze Dribbel-Sprint: drei Bahnen von 20 Metern zwischen gestrichelter Startlinie und einem Hütchentor am Bahnende, an jeder Bahn ein Läufer mit Ball an der Linie und zwei wartende Kinder mit eigenem Ball dahinter, auf Bahn 2 dribbelt der Läufer zum Hütchentor</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="250" height="170" fill="#2E7D32"/>
+  <!-- Feld 23 x 15 m, drei Bahnen im Abstand 5 m, Bahnlänge 20 m von Startlinie bis Hütchentor -->
+  <rect x="0" y="0" width="230" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Startlinie -->
+  <line x1="20" y1="0" x2="20" y2="150" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchentore am Bahnende, 2 m breit -->
+  <g fill="#F28C28">
+    <polygon points="220,11 224,19 216,19"/><polygon points="220,31 224,39 216,39"/><polygon points="220,61 224,69 216,69"/><polygon points="220,81 224,89 216,89"/><polygon points="220,111 224,119 216,119"/><polygon points="220,131 224,139 216,139"/>
+  </g>
+  <!-- Beispielweg Bahn 2 -->
+  <path d="M46,75 q 8,-6 16,0 t 16,0 t 16,0 t 16,0 t 16,0 t 16,0 t 16,0 t 16,0 t 16,0 t 16,0" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Läufer an der Startlinie (je Bahn), zwei Wartende links davon -->
+  <g>
+    <circle cx="32" cy="25" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="8" cy="11" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="8" cy="39" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="32" cy="125" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="8" cy="111" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="8" cy="139" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  </g>
+  <g>
+    <circle cx="32" cy="75" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="8" cy="61" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+    <circle cx="8" cy="89" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  </g>
+  <!-- Bälle: Läufer und Wartende haben je einen -->
+  <g>
+    <circle cx="40" cy="25" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="19" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="47" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="40" cy="75" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="69" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="97" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="40" cy="125" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="119" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="8" cy="147" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  </g>
+</svg>

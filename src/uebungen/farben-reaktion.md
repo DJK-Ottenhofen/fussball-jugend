@@ -5,61 +5,37 @@ kategorie: koordination
 altersgruppen: [bambini, F]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Reaktionsschnelligkeit und räumliche Orientierung fördern durch Farbzuruf und Zielsprinten."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Das Kind reagiert schnell auf ein Signal und behält dabei den Überblick im Feld."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/farben-reaktion.svg"
+bildAlt: "Grünes Feld, 30 mal 20 Meter, mit je einer Gruppe aus drei orangen Hütchen in jeder Ecke. In der Mitte stehen vier gelbe Kinder. Zwei Pfeile führen von der Mitte zu den Ecken oben rechts und unten links. Alle Hütchen sind in der Skizze orange, die vier Farben gibt es nur am Platz."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 30 × 20 Meter  
-**Spielerzahl:** 8–12 Kinder pro Gruppe  
-**Material:**
-- 4 Hütchen-Sets in unterschiedlichen Farben (Rot, Gelb, Blau, Grün)
-- Je Farbecke: 3–4 Hütchen
-- 1–2 Fußbälle pro Gruppe (für Variante 2)
-
-Hütchen-Sets in den vier Ecken des Feldes positionieren. Die Ecken sollten deutlich voneinander entfernt sein, damit Sprints 10–15 Meter dauern.
+- **Spielfeld:** 30 × 20 m, in jeder Ecke eine Hütchengruppe
+- **Material:** 12 Hütchen in vier Farben (rot, gelb, blau, grün), je Ecke drei gleiche Hütchen, für die zweite Runde ein Ball pro Kind
+- **Spieler:** 8 bis 12 Kinder, alle laufen gleichzeitig
+- **Positionen:** Alle Kinder stehen verteilt in der Mitte, jeder mit Platz um sich herum
 
 ## Ablauf
 
-**Phase 1: Aufwärm-Sprinten (8–10 Minuten)**
-1. Alle Kinder stehen locker in der Mittellinie des Feldes.
-2. Trainer ruft laut eine Farbe (z. B. „Rot!").
-3. Alle sprinten maximal schnell zur gerufenen Hütchen-Farbe in der Ecke, berühren mindestens ein Hütchen und sprinten zurück zur Mitte.
-4. Kurze Verschnaufpause (5–10 Sekunden).
-5. Nächste Farbe wird gerufen. 8–10 Durchgänge pro Runde, 2–3 Runden insgesamt.
-
-**Pausen zwischen Rufen:** Trainer wartet etwa 3–5 Sekunden zwischen den Rufen, damit Kinder nicht zu früh „antizipativ" losrennen.
-
-**Phase 2: Mit Ball (ab F-Jugend, 8–10 Minuten)**
-1. Kinder stehen mit Ball am Fuß in der Mitte.
-2. Trainer ruft eine Farbe.
-3. Jedes Kind dribbelt den Ball zur gerufenen Hütchen-Farbe und wieder zurück zur Mitte.
-4. Rückweg: Ball unter sicherer Kontrolle, nicht in Vollgas, sondern flüssig und kontrolliert.
-5. 6–8 Durchgänge.
-
-**Phase 3: Wettbewerb (optional, 5–8 Minuten)**
-1. Gruppe in zwei Teams (A und B) aufteilen.
-2. Teams stellen sich in zwei Reihen gegenüber auf (ca. 2–3 Meter Abstand).
-3. Trainer ruft Farbe und sofort ein Team: „Farbe Rot – Gruppe A!"
-4. Nur Gruppe A sprintet los, berührt die rote Hütchen-Ecke und zurück.
-5. Wer zuerst zurück ist, gewinnt einen Punkt für sein Team.
-6. Nächster Durchgang mit der anderen Gruppe oder gleicher Gruppe nochmal.
+1. Der Trainer ruft eine Farbe, zum Beispiel „Blau".
+2. Alle flitzen los zur Ecke mit den blauen Hütchen und tippen eines an.
+3. Ohne Pause laufen sie zurück in die Mitte, der Trainer ruft die nächste Farbe.
+4. Nach acht Rufen gibt es eine kurze Trinkpause. Nach zehn bis zwölf Minuten wechselt die Aufgabe.
+5. In der zweiten Runde hat jedes Kind einen Ball und dribbelt zur gerufenen Farbe und zurück.
+6. Zum Schluss ruft der Trainer zwei Farben nacheinander. Wer sich beide merkt, läuft erst zur einen und dann zur anderen Ecke.
 
 ## Coaching-Punkte
 
-- **Echte Reaktion trainieren:** Nicht zu vorhersehbar die gleiche Farbe zweimal hintereinander rufen. Manchmal die gleiche Farbe 2× in Folge rufen – das überrascht die Kinder und trainiert echte Reaktion statt Antizipation.
-- **Sprintqualität:** In Phase 1 volle Intensität und gute Beschleunigung aus dem Stand. Das ist das Trainingsziel – Schnellkraft und explosive Kraft.
-- **Ballkontrolle unter Blickkontakt:** In Phase 2: Kopf oben halten. Dribbeln heißt nicht Vollgas-Sprinten mit dem Ball, sondern flüssige Ballführung mit regelmäßigem Blick auf die Hütchen.
-- **Kleine Schritte und Ballnähe:** Bei Phase 2 dem Hütchen: Ball muss eng beim Fuß bleiben, kleine, schnelle Tritte. Das verhindert, dass der Ball wegrutscht.
-- **Feedback statt Strafe:** Kinder können sich die Farbe „verhören" oder verwechseln – das ist völlig normal und lustig, keine Strafe. Einfach nächste Runde starten.
-- **Rhythmus und Musik (optional):** Später kann man die Rufe mit Pfiff oder Trommeln untermalen – macht das Spiel rhythmischer und lustiger.
+- **Ohren auf:** Warte auf den Ruf, dann erst starten. Wer zu früh läuft, geht zurück.
+- **Platz teilen:** In der Ecke tippen alle ein Hütchen an, keiner drängelt.
+- **Ball nah am Fuß:** Beim Dribbeln bleibt der Ball nah bei dir, sonst rennt er davon.
+- **Schnell zurück:** Nach dem Tippen sofort zurück in die Mitte und wieder lauschen!
 
 ## Varianten
 
-- **Mit Staffel:** 2er-Teams: Kind A sprintet, danach die Partner-Person (B). Wer hat das Team zuerst 5× durchgebracht?
-- **Zusatzaufgaben in der Ecke:** In der Farb-Ecke muss jedes Kind hüpfen, einen Purzelbaum drehen, oder auf der Stelle hochspringen, bevor es zurückrennt.
-- **Rückwärts-Variante:** Auf dem Rückweg rückwärts laufen oder mit Sprunglaufen/Fersenlaufen zurück zur Mitte.
-- **Memory-Modus (schwieriger):** Trainer ruft 2 Farben schnell hintereinander (z. B. „Rot – Blau!"). Kinder merken sie und sprinten erst zur Roten, dann zur Blauen Ecke ohne Stopp dazwischen.
-- **Ball hochheben:** In Phase 2: Nach der Dribbel-Ecke zurück zur Mitte, aber mit freier Hand den Ball in die Luft werfen und fangen.
+- **Leichter:** Die Ecken liegen näher beieinander, der Trainer zeigt die Farbe zusätzlich mit dem Arm.
+- **Schwerer:** Die Kinder laufen rückwärts zurück oder hüpfen auf einem Bein zur Ecke.
+- **Mit Wettkampf:** Wer zuerst ein Hütchen antippt, bekommt einen Punkt. Danach zählen alle gemeinsam.

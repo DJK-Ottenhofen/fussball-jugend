@@ -5,65 +5,39 @@ kategorie: koordination
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Reaktion, Gegnerbewegungen wahrnehmen, Grundschnelligkeit, Richtungswechsel."
-quelle: "advance.football"
-quelleUrl: "https://www.advance.football/jugendfussball-blog/fangspiele-im-fussball"
+ziel: "Auf ein Signal blitzschnell von Flucht auf Jagd umschalten und dabei Richtung und Tempo wechseln."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/umschalt-fangen.svg"
+bildAlt: "Rechteckfeld 25 mal 15 Meter mit vier Hütchen in den Ecken. Sechs gelbe Läufer verteilen sich im Feld, zwei Fänger tragen einen gelben Ring um den schwarzen Kreis. Ein Fänger läuft auf einen Läufer zu, der in einem Bogen nach rechts ausweicht."
 ---
 
 ## Aufbau
 
-**Spielfeld:** Rechteck ca. 25 × 15 m, gut begrenzt mit Hütchen oder Trainingsleibchen an den Ecken. Das Feld sollte groß genug sein, dass Läufer rennen können, aber nicht so groß, dass Fänger nie jemanden fassen.
-
-**Spieler:** Die ganze Gruppe gleichzeitig (ideal 8–16 Kinder).
-
-**Rollen:** 
-- 1–2 Fänger zu Beginn (je nach Gruppengröße; bei großer Gruppe: 2–3 Fänger)
-- Alle anderen sind Läufer
-
-**Material:** Leibchen oder Trainingsleibchen (für Fänger) – dies ist zentral, um die Rollen klar zu unterscheiden.
-
-**Variante:** Ein Ball kann mitgenommen werden, ist aber nicht notwendig (siehe Varianten unten).
+- **Spielfeld:** 25 × 15 m, vier Hütchen in den Ecken
+- **Material:** 2 Leibchen für die Fänger (Team B), 4 Hütchen, 1 Pfeife
+- **Spieler:** 8 bis 14 Kinder, davon 2 Fänger. Die Läufer sind Team A.
+- **Positionen:** Die Läufer verteilen sich im Feld, die Fänger starten in zwei Ecken.
 
 ## Ablauf
 
-1. **Start:** Der Trainer erklärt die Regeln: „Die Fänger versuchen, Läufer zu fangen. Wer gefangen wird, wird sofort selbst Fänger."
-
-2. **Spielphase (ca. 2–4 Minuten je Durchgang):**
-   - Die Fänger (mit Leibchen leicht erkennbar) jagen die anderen Kinder.
-   - Die Läufer rennen, ausweichen, spurten – dürfen das Feld nicht verlassen.
-   - Wer vom Fänger berührt wird (leichte Berührung reicht), bleibt stehen, bekommt das Leibchen und wird sofort selbst Fänger.
-   - Das Umschalten ist blitzschnell: von „ich flüchte" zu „ich jage" in einer Sekunde.
-
-3. **Intensität und Kommunikation:**
-   - Der Trainer oder beobachtende Assis. rufen „Fänger!" laut, wenn jemand gefasst wird, damit das Kind sofort mitbekommt, dass es umschalten muss.
-   - Regelmäßig (nach 2–3 Minuten) kann der Trainer mit Pfiff alle stoppen, dann lädt er neue Energie ein und startet einen neuen Durchgang.
-
-4. **Durchgänge:** 
-   - F-Jugend: 3–4 kurze Durchgänge à 2–3 Minuten mit Pausen dazwischen (kein Dauerlauf, eher intensive Sprints).
-   - E-Jugend: 4–5 Durchgänge à 3–4 Minuten, kann anstrengender sein.
+1. Die Fänger jagen die Läufer. Wer berührt wird, tauscht sofort das Leibchen und ist Fänger.
+2. Nach 20 bis 30 Sekunden pfeift der Trainer einmal. Jetzt dreht sich alles um: Die Fänger fliehen, alle Läufer jagen die Fänger.
+3. Wer in der Umkehr einen Fänger berührt, ruft laut „Punkt!“. Die Gruppe zählt mit.
+4. Beim zweiten Pfiff ist das Spiel wieder wie am Anfang: Die Fänger jagen, die Läufer fliehen.
+5. Nach vier bis sechs Wechseln gibt es eine Pause mit Trinken, und neue Fänger werden gewählt.
+6. Nach spätestens zehn Minuten wechselt die Aufgabe. Zum Schluss zählt die Gruppe, wie viele Punkte zusammenkamen.
 
 ## Coaching-Punkte
 
-**Reaktion und Gegnerbewegung:**
-- **Früh erkennen:** Läufer müssen lernen, den Fänger im Auge zu behalten und frühzeitig die Richtung zu ändern, nicht erst, wenn er direkt hinter ihnen ist.
-- **Kurs korrigieren:** Ein Spurt in eine völlig neue Richtung ist effektiver als nur leicht auszuweichen – wie bei echten Gegneraktionen im Spiel.
-
-**Schnelles Umschalten:**
-- **Mentale Schärfe:** Das schnelle Umschalten von Läufer zu Fänger trainiert die Reaktionsfähigkeit, die im Spiel beim Ballgewinn entscheidend ist (schnell aufs gegnerische Tor denken).
-- **Körper-Einsatz:** Wer gerade noch flüchtete, muss nun mit vollem Fokus jagen – das verlangt Konzentration.
-
-**Häufige Fehler und Korrekturen:**
-- *Fehler:* Ein Fänger gibt auf und läuft nicht mehr richtig. Oder Läufer verstecken sich außerhalb des Feldes.  
-  *Korrektur:* Feld sehr klar begrenzen, Trainer korrigiert direkt: „Alle bleiben im Feld, Fänger geben nicht auf – volle Spannung!"
-- *Fehler:* Kinder verstehen das Umschalten nicht oder werden neuer Fänger und fühlen sich bestraft.  
-  *Korrektur:* Positives Framing: „Das ist nicht bestraft, das ist dein neuer Job – ab jetzt jagst du!" Trainer gibt ein Hochfive.
+- **Augen auf:** Schau auf den Fänger und nicht auf deine Füße.
+- **Schnell umschalten:** Beim Pfiff drehst du sofort um und läufst in zwei Schritten voll los.
+- **Richtung wechseln:** Wer geradeaus läuft, ist leicht zu fangen. Dreh ab und ändere das Tempo.
+- **Codewort am Platz:** Rufe „Jagen!“, wenn ein Kind nach dem Pfiff stehen bleibt.
+- **Fänger fair:** Berühre mit der Hand an der Schulter, nicht schubsen.
 
 ## Varianten
 
-**Variante 1 – Mit Ball:** Ein oder mehrere Bälle sind im Spiel. Läufer können den Ball mit sich nehmen und dribbeln. Fänger müssen Läufer ODER den Ballführer treffen. Dies trainiert zusätzlich Ballkontakt unter Druck und Wahrnehmung.
-
-**Variante 2 – Sichere Zone:** Ein kleiner Bereich (ca. 2 × 2 m) in einer Ecke ist eine „Safe Zone". Wer dort ist, kann nicht gefasst werden – aber maximal ein Spieler gleichzeitig und nur 5 Sekunden lang. Dies trainiert taktisches Denken und verhindert reines Verstecken.
-
-**Variante 3 – Farben-Umschalt:** Der Trainer ruft Farben auf (z. B. „Rot!" oder „Blau!"). Alle Spieler mit dieser Farbe werden Fänger, alle anderen Läufer. Mehr Abwechslung, schnellere Rollen-Rotation.
-
-**Variante 4 – Musik-Fangen:** Beim Pausieren der Musik werden neue Fänger auswählt oder Rollen getauscht. Läufer tanzen oder hüpfen, bis Musik stoppt – dann startet das Fangen.
+- **Leichter:** Nur ein Fänger, das Feld wird größer, und die Pfiffe kommen seltener.
+- **Schwerer:** Die Pfiffe kommen unregelmäßig, mal nach 10, mal nach 30 Sekunden.
+- **Mit Rückwärts:** In der Umkehr müssen die Fliehenden die ersten fünf Schritte rückwärts laufen.
+- **Mit Aufgabe:** Wer berührt wurde, macht fünf Hocksprünge und spielt weiter.

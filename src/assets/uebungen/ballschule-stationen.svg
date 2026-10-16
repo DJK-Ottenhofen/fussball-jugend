@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 100 80" role="img">
+  <title>Feldskizze Ballschule: eine Station, 8 mal 6 Meter, fünf Hütchen in einer Reihe, drei Kinder mit Ball gleichzeitig unterwegs, eines dribbelt im Slalom um die Hütchen</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="100" height="80" fill="#2E7D32"/>
+  <!-- Feld 8 x 6 m -->
+  <rect x="0" y="0" width="80" height="60" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Station: Slalom mit fünf Hütchen -->
+  <g fill="#F28C28">
+    <polygon points="20,26 24,34 16,34"/><polygon points="32,26 36,34 28,34"/><polygon points="44,26 48,34 40,34"/><polygon points="56,26 60,34 52,34"/><polygon points="68,26 72,34 64,34"/>
+  </g>
+  <!-- Weg -->
+  <path d="M14,30 Q20,50 26,30 T38,30 T50,30 T62,30" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Kinder mit Ball, alle gleichzeitig unterwegs -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="8" cy="30" r="7"/><circle cx="30" cy="52" r="7"/><circle cx="62" cy="52" r="7"/>
+  </g>
+  <circle cx="8" cy="38" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="37" cy="52" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="69" cy="52" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

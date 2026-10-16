@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 260 280" role="img">
+  <title>Feldskizze Torschuss im Rundlauf: Tor mit Torhüter oben, Schusslinie 13 Meter vor dem Tor, Wendehütchen in der Mitte, unten zwei Startreihen, das erste Kind der linken Reihe dribbelt um das Hütchen, schießt und läuft außen zurück in die linke Reihe</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="260" height="280" fill="#2E7D32"/>
+  <!-- Feld 24 x 26 m -->
+  <rect x="0" y="0" width="240" height="260" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Schussbereich -->
+  <rect x="0" y="0" width="240" height="130" fill="#fff" fill-opacity=".12"/>
+  <!-- Tor 5 m -->
+  <rect x="95" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Schusslinie 13 m vor dem Tor -->
+  <line x1="20" y1="130" x2="220" y2="130" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchen: Schusslinie, Wendehütchen, Startpunkte -->
+  <g fill="#F28C28">
+    <polygon points="20,125 24,133 16,133"/><polygon points="220,125 224,133 216,133"/>
+    <polygon points="120,146 124,154 116,154"/>
+    <polygon points="60,206 64,214 56,214"/><polygon points="180,206 184,214 176,214"/>
+  </g>
+  <!-- Wege -->
+  <path d="M60,198 L72,178 q8,-6 14,-14 t14,-14 q10,-12 24,-10 t22,10" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M150,138 L138,24" fill="none" stroke="#fff" stroke-width="2.5" marker-end="url(#pfeil-weiss)"/>
+  <path d="M118,40 Q8,90 38,226" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Torhüter -->
+  <circle cx="112" cy="10" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Spieler: linke Reihe (1 mit Ball), rechte Reihe -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="60" cy="224" r="7"/><circle cx="60" cy="240" r="7"/><circle cx="60" cy="256" r="7"/>
+    <circle cx="180" cy="224" r="7"/><circle cx="180" cy="240" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="60" y="227.2">1</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="68" cy="229" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="188" cy="229" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

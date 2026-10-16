@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 270" role="img">
+  <title>Feldskizze 1-gegen-1 im Funino-Aufbau: Feld mit je zwei Minitoren an beiden Schmalseiten, gestrichelte Schusszonen-Linien, ein gelber Angreifer dribbelt nach rechts gegen einen schwarzen Verteidiger</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="270" fill="#2E7D32"/>
+  <!-- Feld 30 x 25 m -->
+  <rect x="0" y="0" width="300" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Schusszonen 6 m vor den Toren -->
+  <line x1="60" y1="0" x2="60" y2="250" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <line x1="240" y1="0" x2="240" y2="250" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Vier Minitore, je zwei an den Schmalseiten -->
+  <rect x="-4" y="40" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="-4" y="190" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="300" y="40" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <rect x="300" y="190" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Dribbling des Angreifers -->
+  <path d="M135,155 q8,-6 16,0 t16,0 t16,0 t16,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Verteidiger -->
+  <circle cx="140" cy="135" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Angreifer -->
+  <circle cx="120" cy="155" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <!-- Ball -->
+  <circle cx="128" cy="164" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

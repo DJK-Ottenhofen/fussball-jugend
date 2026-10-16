@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 170" role="img">
+  <title>Feldskizze Tier-Parcours: Rundkurs 20 mal 15 Meter mit Slalomhütchen, drei Reifen, zwei Stangen als Hürde und einer Hütchengasse, ein Laufweg führt durch alle Stationen</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="170" fill="#2E7D32"/>
+  <!-- Feld 20 x 15 m -->
+  <rect x="0" y="0" width="200" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Station Slalom: fünf Hütchen unten -->
+  <g fill="#F28C28">
+    <polygon points="30,126 34,134 26,134"/><polygon points="55,126 59,134 51,134"/><polygon points="80,126 84,134 76,134"/><polygon points="105,126 109,134 101,134"/><polygon points="130,126 134,134 126,134"/>
+  </g>
+  <!-- Station Reifen: drei Reifen rechts -->
+  <g fill="#fff" fill-opacity=".15" stroke="#fff" stroke-width="1.5">
+    <circle cx="170" cy="100" r="5"/><circle cx="170" cy="75" r="5"/><circle cx="170" cy="50" r="5"/>
+  </g>
+  <!-- Station Hürde: zwei Stangen auf je zwei Hütchen oben -->
+  <g fill="#F28C28">
+    <polygon points="100,4 104,12 96,12"/><polygon points="100,24 104,32 96,32"/><polygon points="130,4 134,12 126,12"/><polygon points="130,24 134,32 126,32"/>
+  </g>
+  <g fill="#fff">
+    <rect x="99" y="10" width="2" height="16"/><rect x="129" y="10" width="2" height="16"/>
+  </g>
+  <!-- Station Gasse: zwei Hütchenpaare links -->
+  <g fill="#F28C28">
+    <polygon points="20,56 24,64 16,64"/><polygon points="40,56 44,64 36,64"/><polygon points="20,96 24,104 16,104"/><polygon points="40,96 44,104 36,104"/>
+  </g>
+  <!-- Laufweg einmal durch den Kurs -->
+  <path d="M18,130 Q30,150 42,130 T67,130 T92,130 T117,130 T142,130 L160,130 Q170,130 170,112 L170,45 Q170,18 145,18 L55,18 Q30,18 30,40 L30,118" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Kinder -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="85" cy="85" r="7"/><circle cx="190" cy="85" r="7"/><circle cx="120" cy="38" r="7"/><circle cx="10" cy="75" r="7"/>
+  </g>
+</svg>

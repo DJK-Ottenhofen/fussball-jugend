@@ -5,86 +5,41 @@ kategorie: technik
 altersgruppen: ["E"]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Abschlusstechnik aus der Bewegung, viele Wiederholungen."
-quelle: "Fußball-Training-Blog"
-quelleUrl: "https://trainerblog.fussball-training.org/fussballtraining/torschuss/torschussuebungen-im-rundlauf-9800.html"
+ziel: "Aus dem Dribbling heraus schießen und in kurzer Zeit viele Abschlüsse mit beiden Füßen sammeln."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/torschuss-im-rundlauf.svg"
+bildAlt: "Hochkant-Feld 24 × 26 m mit Tor und Torhüter oben und einer gestrichelten Schusslinie 13 m vor dem Tor. In der Mitte steht ein Wendehütchen, unten links und rechts je eine Startreihe mit Hütchen. Das erste Kind der linken Reihe dribbelt um das Hütchen, schießt und läuft anschließend außen herum zurück in die linke Reihe."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 30 × 20 Meter (halbes Kleinfeld mit Tor an einem Ende)  
-**Spielerzahl:** 12–18 Feldspieler + 2 Torwarte (ideal: 2 Reihen à 6–9 Spieler, 2 Tore parallel oder 1 großes Tor)  
-**Material:**
-- 1–2 Jugendtore (alternativ Hütchen-Tore, jeweils 5 m breit)
-- 1–2 Torwarte (oder erfahrene ältere Spieler)
-- 2–4 Markierungshütchen (für Dribilingsstrecke oder Wendepunkt)
-- 6–8 Bälle (zentral gelagert oder bei den Reihen)
-- Optional: Flugstangen/Trainingtore für Slalom-Dribbling
-
-**Feld-Aufbau:**
-```
-Startreihe (2 Gruppen nebeneinander, ca. 20 m vom Tor entfernt)
-    ↓ (mit/ohne Dribbling-Strecke)
-Schusslinie (ca. 10–12 m vor dem Tor)
-    ↓
-Tor mit Torwart
-```
-
----
+- **Spielfeld:** 24 m breit, 26 m lang, ein Tor (5 m) mit Torhüter an der Stirnseite
+- **Wendehütchen:** ein Hütchen in der Mitte, 15 m vor dem Tor
+- **Schusslinie:** Hütchenlinie 13 m vor dem Tor, der Schuss fällt spätestens dort
+- **Startreihen:** zwei Reihen unten links und rechts, je ein Hütchen als Startpunkt, 21 m vor dem Tor
+- **Material:** ein Tor, ein Wendehütchen, vier Hütchen für Schusslinie und Starts, ein Ball pro Kind in den Reihen
+- **Spieler:** höchstens drei Kinder pro Reihe, dazu der Torhüter. Bei mehr Kindern kommt ein zweites Tor mit eigenen Reihen dazu.
 
 ## Ablauf
 
-**Vorbereitung (1–2 Min):** Zwei Reihen bilden (Gruppe 1 links, Gruppe 2 rechts). Torwart positioniert sich. Trainer erklärt den Ablauf einmal.
-
-**Phase 1: Einfacher Rundlauf ohne Dribbel-Strecke (3–4 Min)**
-1. Kind 1 aus Reihe 1 hat einen Ball.
-2. **Dribbeln:** Kind läuft zum Tor, dribbelt mit Ballkontrolle.
-3. **An Schusslinie:** Kurzer Stop (ca. 1 Sekunde) — Blick zum Tor.
-4. **Abschluss:** Kind schießt aufs Tor (Innenseite, frei nach oben weg, nicht festgekrallt).
-5. **Nach Schuss:** Kind holt seinen Ball (oder neuen Ball).
-6. **Einreihen:** Zurück an die hinteren Reihe.
-7. **Nächstes Kind (Reihe 2):** Startet sofort, sobald Kind 1 geschossen hat.
-8. **Wechsel:** Reihe 1 ↔ Reihe 2 im Rhythmus (ca. alle 10–15 Sekunden ein Schuss).
-9. **Ziel:** Viele Schüsse, hohe Erfolgsquote (mindestens 50 % Torquote anstreben).
-
-**Phase 2: Mit Dribbling-Strecke (4–5 Min, optional)**
-1. Statt direkt zu dribbeln: Slalom durch 3 Hütchen auf dem Weg zum Tor.
-2. Rest bleibt wie Phase 1 (Schuss an Schusslinie, einreihen).
-3. **Ziel:** Ballkontrolle unter Bewegung trainieren; der Schuss kommt nach anspruchsvollerer Vorbereitung.
-
-**Phase 3: Mit zusätzlichen Anforderungen (3–4 Min, optional)**
-1. Trainer gibt Kommando vor dem Schuss:
-   - „Außenseite!" → Kind muss mit Außenseite schießen
-   - „Innenrist!" → Innenrist
-   - „Schwacher Fuß!" → Mit dem anderen Fuß schießen
-2. Kind passt sich an und schießt entsprechend.
-3. **Ziel:** Beidfüßigkeit trainieren; Variabilität.
-
-**Phase 4: Wettkampf – Tore zählen (3–5 Min, optional)**
-1. Nach vorherigen Phasen: Normale Rundlauf, aber **Tore werden gezählt** (pro Reihe).
-2. Nach 3–5 Minuten: Welche Reihe hat mehr Tore?
-3. Gewinnergruppe bekommt kleine Belohnung (z. B. dürfen zuerst zum Wasser, oder „Champions"-Runde mit extra 30 Sekunden Schießen).
-
-**Dauer:** 10–18 Minuten insgesamt (je nach Phasen-Anzahl und Gruppe).
-
----
+1. Das erste Kind der linken Reihe dribbelt vom Start zum Wendehütchen.
+2. Es umrundet das Hütchen und schießt aus der Drehung heraus, spätestens an der Schusslinie.
+3. Sobald der Ball unterwegs ist, startet das erste Kind der rechten Reihe. Es umrundet das Hütchen in die andere Richtung und schießt.
+4. Der Schütze holt seinen Ball und trägt ihn außen herum, ohne die Bahn des nächsten Kindes zu kreuzen, zurück in die eigene Reihe. Dort stellt er sich hinten an.
+5. Nach fünf Minuten wechselt der Torhüter, und der Trainer gibt eine neue Vorgabe: schwacher Fuß, Außenseite oder Vollspann.
+6. Zum Schluss zählt jede Reihe vier Minuten lang ihre Tore. Die Reihe mit mehr Treffern gewinnt. Die Reihen bleiben dafür die ganze Übung über zusammen.
 
 ## Coaching-Punkte
 
-- **Breite Torquote = Motivation:** Kinder sollten regelmäßig treffen. Wenn zu wenige Tore fallen, Schussentfernung verkürzen (von 12 m auf 8–10 m). Erfolg motiviert zum Weitermachen.
-- **Tempo vor Perfektion:** Schnelle Abläufe (kurze Wartezeiten) ist wichtiger als exakte Schusttechnik. Ein „schmutziger" Treffer ist wertvoll.
-- **Beidfüßigkeit:** Trainer sollte explizit fordern: „Nächsten Schuss mit links/rechts!" Sonst spezialisieren sich Kinder zu früh auf einen Fuß.
-- **Torwart-Einsatz:** Ein aktiver Torwart macht es spannender (Halten ist erlebbar). Falls kein TW da ist, auch nur Markierungstore (Hütchen) akzeptabel.
-- **Belastungswechsel:** Nach 5 Minuten intensives Schießen sollte kurze Pause oder Wechsel zu niedrigerer Intensität folgen (z. B. lockeres Passen).
-
-**Häufige Fehler & Korrektur:**
-- *Schüsse ungenaue / zu viele Fehlschüsse:* Zu große Entfernung zum Tor oder zu schnelles Schießen. → **Korrektur:** Schusslinie auf 8–10 m verkürzen; Trainer sagt vor Schuss: „Stop, Blick zum Tor, dann schießen" — Rhythmus vorgeben.
-- *Kinder immer mit dem starken Fuß schießen:* Keine Beidfüßigkeit. → **Korrektur:** Explizites Kommando: „Nur heute Schüsse mit links!" — nach 2–3 Wochen Training sollte schwacher Fuß besser sein.
-
----
+- **Der Ball bleibt in der Drehung am Fuß:** Beim Umrunden bleibt der Ball nah. Wer ihn zu weit wegschiebt, kommt nicht mehr zum Schuss.
+- **Codewort am Platz:** „Kopf hoch!" Ein kurzer Blick zum Tor vor dem Schuss, dann schießen.
+- **Codewort am Platz:** „Erste Aktion nach vorne!" Nach der Drehung geht der nächste Kontakt zum Tor, nicht zur Seite.
+- **Standbein neben den Ball:** Das Standbein steht neben dem Ball und zeigt zum Tor, der Schuss kommt aus dem Hüftschwung, nicht aus dem Knie.
+- **Gleich weiter:** Wer geschossen hat, läuft sofort zurück in die eigene Reihe. So bleibt jeder in Bewegung, und keine Reihe wird zu lang.
 
 ## Varianten
 
-- **Mit Gegner-Druck:** Ein leichter Gegner folgt dem Dribler (nicht aggressiv, eher „Schatten spielen") — trainiert Druck-Verarbeitung.
-- **Verschiedene Schuss-Techniken:** Phase 1 Innenrist, Phase 2 Fußrücken, Phase 3 Außenseite — jeder Rundlauf eine andere Technik.
-- **Mit Finte vor Schuss:** Vor der Schusslinie eine kleine Finte (z. B. Übersteiger oder Drehung) — trainiert Spielerische Kreativität vor Abschluss.
+- **Leichter:** Die Schusslinie rückt auf 9 m heran, oder das Hütchen fällt weg und es wird geradeaus gedribbelt.
+- **Schwerer:** Statt eines Hütchens stehen drei im Slalom, oder der Schuss muss zwingend mit dem schwächeren Fuß fallen.
+- **Mit Gegner:** Ein Verteidiger startet am Wendehütchen und attackiert, sobald das Kind abdreht.
+- **Mit Wettkampf:** Jedes Tor gibt einen Punkt, ein Treffer mit dem schwächeren Fuß zwei. Welche Reihe schafft nach vier Minuten mehr Punkte?

@@ -1,73 +1,43 @@
 ---
 layout: exercise.njk
-title: 'FUNiño „Schneller Abschluss“ (6-Sekunden-Regel)'
+title: "Funino – Schneller Abschluss in sechs Sekunden"
 kategorie: spielformen
 altersgruppen: [E]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Mut zum Torschuss, Umschalten, Abschluss aus der Bewegung."
-quelle: "fussballbasis.de"
-quelleUrl: "https://fussballbasis.de/artikel/funino-im-kinderfussball-aufbau-regeln-coaching"
+ziel: "Nach dem Ballgewinn sofort nach vorne spielen und den Abschluss mutig aus der Bewegung suchen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/funino-schneller-abschluss.svg"
+bildAlt: "Querfeld mit je zwei Minitoren an den beiden Schmalseiten und zwei gestrichelten Linien als Schusszonen. Rechts im Feld schießt ein gelber Spieler aus der Schusszone auf das untere rechte Tor, zwei schwarze Verteidiger stehen davor, ein gelber Mitspieler läuft nach vorne."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 
-- E-Jugend: ca. 26 × 18 Meter
-
-**Spielerzahl:** 3-gegen-3 pro Feld
-
-**Material:**
-- 4 Hütchen-Minitore (je 2 pro Team, auf der Grundlinie)
-- 4–6 Fußbälle liegen bereit
-- 2 Leibchen-Sätze (unterschiedliche Farben)
-- Stoppuhr oder Smartphone-Timer zum Zeitmessen
-- Optional: Trillerpfeife für Foul/Zeit-Signale
-
-**Aufstellung:** Wie standard-FUNiño, aber mit Zeitregel. Die 4 Minitore (je 2 pro Team) sind auf der Grundlinie positioniert. Kein Torwart.
+- **Spielfeld:** 30 m lang, 25 m breit, an jeder Schmalseite zwei Minitore (je 2 m)
+- **Schusszone:** gestrichelte Hilfslinie 7 m vor jeder Torseite
+- **Material:** vier Minitore, Hütchen für die Hilfslinien, Leibchen in zwei Farben, ein Ball, eine Uhr mit Sekundenanzeige oder ein Timer am Handy
+- **Spieler:** 3-gegen-3, ohne Torhüter, bei mehr Kindern ein zweites Feld, das ein Co-Trainer oder ein Kind mit Uhr zählt
+- **Positionen:** je ein Kind pro Team in der Nähe der eigenen Tore, die anderen verteilt im Feld
 
 ## Ablauf
 
-**Spiel-Modus: 6-Sekunden-Regel**
-
-Sobald ein Team den Ball gewinnt (Ballraub, Passinterception, gegnerischer Fehlpass), beginnt die 6-Sekunden-Stoppuhr:
-- Ballbesitzendes Team muss innerhalb von 6 Sekunden auf eines seiner Ziel-Tore treffen und Tor schießen.
-- Wird nicht geschossen oder Tor nicht erreicht nach 6 Sekunden: **Ballbesitzwechsel** – anderes Team bekommt Ball.
-- Wenn Tor fällt vor 6 Sekunden: Punkt zählt, Spiel setzt fort.
-
-**Beispiel-Ablauf:**
-1. Team A gewinnt Ball durch Ballraub.
-2. Trainer zählt laut mit oder Stoppuhr läuft im Hintergrund: „1... 2... 3..."
-3. Team A versucht schnell, auf eines ihrer Tore zu spielen und zu treffen.
-4. Nach 3 Sekunden: Team A schießt – Tor! 1 Punkt.
-5. Oder: Nach 6 Sekunden sind vorbei – kein Schuss versucht → Ballbesitzwechsel.
-
-**Spiel-Dauer:** 15–20 Minuten pro Feld, danach Wechsel.
-
-**Zählen und Signals:**
-- Trainer zählt laut (für jüngere E-Jugend): „1, 2, 3..." → Kinder wissen, wo sie im Zeitrahmen sind.
-- Oder: Trainer nutzt Stoppuhr, gibt Pfiff bei 6 Sekunden (schneller für ältere, konzentriertere Gruppen).
+1. Das Spiel beginnt mit Anstoß in der Feldmitte.
+2. Sobald ein Team den Ball erobert, zählt der Trainer laut sechs Sekunden herunter.
+3. In dieser Zeit muss das Team in die Schusszone kommen und schießen. Ein Tor in der Zeit zählt zwei Punkte.
+4. Schafft das Team den Schuss in sechs Sekunden nicht, bekommt der Gegner den Ball an der Seitenlinie.
+5. Tore ohne Zeitdruck zählen einen Punkt, geschossen werden darf nur aus der Schusszone.
+6. Nach zwei Minuten wechselt ein Kind pro Team, nach sechs Minuten tauschen die Felder die Gewinner.
 
 ## Coaching-Punkte
 
-- **Erster Kontakt nach vorn:** Das wichtigste Coaching-Punkt. Nicht mit dem Ball stehen bleiben oder Ballzirkulation-Spiel. Mit erstem Kontakt schon Richtung Tor gehen. Beispiel: „Pass kommt von links – erster Kontakt nach rechts zum Tor hin!"
-- **Schuss aus der Bewegung, nicht aus dem Stand:** Kinder sollen nicht erst dribbeln, stehenbleiben, dann schießen. Sondern: Pass nehmen und im gleichen Tempo weiter zum Tor. Das macht es schneller und schwerer zu verteidiegen.
-- **Schnelle Entscheidungen:** 6 Sekunden sind nicht viel. Kinder lernen, schnell zu entscheiden: Schießen jetzt oder Pass? Nicht zu lange überlegen.
-- **Pass-Tempo:** Nicht gemächliche Pässe. Schnelle Pässe (hart und präzise), damit die 6 Sekunden reichen.
-- **Fehlertoleranz:** Manche Schüsse sind leicht vorbeigegangen oder Block. Das ist ok – Kinder sollen probieren, nicht perfekt sein.
-- **Defensiv: Aggressives Pressing:** Team ohne Ball muss aktiv gegenpresssen (hochpressing), um den Gegner unter Zeit-Druck zu setzen. Das macht die Regel interessant.
+- **Erste Aktion nach vorne:** Wer den Ball erobert, schaut zuerst Richtung Tor, nicht zum Nebenmann.
+- **Mut zum Schuss:** Besser ein Schuss, der vorbeigeht, als ein Pass nach hinten.
+- **Gefährlich werden:** Mitspieler laufen in die Schusszone, damit der Ballführer eine Anspielstation hat.
+- **Codewort am Platz:** „Steil gehen“ für den Läufer, „Druck machen“ für die, die den Ball gerade verloren haben.
+- **Nach Ballverlust:** Sofort zurück zum Gegner, nicht dem Ball hinterher gucken.
 
 ## Varianten
 
-- **8-Sekunden-Regel:** Für schwächere oder jüngere Gruppen. Etwas mehr Zeit zum Kombinieren.
-- **4-Sekunden-Regel:** Für starke oder ältere E-Jugend. Sehr hohe Intensität, trainiert schnelle Entscheidungen.
-- **Mit Assist-Punkt:** Tor nach Pass = 2 Punkte, Tor nach eigenem Dribbel = 1 Punkt. Motiviert zu schnelleren Pässen.
-- **Zwei-Kontakt-Regel:** Max. 2 Ballkontakte pro Spieler. Erzwingt schnelles Passen.
-- **Mit Torwart:** Ein Spieler pro Team als TW. TW darf mit Händen spielen (Tor-Bereich). Macht Abschluss schwerer.
-- **Doppel-Tempo:** 3 Sekunden schnelle Phase, dann 3 Sekunden normale Phase, wechsel. Trainiert Tempo-Wechsel.
-
-## Sicherheit & Verwaltung
-
-- **Pausen:** Nach 10 Minuten kurze Trink-Pause (30–60 Sekunden). Die 6-Sekunden-Regel ist intensiv.
-- **Rückkehrer:** Neue Spieler erklären die Regel vorher, nicht während des Spiels.
-- **Feldbeobachtung:** Trainer sollte Position haben, von der aus er alle 4 Minitore und beide Teams überschauen kann.
+- **Leichter:** Zehn Sekunden Zeit statt sechs, oder das Tor zählt auch ohne Schusszone.
+- **Schwerer:** Vier Sekunden Zeit, oder der Schuss muss nach höchstens drei Ballkontakten fallen.
+- **Mit Wettkampf:** Bei zwei Feldern zählt jedes Team seine Punkte über alle Runden, das Feld mit der höheren Summe gewinnt.

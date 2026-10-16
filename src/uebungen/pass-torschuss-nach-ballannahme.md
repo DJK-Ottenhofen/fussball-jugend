@@ -2,80 +2,43 @@
 layout: exercise.njk
 title: "Pass + Torschuss nach Ballannahme"
 kategorie: technik
-altersgruppen: ["F"]
+altersgruppen: [F]
 spielstaerke: einsteiger
 phase: hauptteil
-ziel: "Ballannahme/-mitnahme, Passen, Torabschluss; erste Schusstechniken."
-quelle: "Fußball-Training-Blog"
-quelleUrl: "https://trainerblog.fussball-training.org/kinderfussball/f-jugend-uebung-passen-und-torschuss-8453.html"
+ziel: "Einen Pass annehmen, den Ball mitnehmen und gleich danach aufs Tor schießen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/pass-torschuss-nach-ballannahme.svg"
+bildAlt: "Hochkant-Feld, 15 mal 20 Meter, mit Tor oben in der Mitte. Links steht ein Passgeber, mittig weiter hinten der Schütze, dahinter zwei wartende Kinder mit Ball. Der Pass läuft flach zum Schützen, der ihm entgegenläuft und danach aufs Tor schießt. Rechts am Rand stehen drei Hütchen für den Rückweg."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 20 × 15 m, eine Hälfte des Platzes  
-**Stationen:** 
-- 1 Tor (mit Torwart oder ohne)
-- Passposition (ca. 12 m vor Tor, seitlich)
-- Startposition (ca. 8 m vom Tor, diagonal/zentral)
-- Rücklauf-Slalom mit 3–4 Hütchen (Rückweg neben dem Feld)
-
-**Spieler:** 2 Gruppen à 6–8 Kinder, wechselweise spielen  
-**Material:** 8–10 Spielbälle, 4 Hütchen für Slalom-Markierung, 1 Tor
+- **Spielfeld:** 15 m breit, 20 m lang, ein Tor (5 m) in der Mitte der oberen Seite, ohne Torhüter
+- **Material:** 4 Bälle, 3 Hütchen für den Rückweg, 1 Tor
+- **Spieler:** 4 Kinder pro Feld. Bei 8 Kindern bauen wir ein zweites Feld.
+- **Positionen:** Der Passgeber steht links, 10 m vor dem Tor. Der Schütze steht mittig, 15 m vor dem Tor. Zwei Kinder stehen hinter ihm.
+- **Rückweg:** drei Hütchen am rechten Rand, 2,5 m auseinander, das erste 6 m vor dem Tor
+- **Wartende:** Es warten höchstens zwei Kinder, jedes mit eigenem Ball, den es mit der Sohle hin und her rollt.
 
 ## Ablauf
 
-**Runde-Ablauf (ca. 12–15 Minuten):**
-
-1. **Position:** Spieler A steht an der **Passposition** (seitlich, ca. 12 m vor Tor)  
-   Spieler B startet an der **Startposition** (zentral, ca. 8 m vom Tor entfernt)
-
-2. **Aktion:**
-   - Trainer gibt Startsignal
-   - A passt zu B (leicht anzunehmender Pass, Innenseite, zum Fuß)
-   - B **nimmt den Ball kurz mit** (eine Ballberührung, Ball nah am Fuß halten)
-   - B orientiert sich sofort zum Tor und **schließt ab** (Direktschuss oder max. 1–2 Dribbelschritte, dann Schuss)
-
-3. **Nach Abschluss:**
-   - B dribbelt den Ball (oder holt ihn) zum Rücklauf-Slalom
-   - B dribbelnd durch die 3–4 Hütchen im Slalom-Zickzack
-   - B kehrt zum Startpunkt zurück
-
-4. **Rotation:**
-   - Nach einer Runde wechselt jeder eine Position weiter
-   - A (Passer) → wird neuer Schütze am Startpunkt
-   - B (Schütze) → wird neuer Passer an der Passposition
-   - Nächster Spieler aus der Queue startet als neuer Passer
-   - Tempo halten, mehrfach wiederholen
-
-**Trainingsdauer:** 
-- 12–15 Minuten pro Gruppe
-- Danach wechseln die Gruppen, oder die andere Gruppe stellt sich an
+1. Der Passgeber spielt flach zum Schützen.
+2. Der Schütze läuft dem Ball ein Stück entgegen und nimmt ihn mit der Innenseite an.
+3. Mit dem zweiten Kontakt schießt er aufs Tor.
+4. Der Schütze holt den Ball und dribbelt ihn durch die drei Hütchen am Rand zurück. Er stellt sich hinten bei den Wartenden an.
+5. Der Passgeber läuft auf die Position des Schützen. Das erste wartende Kind wird Passgeber.
+6. Nach 10 bis 12 Minuten wechselt die Aufgabe, zum Beispiel zu Dribbeln im freien Raum.
 
 ## Coaching-Punkte
 
-- **Pass-Qualität:** Passer (A) muss zum Fuß des Mitspielers spielen, nicht ins Leere – Pass sollte mit der Innenseite oder Außenseite erfolgen (je nach Situation), dem Schützen den Abschluss ermöglichen.
-
-- **Ballannahme-Technik:** Der Schütze (B) muss den Pass **aktiv entgegengehen**, nicht passiv warten. Ball mit Innenseite oder Außenseite stoppen, sofort zum Tor orientieren.
-
-- **Schuss-Setup:** Nach der Annahme soll der Schütze 1–2 kleine Kontrollschritte machen, um in Schuss-Position zu kommen – nicht zu weit vom Tor weg dribbeln.
-
-- **Abschluss-Technik:** Schuss mit Innenseite (sicherer, genauer) oder Spannschritt (Kraft), Blick auf Torbereich, durchziehen nach vorne folgen (Follow-through).
-
-- **Slalom-Dribbling:** Im Rücklauf das Dribbling sauber halten, nicht rennen – kontrolliert durch die Hütchen zigzackern.
-
-**Häufige Fehler & Korrektur:**
-- **Fehler:** Kinder passen zu hart oder zu unkontrolliert → Korrektur: Passer vormachen lassen, selbst einmal spielen, dann das Kind anleiten.
-- **Fehler:** Schütze hat zu lange Kontaktzeit mit dem Ball → Korrektur: „Schnelle Bewegung zum Tor! Du hast nur 2 Sekunden!"
-- **Fehler:** Kinder trauen sich nicht zu schießen, Angst vor Fehlschuss → Korrektur: Motivieren, „Versuchen ist wichtig! Jeder Schuss ist gut!", alle Treffer loben.
+- **Dem Ball an die Hand laufen:** Du fängst ihn mit dem Fuß ab, bevor er dich erreicht.
+- **Ball weich stoppen:** Dein Fuß gibt beim Stoppen nach, dann springt der Ball nicht weg.
+- **Zweiter Kontakt Tor:** Nach der Annahme siehst du das Tor und schießt gleich.
+- **Codewort am Platz:** „Kopf hoch!" Schau nach der Annahme einmal zum Tor, bevor du schießt.
+- **Mut:** Treffer und Fehlschuss sind beides Mut. Du lobst jeden, der es versucht.
 
 ## Varianten
 
-- **Direkt-Abschluss:** Schütze nimmt nicht mit, sondern schießt sofort direkt nach Ballannahme (höhere Schwierigkeit, mehr Timing nötig).
-
-- **Slalom vor Schuss:** Schütze dribbelt nach Annahme erst durch einen Slalom-Parcours (2–3 Hütchen vor dem Tor), dann erst abschießen (Ballkontrolle + Technik kombinieren).
-
-- **Passwinkel variieren:** Passer spielt aus verschiedenen Winkeln an (von links-diagonal, von rechts-flach, von hinten-schräg), damit der Schütze unterschiedliche Situationen trainiert.
-
-- **Rücken-zum-Tor-Variante:** Schütze dreht sich mit dem Rücken zum Tor um, nimmt den Pass, dreht sich schnell und schießt (Wendung trainieren).
-
-- **Mit Torwart:** Wenn ein Torwart vorhanden ist, erhöht das die Konzentration – Schützen müssen genauer zielen, Torwart trainiert gleichzeitig.
+- **Leichter:** Der Schütze darf den Ball nach der Annahme einmal antippen, bevor er schießt.
+- **Schwerer:** Der Schütze schießt den Ball mit dem ersten Kontakt, oder er muss das Tor vor dem Schuss einmal links und einmal rechts anvisieren.
+- **Mit Torhüter:** Ein Kind steht im Tor. Die Torhüter wechseln alle paar Durchgänge.

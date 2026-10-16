@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 170" role="img">
+  <title>Feldskizze Ball fangen und weiterdribbeln: Rechteck 20 mal 15 Meter mit Eckhütchen, Trainer in der Mitte wirft einen Ball zu einem Kind, die anderen Kinder dribbeln</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="170" fill="#2E7D32"/>
+  <!-- Feld 20 x 15 m -->
+  <rect x="0" y="0" width="200" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="200,-4 204,4 196,4"/><polygon points="0,146 4,154 -4,154"/><polygon points="200,146 204,154 196,154"/>
+  </g>
+  <!-- Wege -->
+  <path d="M107,70 Q124,38 136,47" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M58,45 q8,-6 16,0 t16,0 t16,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Kinder mit Ball -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="50" cy="45" r="7"/><circle cx="150" cy="50" r="7"/><circle cx="60" cy="110" r="7"/><circle cx="150" cy="115" r="7"/><circle cx="175" cy="25" r="7"/>
+  </g>
+  <circle cx="50" cy="53" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="156" cy="58" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="66" cy="117" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="156" cy="122" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="175" cy="33" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <!-- Trainer in der Mitte -->
+  <circle cx="100" cy="75" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+</svg>

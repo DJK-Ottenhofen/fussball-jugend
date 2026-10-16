@@ -5,61 +5,40 @@ kategorie: spielformen
 altersgruppen: [E, D]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Angriff in Überzahl präzise zu Ende spielen und nach Ballverlust blitzschnell umschalten."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Einen Angriff in Überzahl sauber zu Ende spielen und nach einem Ballverlust sofort auf die andere Seite umschalten."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/ueberzahl-3gegen2.svg"
+bildAlt: "Hochkant-Feld mit einem großen Tor und Torhüter oben. Unten an der Grundlinie stehen zwei Minitore aus Hütchen. Drei gelbe Angreifer starten im unteren Drittel, Spieler 1 passt zu Spieler 2, Spieler 3 läuft nach vorne. Zwei schwarze Verteidiger stehen vor dem Tor."
 ---
 
 ## Aufbau
 
-**Spielfeld:** Rechteck ca. 30 × 22 m (je nach Platzgröße und Gruppenzahl anpassen, bei mehr Spielern bis 35 m Länge).
-
-**Tore:** Zwei Mini-Tore (oder improvisierten Stangentor-Ersatz) auf einer Grundlinie, ca. 3 m auseinander platziert, oder ein klassisches Großtor mit Torwart.
-
-**Spieler:**
-- 3 Angreifer (mit Ball startend)
-- 2 Verteidiger (aktiv in der Defensive)
-- 1 Torwart oder Feldspieler im Tor (je nach Alter und Fokus)
-- Reservetrupps an der Seitenlinie: nächste 3er-Gruppe und nächste 2er-Gruppe warten auf ihren Einsatz
-
-**Material:** 1 Trainingsball, ggf. Leibchen zur Unterscheidung der Rollen (Angreifer vs. Verteidiger), Hütchen zum Markieren der Tore.
+- **Spielfeld:** 20 m breit, 25 m lang, hochkant. Ein großes Tor (5 m) mit Torhüter an der oberen Stirnseite.
+- **Konter-Tore:** zwei Minitore aus je zwei Hütchen (2 m breit) an der unteren Grundlinie, links und rechts versetzt
+- **Material:** 4 Hütchen, Leibchen in zwei Farben, mehrere Bälle im Tor und am Start
+- **Spieler:** drei Angreifer, zwei Verteidiger, ein Torhüter. Weitere Kinder warten in Dreiergruppen hinter der unteren Grundlinie.
+- **Positionen:** Angreifer verteilt im unteren Drittel, Verteidiger etwa 8 m vor dem großen Tor
 
 ## Ablauf
 
-1. **Startphase:** Der Trainer spielt den Ball ins Zentrum oder auf einen der 3 Angreifer in der Nähe der Mittellinie. Die 3 Angreifer erhalten sofort Ballbesitz und sind in numerischer Überzahl.
-
-2. **Angriff (E-Jugend: 2–3 Minuten pro Durchgang; D-Jugend: bis 3 Minuten):**
-   - Die 3er-Gruppe versucht, schnell nach vorn zu kombinieren und auf eines der Tore zu treffen.
-   - Die 2er-Gruppe versucht zu stören: sie dürfen aggressiv pressen, aber sollen die 3er nicht überwältigen (es ist eine Überzahl-Trainingssituation).
-   - Ein sauberer Torabschluss zählt. Auch ein Treffer nach wenigen Ballkontakten ist erfolgreich – dies trainiert Effektivität.
-
-3. **Torabschluss oder Ballverlust:**
-   - **Tor erzielt:** Jubel, kurze Bestätigung des Trainers, dann sofort raus mit der alten 3er-Gruppe und eine neue 3er-Gruppe ins Feld. Ball-Reset von der Mittellinie.
-   - **Ballverlust (Abfang durch 2er oder Dribbler verliert Ball):** Die 2er-Gruppe übernimmt sofort und hat eine Gegenattacke – sie spielen blitzschnell (mit Unterstützung eines weiteren Feldspielers auf der anderen Seite des Feldes, oder gegen Minitore) gegnerische Tore an. Dieser Umschalt trainiert die schnelle Transition.
-
-4. **Rotation nach ca. 2–3 Minuten:** Rollen tauschen – die 3er-Gruppe wird zu 2ern, die 2er-Gruppe zur neuen 3er-Gruppe, und neue Spieler kommen vom Platz rein.
+1. Der Trainer legt einem Angreifer den Ball zu, die drei starten Richtung großes Tor.
+2. Die Verteidiger greifen erst ab der Mittellinie an.
+3. Die Angreifer spielen sich in den Abschluss und schießen aufs große Tor.
+4. Erobern die Verteidiger oder der Torhüter den Ball, kontern sie auf eines der zwei Minitore.
+5. Nach einem Tor, einem Fehlschuss oder einem Konter ist der Durchgang vorbei, die nächste Gruppe startet mit neuem Ball.
+6. Die Verteidiger bleiben zwei Durchgänge stehen, danach tauschen sie mit den Angreifern. Der Torhüter wechselt nach fünf Minuten.
+7. Wertung: Ein Angriffstor zählt einen Punkt, ein Konter-Tor zwei Punkte.
 
 ## Coaching-Punkte
 
-**Für die Angreifer (3er-Gruppe):**
-- **Breite und Tiefe:** Die 3 Spieler sollten nicht zu nah beieinander stehen. Klare Positionen: einer rechts, einer links, einer zentral oder leicht versetzt, damit Passwege offen bleiben.
-- **Schnelles Abschließen:** In Überzahl zu lange zu kombinieren ist ineffizient. Nach 3–4 schnellen Pässen sollte ein Abschluss kommen, notfalls auch aus schwierigerer Position, um die numerische Überlegenheit zu nutzen.
-- **Bewegung in die Tiefe:** Ständig nach vorn suchen, nicht seitwärts zirkeln. Ein Pass in die Tiefe bricht die Abwehr auf.
-
-**Häufige Fehler und Korrekturen:**
-- *Fehler:* Die 3er spielen zu zentral, bilden eine Traube, kein Raum für schnelle Kombinationen.  
-  *Korrektur:* Trainer unterbricht kurz, zeigt die Positionen: „Rechts breit, links breit, Mitte etwas versetzt – jeder hat seinen Raum."
-- *Fehler:* Nach Ballverlust ärgert sich die 3er-Gruppe statt schnell zu reagieren.  
-  *Korrektur:* „Nach Ballverlust sofort aufs Gegenpressing – lasst sie nicht spielen!"
-
-**Für die Verteidiger (2er-Gruppe):**
-- **Fokus und Kommunikation:** Zwei gegen drei – jeder muss wissen, wen er „hat", und die Lücke in der Mitte wird zentral bewacht.
-- **Schnelle Umschaltung:** Sobald man den Ball erobert, ist sofort Tempo gefordert – raus aus der Defensive, rein ins Umschalt-Spiel.
+- **Breit anlaufen:** Die Angreifer verteilen sich auf die ganze Feldbreite, damit die Verteidiger sich entscheiden müssen.
+- **Anspielbar sein:** Wer ohne Ball ist, steht so, dass der Passweg frei bleibt und der Mitspieler eine Wahl hat.
+- **Dribbeln, bis einer kommt:** Der Ballführer läuft auf den ersten Verteidiger zu und spielt erst ab, wenn dieser sich festlegt.
+- **Codewort am Platz:** „Gegner binden“ für den Ballführer, „Steck durch“, wenn der Mitspieler schon läuft.
+- **Nach Ballverlust:** Die Verteidiger sehen sofort nach vorne, die Konter-Tore sind ihr Ziel.
 
 ## Varianten
 
-**Variante 1 – Torschusszonen:** Torschüsse dürfen nur aus einer bestimmten Zone (z. B. max. 12 m vor dem Tor) erfolgen. Dies trainiert, dass die 3er-Gruppe näher heran dribbelten muss – technisch anspruchsvoller.
-
-**Variante 2 – Direktes Umschalt-Spiel:** Nach Ballverlust spielen die 2er nicht gegen ein eigenes Tor, sondern direkt gegen zwei Minitore an der Seite. Die Umschaltung wird dadurch noch schneller und spektakulärer.
-
-**Variante 3 – Feldspieler-Torwart:** Der Torwart darf aus dem Tor herauskommen und als 3. Verteidiger mitspielen. Dies macht es für die 3er-Gruppe schwieriger, erhöht aber auch die Ballkontakte für den Keeper (D-Jugend und älter).
+- **Leichter:** Die Verteidiger starten erst nach dem ersten Pass der Angreifer, oder der Torhüter bleibt zunächst weg.
+- **Schwerer:** Ein dritter Verteidiger kommt nach drei Sekunden von hinten nach, oder die Angreifer haben nur sechs Sekunden Zeit zum Abschluss.
+- **Für große Gruppen:** Zwei Felder nebeneinander bauen und die Gruppen im Wechsel starten.

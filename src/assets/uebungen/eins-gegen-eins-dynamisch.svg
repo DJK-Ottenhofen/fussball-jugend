@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 170 120" role="img">
+  <title>Feldskizze 1-gegen-1 dynamisch: Feld 15 mal 10 Meter mit Minitor rechts und Mittellinie, der gelbe Angreifer dribbelt aus der Bewegung auf die Mittellinie zu, der schwarze Verteidiger wartet oben an der Seitenlinie</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="170" height="120" fill="#2E7D32"/>
+  <!-- Feld 15 x 10 m -->
+  <rect x="0" y="0" width="150" height="100" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Mittellinie -->
+  <line x1="75" y1="0" x2="75" y2="100" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Hütchen: Ecken, Minitor 2 m rechts, Startpunkt des Verteidigers -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="0,96 4,104 -4,104"/>
+    <polygon points="150,-4 154,4 146,4"/><polygon points="150,96 154,104 146,104"/>
+    <polygon points="150,36 154,44 146,44"/><polygon points="150,56 154,64 146,64"/>
+    <polygon points="120,-4 124,4 116,4"/>
+  </g>
+  <!-- Wege -->
+  <path d="M42,70 q6,-6 12,0 t12,0 t12,0 l8,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M120,24 L130,40" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Verteidiger -->
+  <circle cx="120" cy="14" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Angreifer -->
+  <circle cx="18" cy="70" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <!-- Ball -->
+  <circle cx="30" cy="70" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

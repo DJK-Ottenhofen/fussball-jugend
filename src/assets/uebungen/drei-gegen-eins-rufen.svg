@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 120 120" role="img">
+  <title>Feldskizze 3-gegen-1 mit Rufen: Quadrat 10 mal 10 Meter, drei Angreifer außen, ein Verteidiger innen, Spieler 1 passt zu Spieler 2, der gerufen hat</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="120" height="120" fill="#2E7D32"/>
+  <!-- Feld 10 x 10 m -->
+  <rect x="0" y="0" width="100" height="100" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Hütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="100,-4 104,4 96,4"/><polygon points="0,96 4,104 -4,104"/><polygon points="100,96 104,104 96,104"/>
+  </g>
+  <!-- Wege -->
+  <path d="M50,48 L72,26" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <path d="M24,22 L76,16" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="15" cy="20" r="7"/><circle cx="88" cy="15" r="7"/><circle cx="50" cy="90" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="15" y="23.2">1</text><text x="88" y="18.2">2</text><text x="50" y="93.2">3</text></g>
+  <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="50" cy="52" r="7"/></g>
+  <!-- Ball -->
+  <circle cx="24" cy="28" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

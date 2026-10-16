@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 170" role="img">
+  <title>Feldskizze Anspielstation: Feld 20 mal 15 Meter mit vier Zonen in den Ecken, Spieler 1 in der Mitte passt auf Spieler 4 (die Zonenkinder haben je einen eigenen Ball), der gerade von der linken unteren in die rechte untere Zone gelaufen ist</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="170" fill="#2E7D32"/>
+  <!-- Feld 20 x 15 m -->
+  <rect x="0" y="0" width="200" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Zonen 4 x 4 m in den Ecken -->
+  <rect x="0" y="0" width="40" height="40" fill="#fff" fill-opacity=".12"/>
+  <rect x="160" y="0" width="40" height="40" fill="#fff" fill-opacity=".12"/>
+  <rect x="0" y="110" width="40" height="40" fill="#fff" fill-opacity=".12"/>
+  <rect x="160" y="110" width="40" height="40" fill="#fff" fill-opacity=".12"/>
+  <!-- Hütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="40,-4 44,4 36,4"/><polygon points="0,36 4,44 -4,44"/><polygon points="40,36 44,44 36,44"/><polygon points="160,-4 164,4 156,4"/><polygon points="200,-4 204,4 196,4"/><polygon points="160,36 164,44 156,44"/><polygon points="200,36 204,44 196,44"/><polygon points="0,106 4,114 -4,114"/><polygon points="40,106 44,114 36,114"/><polygon points="0,146 4,154 -4,154"/><polygon points="40,146 44,154 36,154"/><polygon points="160,106 164,114 156,114"/><polygon points="200,106 204,114 196,114"/><polygon points="160,146 164,154 156,154"/><polygon points="200,146 204,154 196,154"/>
+  </g>
+  <!-- Wege -->
+  <path d="M46,132 L150,132" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M106,80 L172,122" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="100" cy="75" r="7"/><circle cx="20" cy="20" r="7"/><circle cx="180" cy="20" r="7"/><circle cx="180" cy="130" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="100" y="78.2">1</text><text x="20" y="23.2">2</text><text x="180" y="23.2">3</text><text x="180" y="133.2">4</text></g>
+  <!-- Spielball und Bälle der Zonenkinder -->
+  <circle cx="110" cy="82" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="30" cy="28" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="190" cy="28" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="190" cy="138" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

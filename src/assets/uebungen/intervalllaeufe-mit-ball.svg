@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 420 270" role="img">
+  <title>Feldskizze Intervallläufe mit Ball: Rundkurs 40 mal 25 Meter mit Starttor, Hütchen-Slalom, Koordinationsleiter und drei Stangen, ein gelber Spieler dribbelt im Slalom und läuft die Runde über Leiter und Stangen zurück</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="420" height="270" fill="#2E7D32"/>
+  <!-- Feld 40 x 25 m -->
+  <rect x="0" y="0" width="400" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Starttor -->
+  <g fill="#F28C28">
+    <polygon points="40,206 44,214 36,214"/><polygon points="40,226 44,234 36,234"/>
+  </g>
+  <!-- Slalomhütchen -->
+  <g fill="#F28C28">
+    <polygon points="117,226 121,234 113,234"/><polygon points="177,226 181,234 173,234"/><polygon points="237,226 241,234 233,234"/>
+  </g>
+  <!-- Koordinationsleiter -->
+  <rect x="350" y="80" width="20" height="60" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <g stroke="#fff" stroke-width="1.5">
+    <line x1="350" y1="85" x2="370" y2="85"/><line x1="350" y1="90" x2="370" y2="90"/><line x1="350" y1="95" x2="370" y2="95"/>
+    <line x1="350" y1="100" x2="370" y2="100"/><line x1="350" y1="105" x2="370" y2="105"/><line x1="350" y1="110" x2="370" y2="110"/>
+    <line x1="350" y1="115" x2="370" y2="115"/><line x1="350" y1="120" x2="370" y2="120"/><line x1="350" y1="125" x2="370" y2="125"/>
+    <line x1="350" y1="130" x2="370" y2="130"/><line x1="350" y1="135" x2="370" y2="135"/>
+  </g>
+  <!-- Stangen -->
+  <g fill="#fff">
+    <rect x="159" y="22" width="2" height="16"/><rect x="239" y="22" width="2" height="16"/><rect x="319" y="22" width="2" height="16"/>
+  </g>
+  <!-- Wege: Dribbling im Slalom, dann Runde über Leiter und Stangen zurück zum Start -->
+  <path d="M64,230 L87,230 Q117,198 147,230 T207,230 T267,230 T327,230" fill="none" stroke="#FFF300" stroke-width="2.5"/>
+  <path d="M327,230 Q360,235 360,200 L360,30 Q320,70 280,30 T200,30 T120,30 T40,30 L40,190" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Läufer -->
+  <circle cx="22" cy="230" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  <circle cx="30" cy="238" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

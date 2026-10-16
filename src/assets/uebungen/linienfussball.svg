@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 170" role="img">
+  <title>Feldskizze Linienfußball: Feld 25 mal 15 Meter, beide Grundlinien als Torlinie, Gelb dribbelt mit Spieler 1 auf die rechte Linie zu, ein Gegner läuft hinterher</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="170" fill="#2E7D32"/>
+  <!-- Feld 25 x 15 m -->
+  <rect x="0" y="0" width="250" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="250,-4 254,4 246,4"/>
+    <polygon points="0,146 4,154 -4,154"/><polygon points="250,146 254,154 246,154"/>
+  </g>
+  <!-- Wege -->
+  <path d="M110,66 q6,-8 12,0 t12,0 t12,0 l14,0" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M72,116 L86,100" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="64" cy="124" r="7"/><circle cx="196" cy="100" r="7"/><circle cx="210" cy="36" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="90" cy="76" r="7"/><circle cx="60" cy="30" r="7"/><circle cx="30" cy="104" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="90" y="79.2">1</text><text x="60" y="33.2">2</text><text x="30" y="107.2">3</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="64" y="127.2">1</text><text x="196" y="103.2">2</text><text x="210" y="39.2">3</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="102" cy="66" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

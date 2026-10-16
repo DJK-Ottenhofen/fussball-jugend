@@ -5,75 +5,39 @@ kategorie: koordination
 altersgruppen: [F, E]
 spielstaerke: alle
 phase: hauptteil
-ziel: "Geschicklichkeit, Grundschnelligkeit, koordinative Variabilität als Wettkampf."
-quelle: "Fußball-Training-Blog"
-quelleUrl: "https://trainerblog.fussball-training.org/kinderfussball/aufwarmen-kinderfussball-11517.html"
+ziel: "Einen Ball auf verschiedene Arten schnell und kontrolliert über eine Strecke bringen."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/staffellaeufe-mit-balltransport.svg"
+bildAlt: "Drei Bahnen von 20 Metern Länge zwischen einer gestrichelten Startlinie links und je einem Wendehütchen rechts. An jeder Bahn steht ein Läufer mit Ball an der Linie, zwei weitere Kinder warten links davon mit eigenem Ball. Auf Bahn 1 dribbelt der gelbe Läufer in einer Wellenlinie zum Wendehütchen."
 ---
 
 ## Aufbau
 
-**Feldgröße:** 2 Staffel-Bahnen à 20 m (bei Gruppen > 8: 3 Bahnen)  
-**Spielerzahl:** 4–5 Kinder pro Team (3–4 Teams), ideal 12–16 Kinder insgesamt  
-**Material:** 
-- Verschiedene Bälle: Fußbälle, Tennisbälle, evtl. Medizinbälle oder Pezzibälle
-- Markierungshütchen oder Stangen für Start und Wendepunkt (ca. 20 m Abstand)
-- Optional: Verschiedene Transport-Objekte (auch Reifen, Flaschen, Spielzeugtiere)
-
----
+- **Spielfeld:** Drei Bahnen, je 20 m lang von der Startlinie bis zum Wendehütchen, 5 m Abstand
+- **Material:** 3 Staffelbälle, 1 Ball für jedes wartende Kind, 3 Wendehütchen, Hütchen für die Startlinie
+- **Spieler:** 9 Kinder in drei Teams, höchstens drei Kinder je Bahn. Bei mehr Kindern kommt eine vierte Bahn dazu.
+- **Positionen:** Der Läufer steht mit Staffelball an der Linie, die zwei Wartenden stehen seitlich dahinter mit eigenem Ball.
 
 ## Ablauf
 
-**Vorbereitung (2 Min):** Teams bilden, jedes Team in eine Reihe an der Startlinie. Wendepunkt markieren.
-
-**Runde 1: Klassischer Balltransport (3–4 Min)**
-1. Kind 1 nimmt einen Ball (z. B. Fußball) in eine Hand.
-2. Rennt zur Wendemarke und zurück zur Startlinie.
-3. Übergabe an Kind 2 (mit Handwechsel).
-4. Kind 2 macht dasselbe – sofort weiter.
-5. Teams werden gezählt: Welches Team hat alle Kinder zuerst durch?
-6. **Tipp:** Übergabe sollte kontrolliert sein, nicht rennen lassen.
-
-**Runde 2: Verschiedene Transportarten (4–5 Min)**
-Jedes Mal eine neue Transportform vorgeben (z. B. 2–3 Varianten pro Runde). Die Teams führen in derselben Reihenfolge durch:
-
-- **Transportform 1:** Ball hinter dem Rücken halten
-- **Transportform 2:** Ball über dem Kopf (beide Hände)
-- **Transportform 3:** Ball mit einer Hand führen (immer links/rechts)
-- **Transportform 4:** Mit beiden Beinen schwach dribbeln (nicht volle Kraft)
-- **Transportform 5:** Ball mit Blick nach oben (räumliche Orientierung)
-
-**Runde 3: Material-Mix (3–4 Min)**
-Verschiedene Bälle transportieren:
-- 1. Kind: Fußball
-- 2. Kind: Tennisball
-- 3. Kind: Medizinball (leicht)
-- 4. Kind: Pezziball (groß, unhandlich) — oder Reifen
-
-**Ziel-Bestimmung:**
-- Nach jeder Runde werden die Zeiten notiert (oder einfach: „Team A ist Erste").
-- Am Ende wird die schnellste Runde prämiert.
-- **Wichtig:** Auch wenn ein Team nicht gewinnt, alle durchlaufen alle Runden — kein Kind sitzt rum.
-
-**Dauer:** 10–15 Minuten insgesamt (je nach Anzahl Runden und Gruppen-Größe).
-
----
+1. Auf Pfiff bringt der erste Läufer den Staffelball zum Wendehütchen und zurück.
+2. An der Linie übergibt er den Staffelball dem nächsten Kind und stellt sich hinten an.
+3. Die Wartenden führen ihren eigenen Ball mit der Sohle hin und her, bis sie dran sind. Der eigene Ball bleibt beim Wartenden liegen, wenn er läuft.
+4. Das Team, in dem alle Kinder einmal gelaufen sind, setzt sich hin und ruft „Fertig!“.
+5. In der ersten Runde dribbeln alle den Staffelball. Danach sagt der Trainer jede Runde eine neue Transportart an: prellen mit einer Hand, hochwerfen und fangen im Laufen, zwischen den Knien tragen.
+6. Das langsamste Team darf sich die nächste Transportart aussuchen. Nach zehn bis zwölf Minuten endet die Staffel.
 
 ## Coaching-Punkte
 
-- **Technische Variabilität:** Nicht nur Schnelligkeit, sondern die Anpassung an verschiedene Bewegungsformen trainiert Koordination und Variabilität — das ist der Kern.
-- **Übergabe-Qualität:** Eine sichere, kurze Übergabe ist schneller als ein wildes Werfen. Trainiert auch Feinmotorik.
-- **Lauf-Form:** Natürlicher, lockerer Lauf — nicht verkrampft sprinten. Kinder sollten Spaß haben, nicht erschöpft sein.
-- **Regel-Sicherheit:** Vor Runde 1 klare Demo durchmachen: Trainer zeigt die Bewegung einmal, dann machen alle Kinder sie kurz im Stehen nach, bevor es losgeht.
-- **Motivation durch Varianz:** Jede neue Runde ist eine neue Challenge — das hält die Spannung.
-
-**Häufige Fehler & Korrektur:**
-- *Unsaubere Übergaben / zu weit entfernt:* Kinder werfen den Ball weg statt zu übergeben. → **Korrektur:** Übergabe-Zone markieren (z. B. schmale Linie) — nur dort darf übergeben werden. Erst nach korrekter Übergabe startet nächstes Kind.
-- *Zu streng nach Regelwerk:* Kinder machen die Transportform falsch und unterbrechen. → **Korrektur:** Im Haupttraining streng sein, aber hier: „Macht was ähnliches, Hauptsache ihr bewegt euch!" — der Spaß steht im Vordergrund.
-
----
+- **Erst sicher, dann schnell:** Eine ruhige Übergabe schlägt einen wilden Wurf.
+- **Wende eng:** Lauf um das Hütchen und nicht daran vorbei.
+- **Kopf hoch:** Schau beim Dribbeln nach vorn und nicht nur auf den Ball.
+- **Codewort am Platz:** Rufe „Anschluss!“, wenn das nächste Kind nicht an der Linie bereit steht.
+- **Spaß zählt:** Jedes Team läuft alle Runden mit, auch wenn es hinten liegt.
 
 ## Varianten
 
-- **Mit Bewegungs-Elementen:** Statt nur transportieren: nach Wendepunkt eine Rolle rückwärts machen und zurück laufen, oder rückwärts sprinten.
-- **Hütchen-Slalom:** Wendepunkt ist nicht gerade, sondern Slalom durch 3–4 Hütchen (koordinativ anspruchsvoller, langsamer, aber dafür mehr Ballkontrolle).
-- **Partner-Transport:** 2 Kinder transportieren einen Ball zusammen (je eine Hand) — trainiert Abstimmung und Kommunikation statt nur Individual-Speed.
+- **Leichter:** Kürzere Bahn mit 15 m, oder alle tragen den Ball mit beiden Händen.
+- **Schwerer:** Der Rückweg wird rückwärts gelaufen, oder zwei Bälle werden gleichzeitig getragen.
+- **Mit Hindernis:** In der Mitte der Bahn steht ein Hütchen, das beim Hin- und Rückweg umlaufen wird.
+- **Mit Aufgabe:** Am Wendehütchen macht der Läufer fünf Hocksprünge und läuft dann zurück.

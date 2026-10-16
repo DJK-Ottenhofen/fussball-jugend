@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 170 170" role="img">
+  <title>Feldskizze Aufstiegs-Torschuss: vier parallele Bahnen mit je drei Hütchen im Slalom laufen von unten auf ein gemeinsames Tor oben, eine Schussmarke pro Bahn rückt weiter vom Tor weg, ein Kind dribbelt durch Bahn 2, die anderen warten mit Ball am Bahnanfang</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="170" height="170" fill="#2E7D32"/>
+  <!-- Feld 15 x 15 m -->
+  <rect x="0" y="0" width="150" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Vier Bahnen je 3 m breit, 1 m Abstand -->
+  <g fill="#fff" fill-opacity=".12">
+    <rect x="0" y="40" width="30" height="110"/><rect x="40" y="40" width="30" height="110"/>
+    <rect x="80" y="40" width="30" height="110"/><rect x="120" y="40" width="30" height="110"/>
+  </g>
+  <!-- Tor 5 m -->
+  <rect x="50" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Schussmarken: 5, 6, 7 und 8 m vor dem Tor -->
+  <g stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8">
+    <line x1="0" y1="50" x2="30" y2="50"/><line x1="40" y1="60" x2="70" y2="60"/>
+    <line x1="80" y1="70" x2="110" y2="70"/><line x1="120" y1="80" x2="150" y2="80"/>
+  </g>
+  <!-- Hütchen der Schussmarken -->
+  <g fill="#F28C28">
+    <polygon points="3,46 7,54 -1,54"/><polygon points="27,46 31,54 23,54"/><polygon points="43,56 47,64 39,64"/><polygon points="67,56 71,64 63,64"/>
+    <polygon points="83,66 87,74 79,74"/><polygon points="107,66 111,74 103,74"/><polygon points="123,76 127,84 119,84"/><polygon points="147,76 151,84 143,84"/>
+  </g>
+  <!-- Slalomhütchen, drei je Bahn -->
+  <g fill="#F28C28">
+    <polygon points="8,121 12,129 4,129"/><polygon points="22,106 26,114 18,114"/><polygon points="8,91 12,99 4,99"/>
+    <polygon points="48,121 52,129 44,129"/><polygon points="62,106 66,114 58,114"/><polygon points="48,91 52,99 44,99"/>
+    <polygon points="88,121 92,129 84,129"/><polygon points="102,106 106,114 98,114"/><polygon points="88,91 92,99 84,99"/>
+    <polygon points="128,121 132,129 124,129"/><polygon points="142,106 146,114 138,114"/><polygon points="128,91 132,99 124,99"/>
+  </g>
+  <!-- Wege: Dribbling in Bahn 2 und Schuss aufs Tor -->
+  <path d="M55,120 q-6,-8 0,-16 t0,-16 t0,-16" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M58,68 L66,24" fill="none" stroke="#fff" stroke-width="2.5" marker-end="url(#pfeil-weiss)"/>
+  <!-- Torhüter -->
+  <circle cx="75" cy="10" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Kinder: aktives Kind in Bahn 2, je Bahn ein weiteres Kind wartet mit Ball -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="15" cy="132" r="7"/><circle cx="15" cy="147" r="7"/><circle cx="55" cy="132" r="7"/><circle cx="55" cy="147" r="7"/>
+    <circle cx="95" cy="132" r="7"/><circle cx="95" cy="147" r="7"/><circle cx="135" cy="132" r="7"/><circle cx="135" cy="147" r="7"/>
+  </g>
+  <!-- Bälle -->
+  <g fill="#fff" stroke="#111" stroke-width="1">
+    <circle cx="64" cy="135" r="3"/><circle cx="24" cy="135" r="3"/><circle cx="24" cy="150" r="3"/><circle cx="64" cy="150" r="3"/>
+    <circle cx="104" cy="135" r="3"/><circle cx="104" cy="150" r="3"/><circle cx="144" cy="135" r="3"/><circle cx="144" cy="150" r="3"/>
+  </g>
+</svg>

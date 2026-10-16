@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 140 140" role="img">
+  <title>Feldskizze Positionsspiel 4-gegen-2: Quadrat von 12 mal 12 Metern mit Hütchen an den Ecken, vier gelbe Ballhalter mittig an den Seiten, zwei schwarze Verteidiger im Innenraum, Pass von Spieler 1 oben zu Spieler 2 rechts</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="140" height="140" fill="#2E7D32"/>
+  <!-- Feld 12 x 12 m -->
+  <rect x="0" y="0" width="120" height="120" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="120,-4 124,4 116,4"/>
+    <polygon points="0,116 4,124 -4,124"/><polygon points="120,116 124,124 116,124"/>
+  </g>
+  <!-- Wege -->
+  <path d="M68,12 L104,50" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M10,68 Q10,92 22,108" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Verteidiger -->
+  <circle cx="48" cy="52" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <circle cx="75" cy="72" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>
+  <!-- Ballhalter mit Positionsnummer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="60" cy="8" r="7"/><circle cx="112" cy="60" r="7"/><circle cx="60" cy="112" r="7"/><circle cx="8" cy="60" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="60" y="11.2">1</text><text x="112" y="63.2">2</text><text x="60" y="115.2">3</text><text x="8" y="63.2">4</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="68" cy="14" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

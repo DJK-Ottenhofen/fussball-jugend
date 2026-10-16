@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 270" role="img">
+  <title>Feldskizze Haschen mit Ball: Feld 30 mal 25 Meter mit vier Eckhütchen, sechs Läufer und zwei Fänger, alle mit Ball, ein Fänger dribbelt hinter einem Läufer her und dieser weicht aus</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="270" fill="#2E7D32"/>
+  <!-- Feld 30 x 25 m -->
+  <rect x="0" y="0" width="300" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="300,-4 304,4 296,4"/><polygon points="0,246 4,254 -4,254"/><polygon points="300,246 304,254 296,254"/>
+  </g>
+  <!-- Wege: Fänger dribbelt hinter dem Läufer her, Läufer weicht aus -->
+  <path d="M70,130 q 8,-6 16,0 t 16,0 t 16,0" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <path d="M138,112 Q160,92 180,108" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Läufer (Team A) -->
+  <g>
+    <circle cx="95" cy="60" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="215" cy="110" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="160" cy="190" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="250" cy="210" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="60" cy="200" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+    <circle cx="130" cy="125" r="7" fill="#FFF300" stroke="#111" stroke-width="1.5"/>
+  </g>
+  <!-- Fänger (Team B mit Ring) -->
+  <g>
+    <circle cx="50" cy="130" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/><circle cx="50" cy="130" r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>
+    <circle cx="180" cy="60" r="7" fill="#111" stroke="#fff" stroke-width="1.5"/><circle cx="180" cy="60" r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>
+  </g>
+  <!-- Bälle, jedes Kind hat einen -->
+  <g>
+    <circle cx="104" cy="66" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="224" cy="116" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="169" cy="196" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="259" cy="216" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="69" cy="206" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="139" cy="131" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="58" cy="137" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+    <circle cx="188" cy="67" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  </g>
+</svg>
