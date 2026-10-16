@@ -22,6 +22,6 @@ phasen:
 
 Bei Ecke und Abstoß stehen im Spiel alle am Ball oder alle irgendwo. Diese Einheit gibt jedem Kind einen festen Platz, markiert mit einer Hütchenfarbe, damit es ihn ohne Nachdenken findet.
 
-Nach dem Torschuss-Aufwärmen wird die Ecke sechsmal gespielt, jedes Kind einmal von jedem Platz. Dann der Abstoß: flach raus zu einem Außenkind, die Mitte kommt hinter den Ball. Im Funino zum Schluss zählt ein Tor nach einer Ecke doppelt.
+Nach dem Torschuss-Aufwärmen wird die Ecke sechsmal gespielt, die vier Plätze rotieren, danach tauschen Angreifer und Verteidiger. Dann der Abstoß: flach raus zu einem Außenkind, die Mitte kommt hinter den Ball. Im Funino zum Schluss zählt ein Tor nach einer Ecke doppelt.
 
 Die Regeln des Spielbetriebs ändern sich; die Plätze bleiben. Vor dem nächsten Festival einmal aufsagen lassen: „Ecke, wo stehst du?"

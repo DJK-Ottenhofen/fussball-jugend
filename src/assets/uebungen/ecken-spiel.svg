@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 170 220" role="img">
+  <title>Feldskizze Ecken-Spiel: halbes Kleinfeld mit Tor oben, vier Plätze für die Angreifer kurz, Mitte, lang und Absicherung, zwei Verteidiger und Torhüter, der Angreifer auf kurz spielt die Ecke zur Mitte</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="170" height="220" fill="#2E7D32"/>
+  <!-- Halbes Kleinfeld 15 x 20 m, Tor oben -->
+  <rect x="0" y="0" width="150" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Kleinfeldtor 5 m -->
+  <rect x="50" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Mittellinie -->
+  <line x1="0" y1="200" x2="150" y2="200" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Plätze: kurz, Mitte, lang, Absicherung -->
+  <g fill="#F28C28">
+    <polygon points="30,20 34,28 26,28"/><polygon points="62,52 66,60 58,60"/><polygon points="138,36 142,44 134,44"/><polygon points="58,168 62,176 54,176"/>
+  </g>
+  <!-- Hütchentore für den Konter an der Mittellinie -->
+  <g fill="#F28C28">
+    <polygon points="25,192 29,200 21,200"/><polygon points="45,192 49,200 41,200"/><polygon points="105,192 109,200 101,200"/><polygon points="125,192 129,200 121,200"/>
+  </g>
+  <!-- Wege -->
+  <path d="M22,20 Q 40,58 66,52" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="14" cy="16" r="7"/><circle cx="82" cy="52" r="7"/><circle cx="126" cy="30" r="7"/><circle cx="80" cy="170" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="14" y="19.2">1</text><text x="82" y="55.2">2</text><text x="126" y="33.2">3</text><text x="80" y="173.2">4</text></g>
+  <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="62" cy="32" r="7"/><circle cx="98" cy="36" r="7"/></g>
+  <circle cx="75" cy="10" r="7" fill="#111" stroke="#fff" stroke-width="3"/>
+  <!-- Ball an der Eckfahne -->
+  <circle cx="8" cy="10" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
