@@ -5,41 +5,38 @@ kategorie: koordination
 altersgruppen: [F]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Reaktion, Auge-Fuß/Hand-Koordination, Ballführung unter Ablenkung."
-quelle: "bambini-fussballtraining.de"
-quelleUrl: "https://www.bambini-fussballtraining.de/koordination-fussballtraining/index.html"
+ziel: "Das Kind fängt einen Wurf und dribbelt ohne Pause weiter, ohne den Ball aus den Augen zu verlieren."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/ball-fangen-und-weiterdribbeln.svg"
+bildAlt: "Rechteckiges Feld, 20 mal 15 Meter, mit vier orangen Hütchen in den Ecken. In der Mitte steht der Trainer als schwarzer Kreis und wirft einen weißen Ball in einem Bogen zu einem gelben Kind. Vier weitere Kinder dribbeln verteilt im Feld, eines mit Wellenlinie als Laufweg."
 ---
 
 ## Aufbau
 
-- **Spielfeld:** Rechteck ca. 20 × 15 m (je nach Gruppengröße anpassen)
-- **Spielerzahl:** 8–12 Kinder
-- **Material:** 1 Fußball pro Kind, 1 Handball oder Schaumstoffball (weich) für Trainer, optional 4 Hütchen als Feldmarkierung
-- **Feldaufbau:** Trainer steht zentral im Feld. Alle Kinder verteilen sich mit ihrem Fußball im Feld, dribbelnd.
+- **Spielfeld:** Rechteck 20 × 15 m, vier Hütchen in den Ecken
+- **Material:** 4 Hütchen, ein Fußball pro Kind, ein weicher Ball oder Schaumstoffball für den Trainer
+- **Spieler:** 8 bis 12 Kinder, alle dribbeln gleichzeitig
+- **Positionen:** Der Trainer steht in der Mitte, die Kinder verteilen sich dribbelnd im Feld
 
 ## Ablauf
 
-1. **Einstieg:** Trainer gibt Startsignal (Pfiff oder Handzeichen). Alle Kinder dribbelnd mit ihrem Fußball kreuz und quer durchs Feld – verschiedene Richtungen, variable Geschwindigkeit, ausweichen füreinander.
-2. **Fangen-Phase:** Der Trainer wartet ca. 20–30 Sekunden, dann wirft den Handball spontan einem Kind zu (nicht ankündigen, Überraschung gehört dazu).
-3. **Schnelle Reaktion:** Das Kind mit dem Fußball
-   - fängt den Handball sofort mit beiden Händen oder mit einer Hand
-   - wirft ihn zurück zum Trainer (oder legt ihn ab)
-   - setzt sofort sein Dribbeln fort (ohne Pause)
-4. **Tempo:** Trainer wirft ca. alle 20–30 Sekunden zu einem anderen Kind. Niemand weiß, wann es kommt.
-5. **Dauer:** 3–5 Minuten durchgehend (dann 1–2 Min Pause, ggf. wiederholen).
+1. Auf Pfiff dribbeln alle kreuz und quer durchs Feld und weichen einander aus.
+2. Der Trainer wirft den weichen Ball zu einem Kind und ruft vorher dessen Namen.
+3. Das Kind dribbelt langsamer weiter und fängt den Wurf im Gehen mit beiden Händen.
+4. Es wirft den Ball zurück und dribbelt sofort weiter.
+5. Der Trainer wirft etwa alle 15 Sekunden zu einem anderen Kind, nach drei bis fünf Minuten gibt es eine kurze Pause.
+6. In der zweiten Runde wirft er ohne Namen, und manche Kinder fangen mit einer Hand.
 
 ## Coaching-Punkte
 
-- **Kopf oben:** Während des Dribblings die Umgebung scannen – wo ist der Trainer, wo sind die anderen Kinder? Das erlaubt schnellere Reaktion beim Fangen.
-- **Ball eng bei sich:** Trotz Ablenkung den Fußball maximal 1 Schritt vor dem Körper führen, nicht zu weit weg.
-- **Schnelle Aktion nach Fangen:** Keine Pause nach Fangen und Werfen – sofort wieder dribbeln. Das trainiert Übergänge.
-- **Beide Hände nutzen:** Wechsel zwischen beidhändigem Fangen und einhändigem Fangen (für Koordination).
-- **Häufige Fehler:**
-  - *Zu langsam dribbelnd warten:* Kind läuft sehr langsam, um „wach" zu sein. *Korrektur:* „Schnell dribbelnd warten ist schwerer – macht mehr Sinn!"
-  - *Zu weit weg werfen beim Zurückpass:* Ball fliegt wild weg statt zum Trainer. *Korrektur:* „Zielgenau zurück zum Trainer – nicht werfen, sondern passen."
+- **Ohne Pause weiter:** Fangen, werfen, dribbeln. Kein Stehenbleiben dazwischen.
+- **Kopf hoch:** Schau kurz auf, wo der Trainer steht, nicht nur auf den Ball.
+- **Hände bereit:** Sobald dein Name fällt, kommen die Hände vor die Brust, dann fängst du auch im Laufen sicher.
+- **Ball bleibt bei dir:** Dein Fußball ist höchstens einen Schritt weg, auch während du fängst.
+- **Sanft werfen:** Wirf in die Hände, nicht an den Körper.
 
 ## Varianten
 
-- **Mit zwei Bällen werfen:** Trainer wirft abwechselnd zwei verschiedene Handball zu (Schwierigkeit erhöht).
-- **Laufen statt dribbelnd:** Alle laufen ohne Ball, müssen bei Ballwurf fangen, dann zurück zum Ball und dribbelnd weiterlaufen.
-- **Mehrere Trainer:** Zwei Trainer werfen gleichzeitig zu unterschiedlichen Kindern (deutlich schneller, chaotischer, höhere Konzentration).
+- **Leichter:** Der Trainer ruft immer den Namen, und das Feld ist größer.
+- **Schwerer:** Das Kind dribbelt rückwärts oder wirft mit links zurück.
+- **Für große Gruppen:** Zwei Felder mit je einem Trainer oder einem Helfer mit weichem Ball.

@@ -5,72 +5,36 @@ kategorie: koordination
 altersgruppen: [bambini, F]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Ballgewöhnung in verschiedenen Bewegungsformen: Werfen, Fangen, Rollen, Führen – vielseitige Ballkontakte sammeln."
-quelle: "Trainerteam"
-quelleUrl: ""
+ziel: "Das Kind lernt den Ball mit Händen und Füßen kennen und wird dabei sicherer im Umgang mit ihm."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/ballschule-stationen.svg"
+bildAlt: "Eine Station als grünes Rechteck, 8 mal 6 Meter. Fünf orange Hütchen stehen in einer Reihe. Drei gelbe Kinder mit je einem Ball sind gleichzeitig unterwegs, eines davon dribbelt in Wellenlinie um die Hütchen."
 ---
 
 ## Aufbau
 
-- **Trainingsplatz:** 4 Stationen à ca. 5 × 5 m, im Kreis oder Viereck angeordnet (ca. 8–10 m Abstand zwischen Stationen)
-- **Material pro Station:**
-  - **Station 1 – Werfen & Fangen:** 1–2 leichte Bälle (Schaumstoff 3, o. Ä.), 2 Hütchen als Markierung für Abstand
-  - **Station 2 – Rollen:** 1 Fußball, 3 Kegel/Hütchen in Linie (ca. 1 m Abstand), 1 Bereich zum Bremsen
-  - **Station 3 – Prellen (mit Hand):** 1 Basketballball o. Ä., 4 Hütchen als Slalom-Parcours (ca. 1,5 m Abstand)
-  - **Station 4 – Dribbeln (Fuß):** 1 Fußball, 5 Hütchen als Slalom-Strecke (ca. 2 m Abstand)
-- **Spielerzahl:** 8–16 Kinder (2–4 pro Station)
-- **Rotationsdauer pro Station:** 2–3 Minuten
+- **Spielfeld:** Vier Stationen, jede 8 × 6 m, im Viereck mit etwa 6 m Abstand zueinander
+- **Material:** 16 Bälle (jedes Kind hat einen), 20 Hütchen, 4 Reifen
+- **Spieler:** 8 bis 16 Kinder, je Station zwei bis vier
+- **Positionen:** Jedes Kind steht mit seinem Ball an einer Station, niemand wartet ohne Ball
 
 ## Ablauf
 
-**Station 1 – Werfen & Fangen (2–3 Min):**
-1. Zwei Kinder stellen sich gegenüber (ca. 2–3 m Abstand, markiert mit Hütchen).
-2. Kind A wirft mit **unterhand** sanft zu B. B fängt mit beiden Händen.
-3. Nach 5–6 Würfen: Abstand um 1 m vergrößern, weitermachen.
-4. Ziel: Abstand bis zu 5 m.
-5. Variation: Mit einer Hand werfen, mit zwei Händen fangen; später einhändig fangen versuchen.
-
-**Station 2 – Rollen (2–3 Min):**
-1. Partner stehen sich mit ca. 5 m Abstand gegenüber.
-2. Kind A rollt den Ball mit den Händen über den Boden zu B (wie beim Bowling – nicht werfen, sondern rollen).
-3. B stoppt den Ball mit der Fußsohle oder beide Hände.
-4. Wechsel: B rollt zu A zurück.
-5. Variation: Ball durch Kegel-Slalom rollen, dann zurück rollen (Kontrolle trainieren).
-6. Fokus: Der Ball sollte rollen, nicht hüpfen – sanfte, präzise Aktion.
-
-**Station 3 – Prellen/Dribbeln mit Hand (2–3 Min):**
-1. Kind steht vor dem Slalom-Parcours (4 Hütchen).
-2. Ball vor sich prellen (nicht schauen!), dabei im Slalom zwischen den Hütchen laufen.
-3. Mit rechter Hand hin, mit linker Hand zurück.
-4. Variation: Rhythmus ändern – zweimal schnell prellen, dann gehen, dann wieder zwei Preller usw.
-5. Fokus: Kopf oben, nicht auf den Ball starren.
-
-**Station 4 – Fußball-Dribbeln (2–3 Min):**
-1. Kind startet mit Fußball vor dem Slalom.
-2. Mit Innenseite des Fußes den Ball führen (kleine, schnelle Schritte, Ball nah beim Fuß).
-3. Durch die Hütchen slalommen (nicht zu schnell – Kontrolle ist wichtiger).
-4. Hinweg: rechte Seite führen. Rückweg: linke Seite führen.
-5. Variation: Mit Außenseite dribbeln (andere Muskulatur trainieren).
-
-**Rotationsablauf:**
-- Trainer gibt ein klares Signal (Pfeiff, „Station wechsel!").
-- Alle Kinder gehen zur nächsten Station im Uhrzeigersinn.
-- Kurze Übergabe (30–60 Sek.), dann startet nächster Durchlauf.
-- Insgesamt: 3–4 Runden, damit jedes Kind jede Station mehrfach absolviert.
+1. **Station Zauberwald:** Die Kinder dribbeln mit dem Fuß im Zickzack durch die Hütchen und zurück. Wer kein Hütchen berührt, bekommt einen Punkt.
+2. **Station Bowling:** Die Kinder rollen den Ball mit der Hand durch ein Hütchentor. Danach holen sie ihn und rollen von der anderen Seite zurück.
+3. **Station Aufzug:** Die Kinder werfen den Ball leicht nach oben und fangen ihn. Nach fünf Fängen klatschen sie einmal, bevor der Ball wieder in ihren Händen landet.
+4. **Station Reifenhaus:** Die Kinder dribbeln in einen Reifen und stoppen den Ball mit der Sohle. Dann schnappen sie sich den nächsten Reifen.
+5. **Wechsel:** Nach zwei Minuten ruft der Trainer „Wechsel". Alle laufen mit Ball zur nächsten Station, keiner bleibt stehen.
 
 ## Coaching-Punkte
 
-- **Viele Ballkontakte = Gewöhnung:** Das Ziel ist nicht Perfektion, sondern dass jedes Kind 50–80 verschiedene Ballkontakte macht und sich an verschiedene Bewegungsformen gewöhnt.
-- **Freude statt Leistung:** Kein Druck, kein „Beste" – nur „Versuchen und Spielen".
-- **Ermutigung bei jedem Versuch:** Jeder Kontakt, jeder Fehler ist gut. Trainer lobt regelmäßig.
-- **Partner passend wählen:** Kleinere Kinder mit Kleineren, schnellere mit Schnelleren (Frustrationen vermeiden).
-- **Material-Anpassung:** Zu schwere Bälle? Kleineren nehmen. Zu schwer zu fangen? Abstand verringern. Kinder sind unterschiedlich.
-- **Häufige Fehler:**
-  - *Zu viel Kraft beim Rollen:* Ball rollt zu schnell weg. *Korrektur:* „Sanft rollen wie beim Bowling, nicht werfen."
-  - *Immer auf den Ball schauen:* Kind kann Slalom nicht richtig fahren. *Korrektur:* „Kopf oben, Augen gucken nach vorne, nicht auf den Ball!"
+- **Ball immer dabei:** Jedes Kind hat in jedem Moment einen Ball am Fuß oder in der Hand.
+- **Langsam zuerst:** Erst ruhig und genau, dann schneller. Ein wilder Ball ist ein weggerollter Ball.
+- **Loben statt verbessern:** Zeig, was gut war, und lass die Kinder es gleich noch einmal probieren.
+- **Kurz erklären:** Höchstens drei Sätze pro Station, dann geht es los. Neue Regeln kommen erst in der zweiten Runde.
 
 ## Varianten
 
-- **Mit Musik:** Station-Wechsel und Tempo folgen einem Musikrhythmus (schnelle Musik = schnelle Aktionen, langsame Musik = kontrollierte Bewegungen).
-- **Tempo-Challenge:** „Langsamste, präziseste Bewegung" (Fokus Technik) oder „So schnell wie möglich" (Fokus Schnelligkeit).
-- **Parcours-Variante:** Statt Stationen einzeln – eine große Acht oder Loop, alle durchlaufen der Reihe nach (Station 1 → 2 → 3 → 4 → zurück zu 1), hintereinander ohne Pausen. Längere Belastung, weniger Wartezeit.
+- **Leichter:** Größere Hütchenabstände, weichere Bälle, mehr Zeit pro Station.
+- **Schwerer:** Die Kinder zählen ihre Treffer oder spielen gegen die Uhr.
+- **Für große Gruppen:** Jede Station doppelt aufbauen, damit nie mehr als vier Kinder zusammen stehen. Nach spätestens zwölf Minuten wechselt die Aufgabe.

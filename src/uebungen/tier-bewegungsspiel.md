@@ -5,82 +5,37 @@ kategorie: koordination
 altersgruppen: [bambini, F]
 spielstaerke: alle
 phase: aufwaermen
-ziel: "Vielseitige Grundmotorik (Laufen, Krabbeln, Robben, Springen), Beweglichkeit."
-quelle: "Fußball-Training-Blog"
-quelleUrl: "https://trainerblog.fussball-training.org/kinderfussball/aufwarmen-kinderfussball-11517.html"
+ziel: "Das Kind probiert viele Bewegungsformen aus und wird dadurch geschickter und beweglicher."
+quelle: "DJK Ottenhofen Trainerteam"
+bild: "/assets/uebungen/tier-bewegungsspiel.svg"
+bildAlt: "Quadratische Fläche, 20 mal 20 Meter, mit vier orangen Hütchen als Ecken. Sechs gelbe Kinder bewegen sich verteilt über die Fläche, eines davon mit einem Bogenpfeil als Laufweg in eine freie Stelle."
 ---
 
 ## Aufbau
 
-**Feldgröße:** Offene Fläche, mindestens 20 × 20 Meter (Trainingsplatz, Halle oder Rasen)  
-**Spielerzahl:** 8–20 Kinder (auch größere Gruppen möglich; bei > 15: besser 2 Trainer parallel)  
-**Material:**
-- Optional: 1 Ball pro Kind (oder zentral ausgeteilt)
-- Optional: Musik-Anlage (zur Motivation und Rhythmisierung)
-- Optional: Bild-Kärtchen oder Karten mit Tier-Namen/Bildern (zum Zeigen statt nur Ansagen)
-
----
+- **Spielfeld:** Freie Fläche 20 × 20 m, Ecken mit Hütchen markiert
+- **Material:** 4 Hütchen, optional Bildkarten mit Tieren
+- **Spieler:** 8 bis 16 Kinder, alle bewegen sich gleichzeitig
+- **Positionen:** Alle Kinder verteilen sich in der Fläche, jeder mit etwa zwei Armlängen Platz
 
 ## Ablauf
 
-**Phase 1: Eröffnung & Motivation (1–2 Min)**
-- Trainer versammelt alle Kinder im Kreis.
-- **Erzählung:** „Ihr seid Tiere im Zoo/Urwald/Dschungel. Ich rufe ein Tier, und ihr werdet zu diesem Tier!"
-- Trainer demonstriert eines der Tiere selbst (z. B. Löwe: große Schritte, Arme wie Pranken, lautes Gebrüll).
-- **Lachen & Aktivierung:** Kinder sehen, dass es um Spaß geht, nicht Perfektion.
-
-**Phase 2: Tier-Bewegungen durchgehen (2–3 Min)**
-Trainer macht jedes Tier vor, Kinder machen es kurz stehend nach:
-
-1. **Löwe:** Große, kräftige Schritte; Arme baumeln wie Pranken; ev. Gebrüll oder „Rawww!"
-2. **Schlange:** Kriechend auf dem Bauch (oder Robben-Bewegung); windende Arm-Bewegungen.
-3. **Affe:** Auf Vieren (Knien + Händen), hüpfend, Arme wie zum Klettern.
-4. **Elefant:** Schwere, langsame Schritte; eine Arm-Hand für Rüssel; wiegende Bewegung.
-5. **Frosch:** Hocke, dann Sprünge vorwärts (Arme wie kleine Beine).
-6. **Adler/Vogel:** Schnelle Drehsprünge; Arme wie Flügel.
-
-**Phase 3: Freies Bewegungs-Spiel (5–8 Min)**
-- Kinder verteilen sich in der offenen Fläche.
-- **Trainer ruft:** „Löwe!" → Alle bewegen sich wie Löwen (laufend/springend in der Fläche).
-- Nach ca. 10–15 Sekunden neuer Ruf: „Schlange!" → Sofort zur Schlangen-Bewegung wechseln.
-- **Mit Ball (optional):** Kinder führen einen Ball mit sich, während sie das Tier darstellen:
-  - Löwe: Dribbeln mit Power-Dribbeln
-  - Schlange: Ball rollen/schieben am Boden
-  - Affe: Ball werfen und fangen (hüpfend)
-- **Rhythmus:** Schnelle Wechsel (10–20 Sekunden pro Tier) oder längere Phasen (30 Sekunden), je nachdem wie es fließt.
-
-**Phase 4: Musik & Chaos (2–3 Min, optional)**
-- Musik läuft im Hintergrund (z. B. rhythmische Drums).
-- Trainer ruft wild durcheinander: „Löwe! Frosch! Adler! Schlange!"
-- Kinder wechseln ständig → fröhliches Durcheinander.
-- **Fokus:** Schnelle Reaktion und Beweglichkeit trainieren.
-
-**Phase 5: Abschluss & Rückfrage (1–2 Min)**
-- Trainer ruft „Statue!" oder „Erfrieren!" — alle Kinder bleiben in der aktuellen Tier-Pose stehen.
-- Nach 5–10 Sekunden: „Auftauen!" und alle setzen/legen sich hin zum Dehnen.
-- **Frage:** „Welches Tier war dein Lieblings-Tier heute?"
-- Kurzes Feedback loben.
-
-**Dauer:** 10–15 Minuten insgesamt.
-
----
+1. Der Trainer erzählt: „Wir sind auf dem Bauernhof, und die Stalltür geht auf." Er macht ein Tier vor und alle machen mit.
+2. Das Pferd trabt mit hohen Knien. Die Katze schleicht auf Samtpfoten und macht einen Buckel.
+3. Der Hase hüpft mit beiden Beinen, die Hände sind die langen Ohren. Die Ente watschelt in der Hocke.
+4. Die Kuh stapft schwer auf allen Vieren. Der Storch hebt die Knie hoch und steigt vorsichtig über Pfützen.
+5. Etwa alle 15 Sekunden ruft der Trainer ein neues Tier. Alle wechseln sofort die Bewegung und bleiben dabei in der Fläche.
+6. Zum Schluss rufen alle „Feierabend!" und traben als Pferd zu einer Ecke. Nach zehn Minuten ist Schluss.
 
 ## Coaching-Punkte
 
-- **Beweglichkeit & Vielseitigkeit:** Nicht nur Laufen trainieren, sondern Robben, Krabbeln, Springen, Hüpfen — das trainiert alle Motor-Komponenten, die ein Kind im Fußball braucht.
-- **Phantasie & Freude:** Der Sinn ist nicht Perfektion, sondern dass Kinder gerne sich bewegen. Ein lustiger Löwe ist wichtiger als eine technisch perfekte Bewegung.
-- **Individualisierung:** Jedes Kind macht die Bewegung auf seine Weise — keine Konkurrenz, kein Druck.
-- **Tempo & Intensität:** Tiere mit Sprinten (Löwe, Adler) wechseln mit langsamen Tieren (Elefant, Schlange) — natürlicher Belastungswechsel, Ausdauer und Kraftwechsel.
-- **Aufmerksamkeit & Reaktion:** Schnelle Wechsel trainieren auch Fokus — Kinder müssen hören und sofort reagieren.
-
-**Häufige Fehler & Korrektur:**
-- *Kinder machen nur halb-Bewegungen / laufen nur normal:* Fehlende Begeisterung oder Scheu vor Exzentrik. → **Korrektur:** Trainer muss überrieben mitmachen und Kinder anfeuern: „Größere Schritte! Laut! Macht Geräusche!" Peer-Learning hilft: Einzelne Kinder können als „Tier-Vorbild" dienen.
-- *Manche Tiere werden nicht gut verstanden:* Darstellung ist unklar. → **Korrektur:** Video zeigen (30 Sekunden Tier-Clip) oder Bild-Karte aushängen, damit Kinder visuell verstehen, was gemeint ist.
-
----
+- **Mitmachen:** Mach selbst jedes Tier mit. Wer lacht, hat schon gewonnen.
+- **Weich landen:** Beim Hasen federn die Knie, keiner springt steif.
+- **Nicht anrempeln:** Schau, wo Platz ist, und weiche den anderen Tieren aus.
+- **Kurze Pausen:** Nach jedem anstrengenden Tier eine kurze Verschnaufpause, zum Beispiel als Kuh.
 
 ## Varianten
 
-- **Mit Fang-Spielen:** Ein Kind ist der „Jäger" (z. B. Löwe) und muss andere Tiere (z. B. Gazellen, dargestellt als Antelopen) fangen — kombiniert Fangspiel mit Bewegungs-Vielfalt.
-- **Mit Musik-Rhythmus:** Musik-Tempo bestimmt Tier-Tempo. Schnelle Musik = schnelle Tiere (Adler), langsame Musik = langsame Tiere (Elefant).
-- **Mit Gruppen-Tiern:** Statt Einzeltiere: 2–3 Kinder bilden zusammen ein großes Tier (z. B. 3er-Schlange oder Löwen-Familie) — trainiert Teamfähigkeit und Koordination.
+- **Leichter:** Nur drei Tiere, der Trainer macht jedes Tier lange vor.
+- **Schwerer:** Jedes Kind hat einen Ball und führt ihn, so gut es zum Tier passt, zum Beispiel als Pferd oder Kuh.
+- **Mit Kinderideen:** Die Kinder erfinden selbst ein Tier und alle machen es nach.

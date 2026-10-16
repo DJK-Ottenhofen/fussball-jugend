@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 220" role="img">
+  <title>Feldskizze Tier-Bewegungsspiel: Fläche 20 mal 20 Meter mit Eckhütchen, sechs Kinder verteilt, ein Kind bewegt sich in eine freie Stelle</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="220" height="220" fill="#2E7D32"/>
+  <!-- Feld 20 x 20 m -->
+  <rect x="0" y="0" width="200" height="200" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Eckhütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="200,-4 204,4 196,4"/><polygon points="0,196 4,204 -4,204"/><polygon points="200,196 204,204 196,204"/>
+  </g>
+  <!-- Weg -->
+  <path d="M66,64 Q90,30 122,36" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Kinder -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="60" cy="70" r="7"/><circle cx="150" cy="50" r="7"/><circle cx="100" cy="100" r="7"/><circle cx="40" cy="150" r="7"/><circle cx="160" cy="150" r="7"/><circle cx="110" cy="170" r="7"/>
+  </g>
+</svg>
