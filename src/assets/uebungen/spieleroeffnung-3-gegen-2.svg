@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 170" role="img">
+  <title>Feldskizze Spieleröffnung 3 gegen 2: Feld 25 mal 15 Meter, links die Abstoßlinie, rechts ein Minitor, Mittellinie mit zwei Hütchen, Torwart T passt zu einem breit stehenden Aufbauer A, der zweite A läuft hinter den Ball, zwei Verteidiger V kommen von der Mittellinie</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="170" fill="#2E7D32"/>
+  <!-- Feld 25 x 15 m -->
+  <rect x="0" y="0" width="250" height="150" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Abstoßlinie links -->
+  <line x1="0" y1="0" x2="0" y2="150" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Mittellinie -->
+  <line x1="125" y1="0" x2="125" y2="150" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Minitor 2 m rechts -->
+  <rect x="250" y="65" width="4" height="20" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Hütchen: Ecken und Mittellinie -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="0,146 4,154 -4,154"/>
+    <polygon points="250,-4 254,4 246,4"/><polygon points="250,146 254,154 246,154"/>
+    <polygon points="125,-4 129,4 121,4"/><polygon points="125,146 129,154 121,154"/>
+  </g>
+  <!-- Wege: Pass T zu A unten, Laufweg A oben hinter den Ball, Verteidiger V zum Passempfänger -->
+  <path d="M30,88 L59,123" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M66,30 L50,62" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M131,114 L90,126" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <!-- Verteidiger -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="140" cy="45" r="7"/><circle cx="140" cy="110" r="7"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="140" y="48.2">V</text><text x="140" y="113.2">V</text>
+  </g>
+  <!-- Aufbauer -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="66" cy="20" r="7"/><circle cx="66" cy="130" r="7"/>
+  </g>
+  <!-- Torwart -->
+  <circle cx="14" cy="75" r="7" fill="#FFF300" stroke="#fff" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="66" y="23.2">A</text><text x="66" y="133.2">A</text><text x="14" y="78.2">T</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="25" cy="83" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

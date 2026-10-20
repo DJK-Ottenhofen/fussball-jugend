@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 170 120" role="img">
-  <title>Feldskizze Schatten-Decken: Feld 15 mal 10 Meter, links der Anspieler mit Ballvorrat, rechts zwei Minitore, ein Angreifer läuft sich frei, der Verteidiger deckt ihn und der Anspieler passt</title>
+  <title>Feldskizze Schatten-Decken: Feld 15 mal 10 Meter, links der Anspieler mit Ballvorrat, rechts zwei Minitore, ein Angreifer läuft sich frei, der Verteidiger läuft mit und bleibt zwischen ihm und den Toren, der Anspieler passt</title>
   <defs>
     <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
     <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
@@ -14,7 +14,7 @@
   <!-- Wege -->
   <path d="M20,48 L84,33" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
   <path d="M46,56 L82,40" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
-  <path d="M58,72 L74,62" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
+  <path d="M74,64 L99,48" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
   <!-- Hütchen -->
   <g fill="#F28C28">
     <polygon points="0,-4 4,4 -4,4"/><polygon points="150,-4 154,4 146,4"/><polygon points="0,96 4,104 -4,104"/><polygon points="150,96 154,104 146,104"/>
@@ -22,8 +22,9 @@
   <!-- Spieler -->
   <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="10" cy="50" r="7"/><circle cx="96" cy="30" r="7"/></g>
   <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="96" y="33.2">A</text></g>
-  <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="86" cy="54" r="7"/></g>
-  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle"><text x="86" y="57.2">B</text></g>
+  <!-- Verteidiger B zwischen A und den Toren -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="108" cy="42" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle"><text x="108" y="45.2">B</text></g>
   <!-- Ballvorrat und Ball -->
   <circle cx="2" cy="44" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
   <circle cx="2" cy="56" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
