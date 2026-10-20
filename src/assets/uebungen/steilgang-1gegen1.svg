@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 370" role="img">
-  <title>Feldskizze Steilgang 1-gegen-1: Tor mit Torhüter oben, Abwehrlinie aus Hütchen 18 Meter vor dem Tor, Spieler 1 passt flach zu Spieler 2, der einen Flugball hinter die Linie spielt, Spieler 3 läuft von außen nach innen ein, der Verteidiger läuft mit, unten zwei Hütchentore für den Konter</title>
+  <title>Feldskizze Steilgang 1-gegen-1: Tor mit Torhüter oben, Abwehrlinie aus Hütchen 18 Meter vor dem Tor, A1 passt flach zu A2, der einen Flugball hinter die Linie spielt, A3 läuft von außen nach innen ein, der Verteidiger V läuft mit, T ist der Torhüter, unten zwei Hütchentore für den Konter</title>
   <defs>
     <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
     <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
@@ -37,7 +37,10 @@
     <circle cx="60" cy="320" r="7"/><circle cx="154" cy="262" r="7"/><circle cx="52" cy="198" r="7"/>
   </g>
   <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
-    <text x="60" y="323.2">1</text><text x="154" y="265.2">2</text><text x="52" y="201.2">3</text>
+    <text x="60" y="323.2" font-size="7">A1</text><text x="154" y="265.2" font-size="7">A2</text><text x="52" y="201.2" font-size="7">A3</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle">
+    <text x="125" y="11.2">T</text><text x="84" y="201.2">V</text>
   </g>
   <circle cx="70" cy="312" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
 </svg>

@@ -82,10 +82,11 @@ def pruefe(slug):
         if 'role="img"' not in s or "<title>" not in s:
             befunde.append(f"{slug}: SVG ohne role=img oder title")
         inhalte = "".join(re.findall(r"<text[^>]*>([^<]*)</text>", s))
-        if inhalte and not re.fullmatch(r"[\d\s]*", inhalte):
-            befunde.append(f"{slug}: SVG enthält Text außer Ziffern")
+        if inhalte and not re.fullmatch(r"[A-Z0-9\s]*", inhalte):
+            befunde.append(f"{slug}: SVG enthält Text außer Spieler-Labels")
     alt = alt_text(slug)
-    if alt and alt != text:
+    # Vergleich nur gegen Fremdfassungen; eigene Fassungen auf main dürfen fortgeschrieben werden
+    if alt and alt != text and 'quelle: "DJK Ottenhofen Trainerteam"' not in alt:
         _, _, altbody = alt.partition("\n---\n")
         f = gleiche_folge(altbody, body)
         if f:

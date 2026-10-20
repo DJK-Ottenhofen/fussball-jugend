@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Den tiefen Ball auf einen einlaufenden Mitspieler spielen und gegen einen nachsetzenden Verteidiger zum Abschluss bringen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/steilgang-1gegen1.svg"
-bildAlt: "Hochkant-Feld mit Tor und Torhüter oben. Eine Hütchenlinie 18 Meter vor dem Tor trennt die Tiefenzone ab. Spieler 1 passt flach zu Spieler 2, Spieler 2 spielt einen Flugball hinter die Linie, Spieler 3 läuft von außen ein, der Verteidiger läuft hinterher. Unten zwei Hütchentore."
+bildAlt: "Hochkant-Feld mit Tor und Torhüter oben. Eine Hütchenlinie 18 Meter vor dem Tor trennt die Tiefenzone ab. A1 passt flach zu A2, A2 spielt einen Flugball hinter die Linie, A3 läuft von außen ein, der Verteidiger V läuft hinterher, T ist der Torhüter. Unten zwei Hütchentore."
 ---
 
 ## Aufbau

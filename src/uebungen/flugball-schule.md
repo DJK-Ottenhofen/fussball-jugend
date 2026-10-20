@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Den langen, hohen Ball über einen Gegner technisch sauber spielen und einen hohen Ball kontrolliert annehmen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/flugball-schule.svg"
-bildAlt: "Zwei Paare stehen sich in 15 Metern Abstand gegenüber, zwischen ihnen je eine Stange. Der Ball fliegt im Bogen über die Stange. Weitere Hütchen markieren 20 und 25 Meter."
+bildAlt: "Zwei Paare stehen sich in 15 Metern Abstand gegenüber, zwischen ihnen je eine Stange. Im oberen Paar ist A links und B rechts beschriftet. Der Ball fliegt im Bogen über die Stange. Weitere Hütchen markieren 20 und 25 Meter."
 ---
 
 ## Aufbau

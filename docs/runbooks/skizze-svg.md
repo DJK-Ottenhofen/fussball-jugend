@@ -40,7 +40,7 @@ Kommentare (`<!-- -->`) vor jeder Gruppe: Feld, Zonen, Tore, Hütchen, Wege, Spi
 | Team B (Spieler) | `<circle r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>` |
 | Torhüter | wie sein Team, `stroke="#fff" stroke-width="3"` |
 | Fänger (Fangspiele) | Team B mit zusätzlichem Ring `<circle r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>` |
-| Nummer im Kreis | `<text x="cx" y="cy+3.2" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">1</text>` (auf Team B `fill="#fff"`). Einzige erlaubte Schrift. |
+| Label im Kreis | `<text x="cx" y="cy+3.2" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">1</text>` (auf Team B `fill="#fff"`). Einzige erlaubte Schrift. Das Label ist genau die Bezeichnung, die der Text benutzt: `1`, `A`, `A1`, `V` (Verteidiger), `T` (Torhüter). Zwei Zeichen mit `font-size="7"`. Nennt der Text keine Bezeichnung, bleibt der Kreis leer. |
 | Ball | `<circle r="3" fill="#fff" stroke="#111" stroke-width="1"/>` |
 | Hütchen | `<polygon points="x,y-4 x+4,y+4 x-4,y+4" fill="#F28C28"/>` (Seite 8, Spitze oben) |
 | Hütchentor / Minitor | zwei Hütchen im Abstand 20 (2 m), oder `<rect width="20" height="4">` weiß `fill-opacity=".25"` `stroke="#fff" stroke-width="2"` |
@@ -76,7 +76,7 @@ PNG ansehen (Read-Tool). Prüfliste:
 - [ ] viewBox passt zu den Maßen im Text (Breite/Höhe = 10 × Meter + 20)
 - [ ] Nichts ragt über den grünen Rand hinaus, Tore außerhalb der Feldlinie sitzen im Rand
 - [ ] Pfeilspitzen sichtbar, Pfeil endet vor dem Spieler, nicht im Kreis
-- [ ] Ziffern zentriert im Kreis
+- [ ] Labels zentriert im Kreis und identisch mit den Bezeichnungen im Text (A1 im Text heißt A1 in der Skizze)
 - [ ] Nur ein `<title>`, kein anderer Text
 - [ ] Dateiname = Slug, `bild` in der Übung zeigt auf `/assets/uebungen/<slug>.svg`
 - [ ] `bildAlt` beschreibt: Format, Tore, Hütchen, welche Spieler, welche Aktion (2 bis 4 Sätze)
