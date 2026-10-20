@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 170" role="img">
-  <title>Feldskizze Anspielstation: Feld 20 mal 15 Meter mit vier Zonen in den Ecken, Spieler 1 in der Mitte passt auf Spieler 4 (die Zonenkinder haben je einen eigenen Ball), der gerade von der linken unteren in die rechte untere Zone gelaufen ist</title>
+  <title>Feldskizze Anspielstation: Feld 20 mal 15 Meter mit vier Zonen in den Ecken, Kind 1 in der Mitte hat den einzigen Ball und passt auf Kind 4, das gerade von der linken unteren in die rechte untere Zone gelaufen ist</title>
   <defs>
     <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
     <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
@@ -23,9 +23,6 @@
   <!-- Spieler -->
   <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="100" cy="75" r="7"/><circle cx="20" cy="20" r="7"/><circle cx="180" cy="20" r="7"/><circle cx="180" cy="130" r="7"/></g>
   <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="100" y="78.2">1</text><text x="20" y="23.2">2</text><text x="180" y="23.2">3</text><text x="180" y="133.2">4</text></g>
-  <!-- Spielball und Bälle der Zonenkinder -->
+  <!-- Ball -->
   <circle cx="110" cy="82" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
-  <circle cx="30" cy="28" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
-  <circle cx="190" cy="28" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
-  <circle cx="190" cy="138" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
 </svg>
