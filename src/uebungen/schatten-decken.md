@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Als Verteidiger dicht am Gegner bleiben, auch wenn er den Ball noch nicht hat, und als Angreifer sich frei laufen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/schatten-decken.svg"
-bildAlt: "Querformat-Feld, links der Anspieler mit drei Bällen, rechts an der Grundlinie zwei Minitore. Der Angreifer A läuft sich in der Mitte frei, der schwarze Verteidiger B läuft dicht mit. Der Anspieler passt flach zu A."
+bildAlt: "Querformat-Feld, links der Anspieler mit drei Bällen, rechts an der Grundlinie zwei Minitore. Der Angreifer A läuft sich in der Mitte frei, der schwarze Verteidiger B läuft dicht mit und bleibt zwischen A und den Minitoren. Der Anspieler passt flach zu A."
 ---
 
 ## Aufbau
@@ -22,16 +22,19 @@ bildAlt: "Querformat-Feld, links der Anspieler mit drei Bällen, rechts an der G
 ## Ablauf
 
 1. Erklärung in drei Sätzen: A will frei werden, B bleibt an ihm dran, der Anspieler passt nur auf ein freies A.
-2. A startet beim Anspieler, B steht direkt daneben und deckt ihn.
-3. A läuft sich frei. Der Anspieler passt erst, wenn A frei steht.
-4. Kommt der Pass an, darf A auf die Minitore schießen. B verteidigt weiter.
-5. Kommt der Pass nicht an, weil B dazwischen ist oder A nach zehn Sekunden nicht frei ist, bekommt B den Punkt.
-6. Nach jedem Durchgang wechseln die Rollen. Der Anspieler wechselt nach drei Durchgängen. Nach spätestens zwölf Minuten kommt eine neue Aufgabe.
+2. Merksatz vor der ersten Runde: „Verteidiger: ich bin der Schatten, ich stehe zwischen ihm und dem Tor. Angreifer: ich laufe meinem Schatten weg.“
+3. A startet beim Anspieler, B steht direkt daneben und deckt ihn.
+4. A läuft sich frei. Der Anspieler passt erst, wenn A frei steht.
+5. Kommt der Pass an, darf A auf die Minitore schießen. B verteidigt weiter.
+6. Kommt der Pass nicht an, weil B dazwischen ist oder A nach zehn Sekunden nicht frei ist, bekommt B den Punkt.
+7. Nach jedem Durchgang wechseln die Rollen. Der Anspieler wechselt nach drei Durchgängen. Nach spätestens zwölf Minuten kommt eine neue Aufgabe.
 
 ## Coaching-Punkte
 
 - **Dranbleiben:** B läuft mit, auch wenn A den Ball noch nicht hat. Nicht stehen bleiben und warten.
 - **Zwischen Ball und Gegner:** B steht so, dass er A sieht und gleichzeitig den Ball im Blick hat.
+- **Tor im Rücken:** B steht immer zwischen A und dem Tor, das er schützt. Er dreht sich seitlich, so sieht er Ball und A gleichzeitig. Zuruf: „Seitlich stehen, Tor im Rücken“.
+- **Weg vom Schatten:** A will B hinter sich haben. Er läuft weg von B in den freien Raum und zeigt sich dem Anspieler, dann muss B ihm nachlaufen. Zuruf: „Weg von ihm, zeig dich“.
 - **Erst frei, dann passen:** A läuft in einen freien Raum und zeigt dem Anspieler die Hand.
 - **Schnell abschließen:** Kommt der Pass, schießt A ohne langes Zögern.
 - **Codewort am Platz:** „Jagen“, wenn B stehen bleibt und A davonläuft.

@@ -14,7 +14,7 @@ phasen:
     uebungen: [teamfarbe]
   - name: "Hauptteil – frei werden und anspielen"
     minuten: 30
-    uebungen: [anspielstation, zwei-gegen-eins]
+    uebungen: [anspielstation, zwei-gegen-eins, spieleroeffnung-3-gegen-2]
   - name: "Abschluss – Funino mit Bonuspunkten"
     minuten: 27
     uebungen: [funino-mit-bonuspunkten]
