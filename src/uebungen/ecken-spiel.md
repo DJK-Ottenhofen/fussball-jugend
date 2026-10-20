@@ -15,7 +15,7 @@ bildAlt: "Hochkant-Feld, oben ein großes Tor mit Torhüter und zwei schwarzen V
 
 - **Spielfeld:** halbes Kleinfeld, 20 m lang, 15 m breit, hochkant. Das Kleinfeldtor (5 m) steht oben, ein Torhüter steht im Tor.
 - **Tore für den Konter:** zwei Hütchentore an der Mittellinie
-- **Plätze:** vier Hütchen als Platzmarken (vor Ort in vier Farben, in der Skizze alle orange). Kurz steht nah am Eckball, Mitte steht vor dem Tor, lang steht am hinteren Pfosten, Absicherung steht an der Mittellinie.
+- **Plätze:** vier Hütchen als Platzmarken (vor Ort in vier Farben, in der Skizze alle orange). Kurz (1) steht nah am Eckball, Mitte (2) steht vor dem Tor, lang (3) steht am hinteren Pfosten, Absicherung (4) steht an der Mittellinie.
 - **Material:** Kleinfeldtor, 8 Hütchen, mehrere Bälle, Leibchen
 - **Spieler:** vier Angreifer, zwei Verteidiger, ein Torhüter (bei „Schwerer“ kommt ein fünfter Angreifer oder der Trainer als Eckenschütze dazu). Alle anderen warten am Rand mit Ball und tippen ihn mit der Sohle hin und her. Nie mehr als drei Wartende.
 

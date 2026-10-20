@@ -20,7 +20,6 @@
   <path d="M134,182 L204,182" fill="none" stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>
   <!-- Spieler -->
   <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="116" cy="60" r="7"/><circle cx="196" cy="150" r="7"/></g>
-  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="116" y="63.2">1</text><text x="196" y="153.2">1</text></g>
   <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="140" cy="92" r="7"/><circle cx="216" cy="182" r="7"/></g>
   <!-- Bälle -->
   <circle cx="126" cy="66" r="3" fill="#fff" stroke="#111" stroke-width="1"/>

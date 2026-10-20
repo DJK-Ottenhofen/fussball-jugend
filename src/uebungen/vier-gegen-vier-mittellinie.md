@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Den Ball aus der eigenen Hälfte gezielt nach vorne bringen und dann zum Abschluss kommen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/vier-gegen-vier-mittellinie.svg"
-bildAlt: "Querfeld mit gestrichelter Mittellinie und einem Minitor mittig an jeder Schmalseite. Ein gelber Spieler in der eigenen Hälfte passt über die Mittellinie zu Spieler 2, Spieler 3 läuft hinterher. Schwarze Verteidiger stehen in beiden Hälften."
+bildAlt: "Querfeld mit gestrichelter Mittellinie und einem Minitor mittig an jeder Schmalseite. Gelber Spieler 1 in der eigenen Hälfte passt über die Mittellinie zu Spieler 2, Spieler 3 läuft hinterher. Schwarze Verteidiger stehen in beiden Hälften."
 ---
 
 ## Aufbau

@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Passen, Annehmen und Dribbeln in kleinen Gruppen üben, mit vielen Ballkontakten für jedes Kind."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/technikquadrat.svg"
-bildAlt: "Quadratische Skizze, 10 mal 10 Meter, mit je einem Hütchen in den vier Ecken. In jeder Ecke steht ein Kind, zwei davon haben einen Ball. Das Kind oben links passt zum Kind oben rechts und läuft seinem Pass entlang der Seite hinterher."
+bildAlt: "Quadratische Skizze, 10 mal 10 Meter, mit je einem Hütchen in den vier Ecken. In jeder Ecke steht ein Kind, zwei davon haben einen Ball. Kind 1 oben links passt zu Kind 2 oben rechts und läuft seinem Pass entlang der Seite hinterher."
 ---
 
 ## Aufbau
@@ -16,7 +16,7 @@ bildAlt: "Quadratische Skizze, 10 mal 10 Meter, mit je einem Hütchen in den vie
 - **Spielfeld:** ein Quadrat von 10 m mal 10 m, in jeder Ecke ein Hütchen. Wenn der Platz knapp ist, genügt ein kleineres Quadrat.
 - **Material:** 4 Hütchen und 2 Bälle pro Quadrat, dazu 4 Bälle für die Dribbelaufgabe
 - **Spieler:** genau 4 Kinder pro Quadrat. Mit 12 Kindern stehen drei Quadrate nebeneinander, an jedem ein Betreuer.
-- **Positionen:** Je ein Kind steht an einem Hütchen. Zwei Kinder, die diagonal gegenüber stehen, haben je einen Ball.
+- **Positionen:** Je ein Kind steht an einem Hütchen, nummeriert 1 bis 4 im Uhrzeigersinn, Kind 1 oben links. Zwei Kinder, die diagonal gegenüber stehen, haben je einen Ball.
 - **Wartende:** Es gibt keine Schlange. Wer gerade nicht passt, hält den Ball mit der Sohle in Bewegung oder jongliert ihn.
 
 ## Ablauf

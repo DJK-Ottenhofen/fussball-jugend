@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Als Verteidiger dicht am Gegner bleiben, auch wenn er den Ball noch nicht hat, und als Angreifer sich frei laufen."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/schatten-decken.svg"
-bildAlt: "Querformat-Feld, links der Anspieler mit drei Bällen, rechts an der Grundlinie zwei Minitore. Der Angreifer, Spieler 2, läuft sich in der Mitte frei, der schwarze Verteidiger läuft dicht mit. Der Anspieler passt flach zu Spieler 2."
+bildAlt: "Querformat-Feld, links der Anspieler mit drei Bällen, rechts an der Grundlinie zwei Minitore. Der Angreifer A läuft sich in der Mitte frei, der schwarze Verteidiger B läuft dicht mit. Der Anspieler passt flach zu A."
 ---
 
 ## Aufbau

@@ -8,7 +8,7 @@ phase: hauptteil
 ziel: "Im dichten Gewimmel den Ball behalten, schnell entscheiden und ein Hütchentor erdribbeln."
 quelle: "DJK Ottenhofen Trainerteam"
 bild: "/assets/uebungen/chaos-1gegen1.svg"
-bildAlt: "Querformat-Feld 30 mal 20 Meter mit vier Hütchentoren, je zwei an den Längsseiten. Drei Paare spielen gleichzeitig, gelb gegen schwarz, jedes Paar mit eigenem Ball. Links oben dribbelt Spieler 1 auf das nächste Tor, sein Gegner läuft neben ihm her."
+bildAlt: "Querformat-Feld 30 mal 20 Meter mit vier Hütchentoren, je zwei an den Längsseiten. Drei Paare spielen gleichzeitig, gelb gegen schwarz, jedes Paar mit eigenem Ball. Links oben dribbelt das gelbe Kind von Paar 1 auf das nächste Tor, sein Gegner aus Paar 1 läuft neben ihm her."
 ---
 
 ## Aufbau
@@ -16,7 +16,7 @@ bildAlt: "Querformat-Feld 30 mal 20 Meter mit vier Hütchentoren, je zwei an den
 - **Spielfeld:** 30 × 20 m. Für größere Gruppen ein zweites Feld daneben.
 - **Tore:** vier Hütchentore, je 2 m breit, zwei an jeder Längsseite. Jedes Tor ist für alle offen.
 - **Material:** 12 Hütchen (4 Ecken, 8 für die Tore), ein Ball pro Paar, Leibchen in zwei Farben
-- **Spieler:** sechs Kinder im Feld, drei Paare. Jedes Paar hat einen Ball und ein Duell.
+- **Spieler:** sechs Kinder im Feld, drei Paare, nummeriert 1 bis 3, beide Kinder eines Paars tragen dieselbe Nummer. Jedes Paar hat einen Ball und ein Duell.
 - **Wartende:** stehen am Rand, jedes Kind mit eigenem Ball. Bis du dran bist: Ball mit der Sohle hin und her.
 
 ## Ablauf
