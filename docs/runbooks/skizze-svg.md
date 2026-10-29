@@ -40,7 +40,7 @@ Kommentare (`<!-- -->`) vor jeder Gruppe: Feld, Zonen, Tore, Hütchen, Wege, Spi
 | Team B (Spieler) | `<circle r="7" fill="#111" stroke="#fff" stroke-width="1.5"/>` |
 | Torhüter | wie sein Team, `stroke="#fff" stroke-width="3"` |
 | Fänger (Fangspiele) | Team B mit zusätzlichem Ring `<circle r="10" fill="none" stroke="#FFF300" stroke-width="1.5"/>` |
-| Label im Kreis | `<text x="cx" y="cy+3.2" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">1</text>` (auf Team B `fill="#fff"`). Einzige erlaubte Schrift. Das Label ist genau die Bezeichnung, die der Text benutzt: `1`, `A`, `A1`, `V` (Verteidiger), `T` (Torhüter). Zwei Zeichen mit `font-size="7"`. Nennt der Text keine Bezeichnung, bleibt der Kreis leer. |
+| Label im Kreis | `<text x="cx" y="cy+3.2" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">1</text>` (auf Team B `fill="#fff"`). Einzige erlaubte Schrift, außer Zonennummer und Punktwert (siehe unten). Das Label ist genau die Bezeichnung, die der Text benutzt: `1`, `A`, `A1`, `V` (Verteidiger), `T` (Torhüter). Zwei Zeichen mit `font-size="7"`. Nennt der Text keine Bezeichnung, bleibt der Kreis leer. |
 | Ball | `<circle r="3" fill="#fff" stroke="#111" stroke-width="1"/>` |
 | Hütchen | `<polygon points="x,y-4 x+4,y+4 x-4,y+4" fill="#F28C28"/>` (Seite 8, Spitze oben) |
 | Hütchentor / Minitor | zwei Hütchen im Abstand 20 (2 m), oder `<rect width="20" height="4">` weiß `fill-opacity=".25"` `stroke="#fff" stroke-width="2"` |
@@ -55,13 +55,24 @@ Kommentare (`<!-- -->`) vor jeder Gruppe: Feld, Zonen, Tore, Hütchen, Wege, Spi
 | Laufweg Team B | `<path … stroke="#111" stroke-width="2.5" marker-end="url(#pfeil-schwarz)"/>` |
 | Dribbling | Laufweg als Wellenlinie: `d="M x,y q 8,-6 16,0 t 16,0 t 16,0"` in Teamfarbe |
 
-Farben und Maße nicht abwandeln. Keine Verläufe, keine Schatten, keine Emoji, keine Beschriftung von Zonen.
+Farben und Maße nicht abwandeln. Keine Verläufe, keine Schatten, keine Emoji. Zonen nur beschriften, wenn der Text sie mit Nummer nennt (siehe unten).
+
+### Ausnahme: Zonen- und Punktespiele
+
+Nennt der Text Zonen mit Nummer oder vergibt Punkte je nach Passweg (Beispiel `zonen-passspiel`), braucht die Skizze das zum Verstehen. Anlass: Mauricio, 29.10.2026, die Handskizze des Trainers war mit Zonennummern und Punkten lesbarer als die Skizze ohne.
+
+| Element | SVG |
+|---|---|
+| Zonennummer | `<text font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fff" fill-opacity=".55">1</text>` in der äußeren Ecke der Zone, nicht im Weg der Spieler |
+| Punktwert am Pass | `<rect width="26" height="14" rx="3" fill="#fff"/>` mit `<text font-size="10" font-weight="700" fill="#111" text-anchor="middle">+2</text>` mittig auf dem Pass |
+
+Dann dürfen bis zu drei Pässe gezeigt werden, je einer pro Punktstufe. Pfeilspitzen im Browser prüfen: `magick` ignoriert `orient="auto-start-reverse"` und zeigt alle Spitzen nach rechts.
 
 ## Was die Skizze zeigt
 
 - Den Aufbau vollständig (Feld, Tore, Hütchen, Zonen) in den Maßen aus dem Abschnitt „Aufbau" der Übung.
 - Einen Ausschnitt der Spieler: 3 bis 6 je Team, bei Einzelübungen 2 bis 4 Kinder. Nicht alle zwölf.
-- Genau eine Beispielaktion: ein Pass plus ein Laufweg, oder ein Dribbling, oder ein Schuss. Nicht den ganzen Ablauf.
+- Genau eine Beispielaktion: ein Pass plus ein Laufweg, oder ein Dribbling, oder ein Schuss. Nicht den ganzen Ablauf. Ausnahme: Zonen- und Punktespiele (oben), bis zu drei Pässe.
 - Bei Sammlungen (Ideensammlung, Stationen) die Grundform oder eine Station.
 - Bei Parcours den Rundkurs mit den Stationen als Hütchen/Stangen/Leiter und einem Laufweg.
 

@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 260" role="img">
-  <title>Feldskizze Zonen-Passspiel: Feld ohne Tore mit vier Zonen in den Ecken, ein gelber Spieler in der Zone unten links passt quer über das Feld zu einem Mitspieler in der Zone oben rechts, ein weiterer gelber Spieler läuft in die Zone unten rechts</title>
+  <title>Feldskizze Zonen-Passspiel: Feld ohne Tore mit den nummerierten Zonen 1 bis 4 in den Ecken und drei Pässen mit Punktwert, plus 2 in Zone 1, plus 4 von Zone 1 nach Zone 3, plus 10 quer von Zone 3 nach Zone 2</title>
   <defs>
     <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
     <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
@@ -15,6 +15,13 @@
     <rect x="0" y="160" width="80" height="80"/>
     <rect x="220" y="160" width="80" height="80"/>
   </g>
+  <!-- Zonennummern in der aeusseren Ecke jeder Zone -->
+  <g font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fff" fill-opacity=".55">
+    <text x="8" y="30">1</text>
+    <text x="292" y="30" text-anchor="end">2</text>
+    <text x="8" y="232">3</text>
+    <text x="292" y="232" text-anchor="end">4</text>
+  </g>
   <!-- Hütchen: Feldecken und Zonengrenzen, 16 Stück -->
   <g fill="#F28C28">
     <polygon points="0,-4 4,4 -4,4"/><polygon points="300,-4 304,4 296,4"/><polygon points="0,236 4,244 -4,244"/><polygon points="300,236 304,244 296,244"/>
@@ -23,17 +30,24 @@
     <polygon points="0,156 4,164 -4,164"/><polygon points="80,156 84,164 76,164"/><polygon points="80,236 84,244 76,244"/>
     <polygon points="300,156 304,164 296,164"/><polygon points="220,156 224,164 216,164"/><polygon points="220,236 224,244 216,244"/>
   </g>
-  <!-- Wege: Pass quer von Zone unten links nach Zone oben rechts, Laufweg in Zone unten rechts -->
-  <path d="M53,193 L246,48" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
-  <path d="M178,194 Q205,208 232,202" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Wege: drei Paesse mit Punktwert -->
+  <path d="M122,50 L61,50" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M50,59 L50,179" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M58,184 L242,58" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Punktwerte an den Paessen -->
+  <g font-family="Arial, sans-serif" font-size="10" font-weight="700" fill="#111" text-anchor="middle">
+    <rect x="78" y="29" width="26" height="14" rx="3" fill="#fff"/><text x="91" y="39.5">+2</text>
+    <rect x="37" y="113" width="26" height="14" rx="3" fill="#fff"/><text x="50" y="123.5">+4</text>
+    <rect x="135" y="113" width="30" height="14" rx="3" fill="#fff"/><text x="150" y="123.5">+10</text>
+  </g>
   <!-- Team B -->
   <g fill="#111" stroke="#fff" stroke-width="1.5">
-    <circle cx="125" cy="185" r="7"/><circle cx="180" cy="50" r="7"/><circle cx="110" cy="60" r="7"/><circle cx="235" cy="128" r="7"/>
+    <circle cx="105" cy="95" r="7"/><circle cx="190" cy="30" r="7"/><circle cx="130" cy="195" r="7"/><circle cx="235" cy="185" r="7"/>
   </g>
-  <!-- Team A -->
+  <!-- Team A: Passgeber aussen, je ein Mitspieler in Zone 1, 3 und 2 -->
   <g fill="#FFF300" stroke="#111" stroke-width="1.5">
-    <circle cx="45" cy="200" r="7"/><circle cx="255" cy="40" r="7"/><circle cx="115" cy="95" r="7"/><circle cx="170" cy="190" r="7"/>
+    <circle cx="130" cy="50" r="7"/><circle cx="50" cy="50" r="7"/><circle cx="50" cy="190" r="7"/><circle cx="250" cy="50" r="7"/>
   </g>
   <!-- Ball -->
-  <circle cx="54" cy="194" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+  <circle cx="123" cy="44" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
 </svg>
