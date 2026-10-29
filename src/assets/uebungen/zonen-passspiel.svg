@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 260" role="img">
+  <title>Feldskizze Zonen-Passspiel: Feld ohne Tore mit vier Zonen in den Ecken, ein gelber Spieler in der Zone unten links passt quer über das Feld zu einem Mitspieler in der Zone oben rechts, ein weiterer gelber Spieler läuft in die Zone unten rechts</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="260" fill="#2E7D32"/>
+  <!-- Feld 30 x 24 m -->
+  <rect x="0" y="0" width="300" height="240" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Zonen 8 x 8 m in den Ecken -->
+  <g fill="#fff" fill-opacity=".12" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" stroke-opacity=".8">
+    <rect x="0" y="0" width="80" height="80"/>
+    <rect x="220" y="0" width="80" height="80"/>
+    <rect x="0" y="160" width="80" height="80"/>
+    <rect x="220" y="160" width="80" height="80"/>
+  </g>
+  <!-- Hütchen: Feldecken und Zonengrenzen, 16 Stück -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="300,-4 304,4 296,4"/><polygon points="0,236 4,244 -4,244"/><polygon points="300,236 304,244 296,244"/>
+    <polygon points="80,-4 84,4 76,4"/><polygon points="0,76 4,84 -4,84"/><polygon points="80,76 84,84 76,84"/>
+    <polygon points="220,-4 224,4 216,4"/><polygon points="300,76 304,84 296,84"/><polygon points="220,76 224,84 216,84"/>
+    <polygon points="0,156 4,164 -4,164"/><polygon points="80,156 84,164 76,164"/><polygon points="80,236 84,244 76,244"/>
+    <polygon points="300,156 304,164 296,164"/><polygon points="220,156 224,164 216,164"/><polygon points="220,236 224,244 216,244"/>
+  </g>
+  <!-- Wege: Pass quer von Zone unten links nach Zone oben rechts, Laufweg in Zone unten rechts -->
+  <path d="M53,193 L246,48" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M178,194 Q205,208 232,202" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Team B -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="125" cy="185" r="7"/><circle cx="180" cy="50" r="7"/><circle cx="110" cy="60" r="7"/><circle cx="235" cy="128" r="7"/>
+  </g>
+  <!-- Team A -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="45" cy="200" r="7"/><circle cx="255" cy="40" r="7"/><circle cx="115" cy="95" r="7"/><circle cx="170" cy="190" r="7"/>
+  </g>
+  <!-- Ball -->
+  <circle cx="54" cy="194" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
