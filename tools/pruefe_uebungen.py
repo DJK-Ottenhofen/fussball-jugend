@@ -82,7 +82,8 @@ def pruefe(slug):
         if 'role="img"' not in s or "<title>" not in s:
             befunde.append(f"{slug}: SVG ohne role=img oder title")
         inhalte = "".join(re.findall(r"<text[^>]*>([^<]*)</text>", s))
-        if inhalte and not re.fullmatch(r"[A-Z0-9\s]*", inhalte):
+        # "+" für Punktwerte an Pässen in Zonen- und Punktespielen (Runbook skizze-svg)
+        if inhalte and not re.fullmatch(r"[A-Z0-9+\s]*", inhalte):
             befunde.append(f"{slug}: SVG enthält Text außer Spieler-Labels")
     alt = alt_text(slug)
     # Vergleich nur gegen Fremdfassungen; eigene Fassungen auf main dürfen fortgeschrieben werden
