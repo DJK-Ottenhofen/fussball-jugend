@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 320 290" role="img">
+  <title>Feldskizze Pass in den Lauf: großes Tor oben mit Torhüter T, Hütchen links und rechts auf der Torauslinie, mittig Hütchen 20 und 25 Meter vor dem Tor, A sprintet in die rechte Ecke, B spielt den Ball in seinen Lauf</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="320" height="290" fill="#2E7D32"/>
+  <!-- Feld 30 x 27 m, Ausschnitt vor dem Tor -->
+  <rect x="0" y="0" width="300" height="270" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Tor 5 m -->
+  <rect x="125" y="-7" width="50" height="7" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <!-- Hütchen: Ecken auf der Torauslinie, 20 m und 25 m vor dem Tor -->
+  <g fill="#F28C28">
+    <polygon points="45,-4 49,4 41,4"/><polygon points="255,-4 259,4 251,4"/>
+    <polygon points="150,196 154,204 146,204"/><polygon points="150,246 154,254 146,254"/>
+  </g>
+  <!-- Wege: Lauf von A in die rechte Ecke, Pass von B in den Lauf -->
+  <path d="M170,245 Q268,190 256,22" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M168,192 L232,58" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Torhüter -->
+  <circle cx="150" cy="9" r="7" fill="#FFF300" stroke="#fff" stroke-width="3"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="163" cy="250" r="7"/><circle cx="163" cy="200" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle">
+    <text x="150" y="12.2">T</text><text x="163" y="253.2">A</text><text x="163" y="203.2">B</text>
+  </g>
+  <!-- Ball -->
+  <circle cx="170" cy="194" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

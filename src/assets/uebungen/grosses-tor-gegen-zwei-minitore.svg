@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 270 270" role="img">
+  <title>Feldskizze Großes Tor gegen zwei Minitore: Feld 25 mal 25 Meter, links großes Tor mit gelbem Torhüter T, rechts zwei Minitore, ein gelber Spieler passt in den Lauf eines Mitspielers Richtung unteres Minitor</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="270" height="270" fill="#2E7D32"/>
+  <!-- Feld 25 x 25 m -->
+  <rect x="0" y="0" width="250" height="250" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <line x1="125" y1="0" x2="125" y2="250" stroke="#fff" stroke-width="1" stroke-dasharray="3 4" opacity=".8"/>
+  <!-- Tore: links groß 5 m, rechts zwei Minitore -->
+  <rect x="-7" y="100" width="7" height="50" fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2"/>
+  <g fill="#fff" fill-opacity=".25" stroke="#fff" stroke-width="2">
+    <rect x="250" y="55" width="4" height="20"/><rect x="250" y="175" width="4" height="20"/>
+  </g>
+  <!-- Hütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="250,-4 254,4 246,4"/><polygon points="0,246 4,254 -4,254"/><polygon points="250,246 254,254 246,254"/>
+  </g>
+  <!-- Wege: Pass in den Lauf -->
+  <path d="M178,199 L204,189" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <path d="M138,115 L222,176" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <!-- Torhüter Gelb -->
+  <circle cx="9" cy="125" r="7" fill="#FFF300" stroke="#fff" stroke-width="3"/>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="9" y="128.2">T</text></g>
+  <!-- Spieler Gelb, greift die Minitore an -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5">
+    <circle cx="65" cy="60" r="7"/><circle cx="65" cy="190" r="7"/><circle cx="130" cy="110" r="7"/><circle cx="170" cy="202" r="7"/>
+  </g>
+  <!-- Spieler Schwarz, greift das große Tor an -->
+  <g fill="#111" stroke="#fff" stroke-width="1.5">
+    <circle cx="105" cy="45" r="7"/><circle cx="95" cy="160" r="7"/><circle cx="160" cy="150" r="7"/><circle cx="200" cy="85" r="7"/><circle cx="225" cy="215" r="7"/>
+  </g>
+  <!-- Ball -->
+  <circle cx="137" cy="116" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>

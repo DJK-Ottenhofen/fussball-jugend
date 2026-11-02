@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 80 80" role="img">
+  <title>Feldskizze Rondo auf vier Hütchen: Quadrat 6 mal 6 Meter, drei Außenspieler an drei Hütchen, oben rechts ist frei, Verteidiger V in der Mitte, Spieler 1 passt zu 2, Spieler 3 läuft zum freien Hütchen</title>
+  <defs>
+    <marker id="pfeil-weiss" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#fff"/></marker>
+    <marker id="pfeil-gelb" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#FFF300"/></marker>
+    <marker id="pfeil-schwarz" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#111"/></marker>
+  </defs>
+  <rect x="-10" y="-10" width="80" height="80" fill="#2E7D32"/>
+  <!-- Feld 6 x 6 m -->
+  <rect x="0" y="0" width="60" height="60" fill="none" stroke="#fff" stroke-width="1.5"/>
+  <!-- Hütchen -->
+  <g fill="#F28C28">
+    <polygon points="0,-4 4,4 -4,4"/><polygon points="60,-4 64,4 56,4"/><polygon points="0,56 4,64 -4,64"/><polygon points="60,56 64,64 56,64"/>
+  </g>
+  <!-- Wege -->
+  <path d="M19,50 L42,51" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="6 4" marker-end="url(#pfeil-weiss)"/>
+  <path d="M16,7 L43,7" fill="none" stroke="#FFF300" stroke-width="2.5" marker-end="url(#pfeil-gelb)"/>
+  <!-- Spieler -->
+  <g fill="#FFF300" stroke="#111" stroke-width="1.5"><circle cx="7" cy="52" r="7"/><circle cx="52" cy="52" r="7"/><circle cx="7" cy="7" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#111" text-anchor="middle"><text x="7" y="55.2">1</text><text x="52" y="55.2">2</text><text x="7" y="10.2">3</text></g>
+  <g fill="#111" stroke="#fff" stroke-width="1.5"><circle cx="30" cy="28" r="7"/></g>
+  <g font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#fff" text-anchor="middle"><text x="30" y="31.2">V</text></g>
+  <!-- Ball -->
+  <circle cx="16" cy="47" r="3" fill="#fff" stroke="#111" stroke-width="1"/>
+</svg>
